@@ -1,0 +1,8255 @@
+{
+  "Bulbasaur": {
+    "#": 1,
+    "Gamepress": 1,
+    "Bulbapedia": "Bulbasaur",
+    "Serebii": "Bulbasaur",
+    "Smogon": "Bulbasaur"
+  },
+  "Ivysaur": {
+    "#": 2,
+    "Gamepress": 2,
+    "Bulbapedia": "Ivysaur",
+    "Serebii": "Ivysaur",
+    "Smogon": "Ivysaur"
+  },
+  "Venusaur": {
+    "#": 3,
+    "Gamepress": 3,
+    "Bulbapedia": "Venusaur",
+    "Serebii": "Venusaur",
+    "Smogon": "Venusaur"
+  },
+  "Mega Venusaur": {
+    "#": 3,
+    "Gamepress": "3-mega",
+    "Bulbapedia": "Venusaur",
+    "Serebii": "Venusaur",
+    "Smogon": "Venusaur"
+  },
+  "Charmander": {
+    "#": 4,
+    "Gamepress": 4,
+    "Bulbapedia": "Charmander",
+    "Serebii": "Charmander",
+    "Smogon": "Charmander"
+  },
+  "Charmeleon": {
+    "#": 5,
+    "Gamepress": 5,
+    "Bulbapedia": "Charmeleon",
+    "Serebii": "Charmeleon",
+    "Smogon": "Charmeleon"
+  },
+  "Charizard": {
+    "#": 6,
+    "Gamepress": 6,
+    "Bulbapedia": "Charizard",
+    "Serebii": "Charizard",
+    "Smogon": "Charizard"
+  },
+  "Mega Charizard X": {
+    "#": 6,
+    "Gamepress": "6-megaX",
+    "Bulbapedia": "Charizard",
+    "Serebii": "Charizard",
+    "Smogon": "Charizard"
+  },
+  "Mega Charizard Y": {
+    "#": 6,
+    "Gamepress": "6-megaY",
+    "Bulbapedia": "Charizard",
+    "Serebii": "Charizard",
+    "Smogon": "Charizard"
+  },
+  "Squirtle": {
+    "#": 7,
+    "Gamepress": 7,
+    "Bulbapedia": "Squirtle",
+    "Serebii": "Squirtle",
+    "Smogon": "Squirtle"
+  },
+  "Wartortle": {
+    "#": 8,
+    "Gamepress": 8,
+    "Bulbapedia": "Wartortle",
+    "Serebii": "Wartortle",
+    "Smogon": "Wartortle"
+  },
+  "Blastoise": {
+    "#": 9,
+    "Gamepress": 9,
+    "Bulbapedia": "Blastoise",
+    "Serebii": "Blastoise",
+    "Smogon": "Blastoise"
+  },
+  "Mega Blastoise": {
+    "#": 9,
+    "Gamepress": "9-mega",
+    "Bulbapedia": "Blastoise",
+    "Serebii": "Blastoise",
+    "Smogon": "Blastoise"
+  },
+  "Caterpie": {
+    "#": 10,
+    "Gamepress": 10,
+    "Bulbapedia": "Caterpie",
+    "Serebii": "Caterpie",
+    "Smogon": "Caterpie"
+  },
+  "Metapod": {
+    "#": 11,
+    "Gamepress": 11,
+    "Bulbapedia": "Metapod",
+    "Serebii": "Metapod",
+    "Smogon": "Metapod"
+  },
+  "Butterfree": {
+    "#": 12,
+    "Gamepress": 12,
+    "Bulbapedia": "Butterfree",
+    "Serebii": "Butterfree",
+    "Smogon": "Butterfree"
+  },
+  "Weedle": {
+    "#": 13,
+    "Gamepress": 13,
+    "Bulbapedia": "Weedle",
+    "Serebii": "Weedle",
+    "Smogon": "Weedle"
+  },
+  "Kakuna": {
+    "#": 14,
+    "Gamepress": 14,
+    "Bulbapedia": "Kakuna",
+    "Serebii": "Kakuna",
+    "Smogon": "Kakuna"
+  },
+  "Beedrill": {
+    "#": 15,
+    "Gamepress": 15,
+    "Bulbapedia": "Beedrill",
+    "Serebii": "Beedrill",
+    "Smogon": "Beedrill"
+  },
+  "Mega Beedrill": {
+    "#": 15,
+    "Gamepress": "15-mega",
+    "Bulbapedia": "Beedrill",
+    "Serebii": "Beedrill",
+    "Smogon": "Beedrill"
+  },
+  "Pidgey": {
+    "#": 16,
+    "Gamepress": 16,
+    "Bulbapedia": "Pidgey",
+    "Serebii": "Pidgey",
+    "Smogon": "Pidgey"
+  },
+  "Pidgeotto": {
+    "#": 17,
+    "Gamepress": 17,
+    "Bulbapedia": "Pidgeotto",
+    "Serebii": "Pidgeotto",
+    "Smogon": "Pidgeotto"
+  },
+  "Pidgeot": {
+    "#": 18,
+    "Gamepress": 18,
+    "Bulbapedia": "Pidgeot",
+    "Serebii": "Pidgeot",
+    "Smogon": "Pidgeot"
+  },
+  "Mega Pidgeot": {
+    "#": 18,
+    "Gamepress": "18-mega",
+    "Bulbapedia": "Pidgeot",
+    "Serebii": "Pidgeot",
+    "Smogon": "Pidgeot"
+  },
+  "Rattata - Alolan": {
+    "#": 19,
+    "Gamepress": 19,
+    "Bulbapedia": "Rattata",
+    "Serebii": "Rattata",
+    "Smogon": "Rattata"
+  },
+  "Rattata": {
+    "#": 19,
+    "Gamepress": "19-alolan",
+    "Bulbapedia": "Rattata",
+    "Serebii": "Rattata",
+    "Smogon": "Rattata-alola"
+  },
+  "Raticate": {
+    "#": 20,
+    "Gamepress": 20,
+    "Bulbapedia": "Raticate",
+    "Serebii": "Raticate",
+    "Smogon": "Raticate"
+  },
+  "Raticate - Alolan": {
+    "#": 20,
+    "Gamepress": "20-alolan",
+    "Bulbapedia": "Raticate",
+    "Serebii": "Raticate",
+    "Smogon": "Raticate-alola"
+  },
+  "Spearow": {
+    "#": 21,
+    "Gamepress": 21,
+    "Bulbapedia": "Spearow",
+    "Serebii": "Spearow",
+    "Smogon": "Spearow"
+  },
+  "Fearow": {
+    "#": 22,
+    "Gamepress": 22,
+    "Bulbapedia": "Fearow",
+    "Serebii": "Fearow",
+    "Smogon": "Fearow"
+  },
+  "Ekans": {
+    "#": 23,
+    "Gamepress": 23,
+    "Bulbapedia": "Ekans",
+    "Serebii": "Ekans",
+    "Smogon": "Ekans"
+  },
+  "Arbok": {
+    "#": 24,
+    "Gamepress": 24,
+    "Bulbapedia": "Arbok",
+    "Serebii": "Arbok",
+    "Smogon": "Arbok"
+  },
+  "Pikachu": {
+    "#": 25,
+    "Gamepress": 25,
+    "Bulbapedia": "Pikachu",
+    "Serebii": "Pikachu",
+    "Smogon": "Pikachu"
+  },
+  "Raichu": {
+    "#": 26,
+    "Gamepress": 26,
+    "Bulbapedia": "Raichu",
+    "Serebii": "Raichu",
+    "Smogon": "Raichu"
+  },
+  "Raichu - Alolan": {
+    "#": 26,
+    "Gamepress": "26-alolan",
+    "Bulbapedia": "Raichu",
+    "Serebii": "Raichu",
+    "Smogon": "Raichu-alola"
+  },
+  "Sandshrew": {
+    "#": 27,
+    "Gamepress": 27,
+    "Bulbapedia": "Sandshrew",
+    "Serebii": "Sandshrew",
+    "Smogon": "Sandshrew"
+  },
+  "Sandshrew - Alolan": {
+    "#": 27,
+    "Gamepress": "27-alolan",
+    "Bulbapedia": "Sandshrew",
+    "Serebii": "Sandshrew",
+    "Smogon": "Sandshrew-alola"
+  },
+  "Sandslash": {
+    "#": 28,
+    "Gamepress": 28,
+    "Bulbapedia": "Sandslash",
+    "Serebii": "Sandslash",
+    "Smogon": "Sandslash"
+  },
+  "Sandslash - Alolan": {
+    "#": 28,
+    "Gamepress": "28-alolan",
+    "Bulbapedia": "Sandslash",
+    "Serebii": "Sandslash",
+    "Smogon": "Sandslash-alola"
+  },
+  "Nidoran♀": {
+    "#": 29,
+    "Gamepress": 29,
+    "Bulbapedia": "Nidoran♀",
+    "Serebii": "Nidoran♀",
+    "Smogon": "Nidoran♀"
+  },
+  "Nidorina": {
+    "#": 30,
+    "Gamepress": 30,
+    "Bulbapedia": "Nidorina",
+    "Serebii": "Nidorina",
+    "Smogon": "Nidorina"
+  },
+  "Nidoqueen": {
+    "#": 31,
+    "Gamepress": 31,
+    "Bulbapedia": "Nidoqueen",
+    "Serebii": "Nidoqueen",
+    "Smogon": "Nidoqueen"
+  },
+  "Nidoran♂": {
+    "#": 32,
+    "Gamepress": 32,
+    "Bulbapedia": "Nidoran♂",
+    "Serebii": "Nidoran♂",
+    "Smogon": "Nidoran♂"
+  },
+  "Nidorino": {
+    "#": 33,
+    "Gamepress": 33,
+    "Bulbapedia": "Nidorino",
+    "Serebii": "Nidorino",
+    "Smogon": "Nidorino"
+  },
+  "Nidoking": {
+    "#": 34,
+    "Gamepress": 34,
+    "Bulbapedia": "Nidoking",
+    "Serebii": "Nidoking",
+    "Smogon": "Nidoking"
+  },
+  "Clefairy": {
+    "#": 35,
+    "Gamepress": 35,
+    "Bulbapedia": "Clefairy",
+    "Serebii": "Clefairy",
+    "Smogon": "Clefairy"
+  },
+  "Clefable": {
+    "#": 36,
+    "Gamepress": 36,
+    "Bulbapedia": "Clefable",
+    "Serebii": "Clefable",
+    "Smogon": "Clefable"
+  },
+  "Vulpix": {
+    "#": 37,
+    "Gamepress": 37,
+    "Bulbapedia": "Vulpix",
+    "Serebii": "Vulpix",
+    "Smogon": "Vulpix"
+  },
+  "Vulpix - Alolan": {
+    "#": 37,
+    "Gamepress": "37-alolan",
+    "Bulbapedia": "Vulpix",
+    "Serebii": "Vulpix",
+    "Smogon": "Vulpix-alola"
+  },
+  "Ninetales": {
+    "#": 38,
+    "Gamepress": 38,
+    "Bulbapedia": "Ninetales",
+    "Serebii": "Ninetales",
+    "Smogon": "Ninetales"
+  },
+  "Ninetales - Alolan": {
+    "#": 38,
+    "Gamepress": "38-alolan",
+    "Bulbapedia": "Ninetales",
+    "Serebii": "Ninetales",
+    "Smogon": "Ninetales-alola"
+  },
+  "Jigglypuff": {
+    "#": 39,
+    "Gamepress": 39,
+    "Bulbapedia": "Jigglypuff",
+    "Serebii": "Jigglypuff",
+    "Smogon": "Jigglypuff"
+  },
+  "Wigglytuff": {
+    "#": 40,
+    "Gamepress": 40,
+    "Bulbapedia": "Wigglytuff",
+    "Serebii": "Wigglytuff",
+    "Smogon": "Wigglytuff"
+  },
+  "Zubat": {
+    "#": 41,
+    "Gamepress": 41,
+    "Bulbapedia": "Zubat",
+    "Serebii": "Zubat",
+    "Smogon": "Zubat"
+  },
+  "Golbat": {
+    "#": 42,
+    "Gamepress": 42,
+    "Bulbapedia": "Golbat",
+    "Serebii": "Golbat",
+    "Smogon": "Golbat"
+  },
+  "Oddish": {
+    "#": 43,
+    "Gamepress": 43,
+    "Bulbapedia": "Oddish",
+    "Serebii": "Oddish",
+    "Smogon": "Oddish"
+  },
+  "Gloom": {
+    "#": 44,
+    "Gamepress": 44,
+    "Bulbapedia": "Gloom",
+    "Serebii": "Gloom",
+    "Smogon": "Gloom"
+  },
+  "Vileplume": {
+    "#": 45,
+    "Gamepress": 45,
+    "Bulbapedia": "Vileplume",
+    "Serebii": "Vileplume",
+    "Smogon": "Vileplume"
+  },
+  "Paras": {
+    "#": 46,
+    "Gamepress": 46,
+    "Bulbapedia": "Paras",
+    "Serebii": "Paras",
+    "Smogon": "Paras"
+  },
+  "Parasect": {
+    "#": 47,
+    "Gamepress": 47,
+    "Bulbapedia": "Parasect",
+    "Serebii": "Parasect",
+    "Smogon": "Parasect"
+  },
+  "Venonat": {
+    "#": 48,
+    "Gamepress": 48,
+    "Bulbapedia": "Venonat",
+    "Serebii": "Venonat",
+    "Smogon": "Venonat"
+  },
+  "Venomoth": {
+    "#": 49,
+    "Gamepress": 49,
+    "Bulbapedia": "Venomoth",
+    "Serebii": "Venomoth",
+    "Smogon": "Venomoth"
+  },
+  "Diglett": {
+    "#": 50,
+    "Gamepress": 50,
+    "Bulbapedia": "Diglett",
+    "Serebii": "Diglett",
+    "Smogon": "Diglett"
+  },
+  "Diglett - Alolan": {
+    "#": 50,
+    "Gamepress": "50-alolan",
+    "Bulbapedia": "Diglett",
+    "Serebii": "Diglett",
+    "Smogon": "Diglett-alola"
+  },
+  "Dugtrio": {
+    "#": 51,
+    "Gamepress": 51,
+    "Bulbapedia": "Dugtrio",
+    "Serebii": "Dugtrio",
+    "Smogon": "Dugtrio"
+  },
+  "Dugtrio - Alolan": {
+    "#": 51,
+    "Gamepress": "51-alolan",
+    "Bulbapedia": "Dugtrio",
+    "Serebii": "Dugtrio",
+    "Smogon": "Dugtrio-alola"
+  },
+  "Meowth": {
+    "#": 52,
+    "Gamepress": 52,
+    "Bulbapedia": "Meowth",
+    "Serebii": "Meowth",
+    "Smogon": "Meowth"
+  },
+  "Meowth - Galarian": {
+    "#": 52,
+    "Gamepress": "52-galarian",
+    "Bulbapedia": "Meowth",
+    "Serebii": "Meowth",
+    "Smogon": "Meowth-galar"
+  },
+  "Meowth - Alolan": {
+    "#": 52,
+    "Gamepress": "52-alolan",
+    "Bulbapedia": "Meowth",
+    "Serebii": "Meowth",
+    "Smogon": "Meowth-galar"
+  },
+  "Persian": {
+    "#": 53,
+    "Gamepress": 53,
+    "Bulbapedia": "Persian",
+    "Serebii": "Persian",
+    "Smogon": "Persian"
+  },
+  "Persian - Alolan": {
+    "#": 53,
+    "Gamepress": "53-alolan",
+    "Bulbapedia": "Persian",
+    "Serebii": "Persian",
+    "Smogon": "Persian-alola"
+  },
+  "Psyduck": {
+    "#": 54,
+    "Gamepress": 54,
+    "Bulbapedia": "Psyduck",
+    "Serebii": "Psyduck",
+    "Smogon": "Psyduck"
+  },
+  "Golduck": {
+    "#": 55,
+    "Gamepress": 55,
+    "Bulbapedia": "Golduck",
+    "Serebii": "Golduck",
+    "Smogon": "Golduck"
+  },
+  "Mankey": {
+    "#": 56,
+    "Gamepress": 56,
+    "Bulbapedia": "Mankey",
+    "Serebii": "Mankey",
+    "Smogon": "Mankey"
+  },
+  "Primeape": {
+    "#": 57,
+    "Gamepress": 57,
+    "Bulbapedia": "Primeape",
+    "Serebii": "Primeape",
+    "Smogon": "Primeape"
+  },
+  "Growlithe": {
+    "#": 58,
+    "Gamepress": 58,
+    "Bulbapedia": "Growlithe",
+    "Serebii": "Growlithe",
+    "Smogon": "Growlithe"
+  },
+  "Growlithe - Hisuian Forme": {
+    "#": 58,
+    "Gamepress": "58-hisuian",
+    "Bulbapedia": "Growlithe",
+    "Serebii": "Growlithe",
+    "Smogon": "Growlithe-hisui"
+  },
+  "Arcanine": {
+    "#": 59,
+    "Gamepress": 59,
+    "Bulbapedia": "Arcanine",
+    "Serebii": "Arcanine",
+    "Smogon": "Arcanine"
+  },
+  "Arcanine - Hisuian Forme": {
+    "#": 59,
+    "Gamepress": "59-hisuian",
+    "Bulbapedia": "Arcanine",
+    "Serebii": "Arcanine",
+    "Smogon": "Arcanine-hisui"
+  },
+  "Poliwag": {
+    "#": 60,
+    "Gamepress": 60,
+    "Bulbapedia": "Poliwag",
+    "Serebii": "Poliwag",
+    "Smogon": "Poliwag"
+  },
+  "Poliwhirl": {
+    "#": 61,
+    "Gamepress": 61,
+    "Bulbapedia": "Poliwhirl",
+    "Serebii": "Poliwhirl",
+    "Smogon": "Poliwhirl"
+  },
+  "Poliwrath": {
+    "#": 62,
+    "Gamepress": 62,
+    "Bulbapedia": "Poliwrath",
+    "Serebii": "Poliwrath",
+    "Smogon": "Poliwrath"
+  },
+  "Abra": {
+    "#": 63,
+    "Gamepress": 63,
+    "Bulbapedia": "Abra",
+    "Serebii": "Abra",
+    "Smogon": "Abra"
+  },
+  "Kadabra": {
+    "#": 64,
+    "Gamepress": 64,
+    "Bulbapedia": "Kadabra",
+    "Serebii": "Kadabra",
+    "Smogon": "Kadabra"
+  },
+  "Alakazam": {
+    "#": 65,
+    "Gamepress": 65,
+    "Bulbapedia": "Alakazam",
+    "Serebii": "Alakazam",
+    "Smogon": "Alakazam"
+  },
+  "Mega Alakazam": {
+    "#": 65,
+    "Gamepress": "65-mega",
+    "Bulbapedia": "Alakazam",
+    "Serebii": "Alakazam",
+    "Smogon": "Alakazam"
+  },
+  "Machop": {
+    "#": 66,
+    "Gamepress": 66,
+    "Bulbapedia": "Machop",
+    "Serebii": "Machop",
+    "Smogon": "Machop"
+  },
+  "Machoke": {
+    "#": 67,
+    "Gamepress": 67,
+    "Bulbapedia": "Machoke",
+    "Serebii": "Machoke",
+    "Smogon": "Machoke"
+  },
+  "Machamp": {
+    "#": 68,
+    "Gamepress": 68,
+    "Bulbapedia": "Machamp",
+    "Serebii": "Machamp",
+    "Smogon": "Machamp"
+  },
+  "Bellsprout": {
+    "#": 69,
+    "Gamepress": 69,
+    "Bulbapedia": "Bellsprout",
+    "Serebii": "Bellsprout",
+    "Smogon": "Bellsprout"
+  },
+  "Weepinbell": {
+    "#": 70,
+    "Gamepress": 70,
+    "Bulbapedia": "Weepinbell",
+    "Serebii": "Weepinbell",
+    "Smogon": "Weepinbell"
+  },
+  "Victreebel": {
+    "#": 71,
+    "Gamepress": 71,
+    "Bulbapedia": "Victreebel",
+    "Serebii": "Victreebel",
+    "Smogon": "Victreebel"
+  },
+  "Tentacool": {
+    "#": 72,
+    "Gamepress": 72,
+    "Bulbapedia": "Tentacool",
+    "Serebii": "Tentacool",
+    "Smogon": "Tentacool"
+  },
+  "Tentacruel": {
+    "#": 73,
+    "Gamepress": 73,
+    "Bulbapedia": "Tentacruel",
+    "Serebii": "Tentacruel",
+    "Smogon": "Tentacruel"
+  },
+  "Geodude": {
+    "#": 74,
+    "Gamepress": 74,
+    "Bulbapedia": "Geodude",
+    "Serebii": "Geodude",
+    "Smogon": "Geodude"
+  },
+  "Geodude - Alolan": {
+    "#": 74,
+    "Gamepress": "74-alolan",
+    "Bulbapedia": "Geodude",
+    "Serebii": "Geodude",
+    "Smogon": "Geodude-alolan"
+  },
+  "Graveler": {
+    "#": 75,
+    "Gamepress": 75,
+    "Bulbapedia": "Graveler",
+    "Serebii": "Graveler",
+    "Smogon": "Graveler"
+  },
+  "Graveler - Alolan": {
+    "#": 75,
+    "Gamepress": "75-alolan",
+    "Bulbapedia": "Graveler",
+    "Serebii": "Graveler",
+    "Smogon": "Graveler-alolan"
+  },
+  "Golem": {
+    "#": 76,
+    "Gamepress": 76,
+    "Bulbapedia": "Golem",
+    "Serebii": "Golem",
+    "Smogon": "Golem"
+  },
+  "Golem - Alolan": {
+    "#": 76,
+    "Gamepress": "76-alolan",
+    "Bulbapedia": "Golem",
+    "Serebii": "Golem",
+    "Smogon": "Golem-alolan"
+  },
+  "Ponyta": {
+    "#": 77,
+    "Gamepress": 77,
+    "Bulbapedia": "Ponyta",
+    "Serebii": "Ponyta",
+    "Smogon": "Ponyta"
+  },
+  "Ponyta - Galarian": {
+    "#": 77,
+    "Gamepress": "77-galarian",
+    "Bulbapedia": "Ponyta",
+    "Serebii": "Ponyta",
+    "Smogon": "Ponyta-galar"
+  },
+  "Rapidash": {
+    "#": 78,
+    "Gamepress": 78,
+    "Bulbapedia": "Rapidash",
+    "Serebii": "Rapidash",
+    "Smogon": "Rapidash"
+  },
+  "Rapidash - Galarian": {
+    "#": 78,
+    "Gamepress": "78-galarian",
+    "Bulbapedia": "Rapidash",
+    "Serebii": "Rapidash",
+    "Smogon": "Rapidash-galar"
+  },
+  "Slowpoke": {
+    "#": 79,
+    "Gamepress": 79,
+    "Bulbapedia": "Slowpoke",
+    "Serebii": "Slowpoke",
+    "Smogon": "Slowpoke"
+  },
+  "Slowpoke - Galarian": {
+    "#": 79,
+    "Gamepress": "79-galarian",
+    "Bulbapedia": "Slowpoke",
+    "Serebii": "Slowpoke",
+    "Smogon": "Slowpoke"
+  },
+  "Slowbro": {
+    "#": 80,
+    "Gamepress": 80,
+    "Bulbapedia": "Slowbro",
+    "Serebii": "Slowbro",
+    "Smogon": "Slowbro"
+  },
+  "Slowbro - Galarian": {
+    "#": 80,
+    "Gamepress": "80-galarian",
+    "Bulbapedia": "Slowbro",
+    "Serebii": "Slowbro",
+    "Smogon": "Slowbro-galar"
+  },
+  "Mega Slowbro": {
+    "#": 80,
+    "Gamepress": "80-mega",
+    "Bulbapedia": "Slowbro",
+    "Serebii": "Slowbro",
+    "Smogon": "Slowbro"
+  },
+  "Magnemite": {
+    "#": 81,
+    "Gamepress": 81,
+    "Bulbapedia": "Magnemite",
+    "Serebii": "Magnemite",
+    "Smogon": "Magnemite"
+  },
+  "Magneton": {
+    "#": 82,
+    "Gamepress": 82,
+    "Bulbapedia": "Magneton",
+    "Serebii": "Magneton",
+    "Smogon": "Magneton"
+  },
+  "Farfetch'd": {
+    "#": 83,
+    "Gamepress": 83,
+    "Bulbapedia": "Farfetch'd",
+    "Serebii": "Farfetch'd",
+    "Smogon": "Farfetch'd"
+  },
+  "Farfetch'd - Galarian": {
+    "#": 83,
+    "Gamepress": "83-galarian",
+    "Bulbapedia": "Farfetch'd",
+    "Serebii": "Farfetch'd",
+    "Smogon": "Farfetch'd-galar"
+  },
+  "Doduo": {
+    "#": 84,
+    "Gamepress": 84,
+    "Bulbapedia": "Doduo",
+    "Serebii": "Doduo",
+    "Smogon": "Doduo"
+  },
+  "Dodrio": {
+    "#": 85,
+    "Gamepress": 85,
+    "Bulbapedia": "Dodrio",
+    "Serebii": "Dodrio",
+    "Smogon": "Dodrio"
+  },
+  "Seel": {
+    "#": 86,
+    "Gamepress": 86,
+    "Bulbapedia": "Seel",
+    "Serebii": "Seel",
+    "Smogon": "Seel"
+  },
+  "Dewgong": {
+    "#": 87,
+    "Gamepress": 87,
+    "Bulbapedia": "Dewgong",
+    "Serebii": "Dewgong",
+    "Smogon": "Dewgong"
+  },
+  "Grimer - Alolan": {
+    "#": 88,
+    "Gamepress": "88-alolan",
+    "Bulbapedia": "Grimer",
+    "Serebii": "Grimer",
+    "Smogon": "Grimer-alola"
+  },
+  "Grimer": {
+    "#": 88,
+    "Gamepress": 88,
+    "Bulbapedia": "Grimer",
+    "Serebii": "Grimer",
+    "Smogon": "Grimer"
+  },
+  "Muk": {
+    "#": 89,
+    "Gamepress": 89,
+    "Bulbapedia": "Muk",
+    "Serebii": "Muk",
+    "Smogon": "Muk"
+  },
+  "Muk - Alolan": {
+    "#": 89,
+    "Gamepress": "89-alolan",
+    "Bulbapedia": "Muk",
+    "Serebii": "Muk",
+    "Smogon": "Muk-alola"
+  },
+  "Shellder": {
+    "#": 90,
+    "Gamepress": 90,
+    "Bulbapedia": "Shellder",
+    "Serebii": "Shellder",
+    "Smogon": "Shellder"
+  },
+  "Cloyster": {
+    "#": 91,
+    "Gamepress": 91,
+    "Bulbapedia": "Cloyster",
+    "Serebii": "Cloyster",
+    "Smogon": "Cloyster"
+  },
+  "Gastly": {
+    "#": 92,
+    "Gamepress": 92,
+    "Bulbapedia": "Gastly",
+    "Serebii": "Gastly",
+    "Smogon": "Gastly"
+  },
+  "Haunter": {
+    "#": 93,
+    "Gamepress": 93,
+    "Bulbapedia": "Haunter",
+    "Serebii": "Haunter",
+    "Smogon": "Haunter"
+  },
+  "Gengar": {
+    "#": 94,
+    "Gamepress": 94,
+    "Bulbapedia": "Gengar",
+    "Serebii": "Gengar",
+    "Smogon": "Gengar"
+  },
+  "Mega Gengar": {
+    "#": 94,
+    "Gamepress": "94-mega",
+    "Bulbapedia": "Gengar",
+    "Serebii": "Gengar",
+    "Smogon": "Gengar"
+  },
+  "Onix": {
+    "#": 95,
+    "Gamepress": 95,
+    "Bulbapedia": "Onix",
+    "Serebii": "Onix",
+    "Smogon": "Onix"
+  },
+  "Drowzee": {
+    "#": 96,
+    "Gamepress": 96,
+    "Bulbapedia": "Drowzee",
+    "Serebii": "Drowzee",
+    "Smogon": "Drowzee"
+  },
+  "Hypno": {
+    "#": 97,
+    "Gamepress": 97,
+    "Bulbapedia": "Hypno",
+    "Serebii": "Hypno",
+    "Smogon": "Hypno"
+  },
+  "Krabby": {
+    "#": 98,
+    "Gamepress": 98,
+    "Bulbapedia": "Krabby",
+    "Serebii": "Krabby",
+    "Smogon": "Krabby"
+  },
+  "Kingler": {
+    "#": 99,
+    "Gamepress": 99,
+    "Bulbapedia": "Kingler",
+    "Serebii": "Kingler",
+    "Smogon": "Kingler"
+  },
+  "Voltorb": {
+    "#": 100,
+    "Gamepress": 100,
+    "Bulbapedia": "Voltorb",
+    "Serebii": "Voltorb",
+    "Smogon": "Voltorb"
+  },
+  "Voltorb - Hisuian Forme": {
+    "#": 100,
+    "Gamepress": "100-hisuian",
+    "Bulbapedia": "Voltorb",
+    "Serebii": "Voltorb",
+    "Smogon": "Voltorb-hisui"
+  },
+  "Electrode": {
+    "#": 101,
+    "Gamepress": 101,
+    "Bulbapedia": "Electrode",
+    "Serebii": "Electrode",
+    "Smogon": "Electrode"
+  },
+  "Electrode - Hisuian Forme": {
+    "#": 101,
+    "Gamepress": "101-hisuian",
+    "Bulbapedia": "Electrode",
+    "Serebii": "Electrode",
+    "Smogon": "Electrode-hisui"
+  },
+  "Exeggcute": {
+    "#": 102,
+    "Gamepress": 102,
+    "Bulbapedia": "Exeggcute",
+    "Serebii": "Exeggcute",
+    "Smogon": "Exeggcute"
+  },
+  "Exeggutor": {
+    "#": 103,
+    "Gamepress": 103,
+    "Bulbapedia": "Exeggutor",
+    "Serebii": "Exeggutor",
+    "Smogon": "Exeggutor"
+  },
+  "Exeggutor - Alolan": {
+    "#": 103,
+    "Gamepress": "103-alolan",
+    "Bulbapedia": "Exeggutor",
+    "Serebii": "Exeggutor",
+    "Smogon": "Exeggutor-alola"
+  },
+  "Cubone": {
+    "#": 104,
+    "Gamepress": 104,
+    "Bulbapedia": "Cubone",
+    "Serebii": "Cubone",
+    "Smogon": "Cubone"
+  },
+  "Marowak": {
+    "#": 105,
+    "Gamepress": 105,
+    "Bulbapedia": "Marowak",
+    "Serebii": "Marowak",
+    "Smogon": "Marowak"
+  },
+  "Marowak - Alolan": {
+    "#": 105,
+    "Gamepress": "105-alolan",
+    "Bulbapedia": "Marowak",
+    "Serebii": "Marowak",
+    "Smogon": "Marowak-alola"
+  },
+  "Hitmonlee": {
+    "#": 106,
+    "Gamepress": 106,
+    "Bulbapedia": "Hitmonlee",
+    "Serebii": "Hitmonlee",
+    "Smogon": "Hitmonlee"
+  },
+  "Hitmonchan": {
+    "#": 107,
+    "Gamepress": 107,
+    "Bulbapedia": "Hitmonchan",
+    "Serebii": "Hitmonchan",
+    "Smogon": "Hitmonchan"
+  },
+  "Lickitung": {
+    "#": 108,
+    "Gamepress": 108,
+    "Bulbapedia": "Lickitung",
+    "Serebii": "Lickitung",
+    "Smogon": "Lickitung"
+  },
+  "Koffing": {
+    "#": 109,
+    "Gamepress": 109,
+    "Bulbapedia": "Koffing",
+    "Serebii": "Koffing",
+    "Smogon": "Koffing"
+  },
+  "Weezing": {
+    "#": 110,
+    "Gamepress": 110,
+    "Bulbapedia": "Weezing",
+    "Serebii": "Weezing",
+    "Smogon": "Weezing"
+  },
+  "Weezing - Galarian": {
+    "#": 110,
+    "Gamepress": "110-galarian",
+    "Bulbapedia": "Weezing",
+    "Serebii": "Weezing",
+    "Smogon": "Weezing-galar"
+  },
+  "Rhyhorn": {
+    "#": 111,
+    "Gamepress": 111,
+    "Bulbapedia": "Rhyhorn",
+    "Serebii": "Rhyhorn",
+    "Smogon": "Rhyhorn"
+  },
+  "Rhydon": {
+    "#": 112,
+    "Gamepress": 112,
+    "Bulbapedia": "Rhydon",
+    "Serebii": "Rhydon",
+    "Smogon": "Rhydon"
+  },
+  "Chansey": {
+    "#": 113,
+    "Gamepress": 113,
+    "Bulbapedia": "Chansey",
+    "Serebii": "Chansey",
+    "Smogon": "Chansey"
+  },
+  "Tangela": {
+    "#": 114,
+    "Gamepress": 114,
+    "Bulbapedia": "Tangela",
+    "Serebii": "Tangela",
+    "Smogon": "Tangela"
+  },
+  "Kangaskhan": {
+    "#": 115,
+    "Gamepress": 115,
+    "Bulbapedia": "Kangaskhan",
+    "Serebii": "Kangaskhan",
+    "Smogon": "Kangaskhan"
+  },
+  "Mega Kangaskhan": {
+    "#": 115,
+    "Gamepress": "115-mega",
+    "Bulbapedia": "Kangaskhan",
+    "Serebii": "Kangaskhan",
+    "Smogon": "Kangaskhan"
+  },
+  "Horsea": {
+    "#": 116,
+    "Gamepress": 116,
+    "Bulbapedia": "Horsea",
+    "Serebii": "Horsea",
+    "Smogon": "Horsea"
+  },
+  "Seadra": {
+    "#": 117,
+    "Gamepress": 117,
+    "Bulbapedia": "Seadra",
+    "Serebii": "Seadra",
+    "Smogon": "Seadra"
+  },
+  "Goldeen": {
+    "#": 118,
+    "Gamepress": 118,
+    "Bulbapedia": "Goldeen",
+    "Serebii": "Goldeen",
+    "Smogon": "Goldeen"
+  },
+  "Seaking": {
+    "#": 119,
+    "Gamepress": 119,
+    "Bulbapedia": "Seaking",
+    "Serebii": "Seaking",
+    "Smogon": "Seaking"
+  },
+  "Staryu": {
+    "#": 120,
+    "Gamepress": 120,
+    "Bulbapedia": "Staryu",
+    "Serebii": "Staryu",
+    "Smogon": "Staryu"
+  },
+  "Starmie": {
+    "#": 121,
+    "Gamepress": 121,
+    "Bulbapedia": "Starmie",
+    "Serebii": "Starmie",
+    "Smogon": "Starmie"
+  },
+  "Mr. Mime": {
+    "#": 122,
+    "Gamepress": 122,
+    "Bulbapedia": "Mr._Mime",
+    "Serebii": "Mr.Mime",
+    "Smogon": "Mr._Mime"
+  },
+  "Mr. Mime - Galarian": {
+    "#": 122,
+    "Gamepress": "122-galarian",
+    "Bulbapedia": "Mr._Mime",
+    "Serebii": "Mr.Mime",
+    "Smogon": "Mr._Mime-galar"
+  },
+  "Scyther": {
+    "#": 123,
+    "Gamepress": 123,
+    "Bulbapedia": "Scyther",
+    "Serebii": "Scyther",
+    "Smogon": "Scyther"
+  },
+  "Jynx": {
+    "#": 124,
+    "Gamepress": 124,
+    "Bulbapedia": "Jynx",
+    "Serebii": "Jynx",
+    "Smogon": "Jynx"
+  },
+  "Electabuzz": {
+    "#": 125,
+    "Gamepress": 125,
+    "Bulbapedia": "Electabuzz",
+    "Serebii": "Electabuzz",
+    "Smogon": "Electabuzz"
+  },
+  "Magmar": {
+    "#": 126,
+    "Gamepress": 126,
+    "Bulbapedia": "Magmar",
+    "Serebii": "Magmar",
+    "Smogon": "Magmar"
+  },
+  "Pinsir": {
+    "#": 127,
+    "Gamepress": 127,
+    "Bulbapedia": "Pinsir",
+    "Serebii": "Pinsir",
+    "Smogon": "Pinsir"
+  },
+  "Mega Pinsir": {
+    "#": 127,
+    "Gamepress": "127-mega",
+    "Bulbapedia": "Pinsir",
+    "Serebii": "Pinsir",
+    "Smogon": "Pinsir"
+  },
+  "Tauros": {
+    "#": 128,
+    "Gamepress": 128,
+    "Bulbapedia": "Tauros",
+    "Serebii": "Tauros",
+    "Smogon": "Tauros"
+  },
+  "Magikarp": {
+    "#": 129,
+    "Gamepress": 129,
+    "Bulbapedia": "Magikarp",
+    "Serebii": "Magikarp",
+    "Smogon": "Magikarp"
+  },
+  "Gyarados": {
+    "#": 130,
+    "Gamepress": 130,
+    "Bulbapedia": "Gyarados",
+    "Serebii": "Gyarados",
+    "Smogon": "Gyarados"
+  },
+  "Mega Gyarados": {
+    "#": 130,
+    "Gamepress": "130-mega",
+    "Bulbapedia": "Gyarados",
+    "Serebii": "Gyarados",
+    "Smogon": "Gyarados"
+  },
+  "Lapras": {
+    "#": 131,
+    "Gamepress": 131,
+    "Bulbapedia": "Lapras",
+    "Serebii": "Lapras",
+    "Smogon": "Lapras"
+  },
+  "Ditto": {
+    "#": 132,
+    "Gamepress": 132,
+    "Bulbapedia": "Ditto",
+    "Serebii": "Ditto",
+    "Smogon": "Ditto"
+  },
+  "Eevee": {
+    "#": 133,
+    "Gamepress": 133,
+    "Bulbapedia": "Eevee",
+    "Serebii": "Eevee",
+    "Smogon": "Eevee"
+  },
+  "Vaporeon": {
+    "#": 134,
+    "Gamepress": 134,
+    "Bulbapedia": "Vaporeon",
+    "Serebii": "Vaporeon",
+    "Smogon": "Vaporeon"
+  },
+  "Jolteon": {
+    "#": 135,
+    "Gamepress": 135,
+    "Bulbapedia": "Jolteon",
+    "Serebii": "Jolteon",
+    "Smogon": "Jolteon"
+  },
+  "Flareon": {
+    "#": 136,
+    "Gamepress": 136,
+    "Bulbapedia": "Flareon",
+    "Serebii": "Flareon",
+    "Smogon": "Flareon"
+  },
+  "Porygon": {
+    "#": 137,
+    "Gamepress": 137,
+    "Bulbapedia": "Porygon",
+    "Serebii": "Porygon",
+    "Smogon": "Porygon"
+  },
+  "Omanyte": {
+    "#": 138,
+    "Gamepress": 138,
+    "Bulbapedia": "Omanyte",
+    "Serebii": "Omanyte",
+    "Smogon": "Omanyte"
+  },
+  "Omastar": {
+    "#": 139,
+    "Gamepress": 139,
+    "Bulbapedia": "Omastar",
+    "Serebii": "Omastar",
+    "Smogon": "Omastar"
+  },
+  "Kabuto": {
+    "#": 140,
+    "Gamepress": 140,
+    "Bulbapedia": "Kabuto",
+    "Serebii": "Kabuto",
+    "Smogon": "Kabuto"
+  },
+  "Kabutops": {
+    "#": 141,
+    "Gamepress": 141,
+    "Bulbapedia": "Kabutops",
+    "Serebii": "Kabutops",
+    "Smogon": "Kabutops"
+  },
+  "Aerodactyl": {
+    "#": 142,
+    "Gamepress": 142,
+    "Bulbapedia": "Aerodactyl",
+    "Serebii": "Aerodactyl",
+    "Smogon": "Aerodactyl"
+  },
+  "Mega Aerodactyl": {
+    "#": 142,
+    "Gamepress": "142-mega",
+    "Bulbapedia": "Aerodactyl",
+    "Serebii": "Aerodactyl",
+    "Smogon": "Aerodactyl"
+  },
+  "Snorlax": {
+    "#": 143,
+    "Gamepress": 143,
+    "Bulbapedia": "Snorlax",
+    "Serebii": "Snorlax",
+    "Smogon": "Snorlax"
+  },
+  "Articuno": {
+    "#": 144,
+    "Gamepress": 144,
+    "Bulbapedia": "Articuno",
+    "Serebii": "Articuno",
+    "Smogon": "Articuno"
+  },
+  "Articuno - Galarian": {
+    "#": 144,
+    "Gamepress": "144-galarian",
+    "Bulbapedia": "Articuno",
+    "Serebii": "Articuno",
+    "Smogon": "Articuno-galar"
+  },
+  "Zapdos": {
+    "#": 145,
+    "Gamepress": 145,
+    "Bulbapedia": "Zapdos",
+    "Serebii": "Zapdos",
+    "Smogon": "Zapdos"
+  },
+  "Zapdos - Galarian": {
+    "#": 145,
+    "Gamepress": "145-galarian",
+    "Bulbapedia": "Zapdos",
+    "Serebii": "Zapdos",
+    "Smogon": "Zapdos-galar"
+  },
+  "Moltres": {
+    "#": 146,
+    "Gamepress": 146,
+    "Bulbapedia": "Moltres",
+    "Serebii": "Moltres",
+    "Smogon": "Moltres"
+  },
+  "Moltres - Galarian": {
+    "#": 146,
+    "Gamepress": "146-galarian",
+    "Bulbapedia": "Moltres",
+    "Serebii": "Moltres",
+    "Smogon": "Moltres-galar"
+  },
+  "Dratini": {
+    "#": 147,
+    "Gamepress": 147,
+    "Bulbapedia": "Dratini",
+    "Serebii": "Dratini",
+    "Smogon": "Dratini"
+  },
+  "Dragonair": {
+    "#": 148,
+    "Gamepress": 148,
+    "Bulbapedia": "Dragonair",
+    "Serebii": "Dragonair",
+    "Smogon": "Dragonair"
+  },
+  "Dragonite": {
+    "#": 149,
+    "Gamepress": 149,
+    "Bulbapedia": "Dragonite",
+    "Serebii": "Dragonite",
+    "Smogon": "Dragonite"
+  },
+  "Mewtwo": {
+    "#": 150,
+    "Gamepress": 150,
+    "Bulbapedia": "Mewtwo",
+    "Serebii": "Mewtwo",
+    "Smogon": "Mewtwo"
+  },
+  "Mega Mewtwo X": {
+    "#": 150,
+    "Gamepress": "150-megaX",
+    "Bulbapedia": "Mewtwo",
+    "Serebii": "Mewtwo",
+    "Smogon": "Mewtwo"
+  },
+  "MewtwoMega Mewtwo Y": {
+    "#": 150,
+    "Gamepress": "150-megaY",
+    "Bulbapedia": "Mewtwo",
+    "Serebii": "Mewtwo",
+    "Smogon": "Mewtwo"
+  },
+  "Mew": {
+    "#": 151,
+    "Gamepress": 151,
+    "Bulbapedia": "Mew",
+    "Serebii": "Mew",
+    "Smogon": "Mew"
+  },
+  "Chikorita": {
+    "#": 152,
+    "Gamepress": 152,
+    "Bulbapedia": "Chikorita",
+    "Serebii": "Chikorita",
+    "Smogon": "Chikorita"
+  },
+  "Bayleef": {
+    "#": 153,
+    "Gamepress": 153,
+    "Bulbapedia": "Bayleef",
+    "Serebii": "Bayleef",
+    "Smogon": "Bayleef"
+  },
+  "Meganium": {
+    "#": 154,
+    "Gamepress": 154,
+    "Bulbapedia": "Meganium",
+    "Serebii": "Meganium",
+    "Smogon": "Meganium"
+  },
+  "Cyndaquil": {
+    "#": 155,
+    "Gamepress": 155,
+    "Bulbapedia": "Cyndaquil",
+    "Serebii": "Cyndaquil",
+    "Smogon": "Cyndaquil"
+  },
+  "Quilava": {
+    "#": 156,
+    "Gamepress": 156,
+    "Bulbapedia": "Quilava",
+    "Serebii": "Quilava",
+    "Smogon": "Quilava"
+  },
+  "Typhlosion": {
+    "#": 157,
+    "Gamepress": 157,
+    "Bulbapedia": "Typhlosion",
+    "Serebii": "Typhlosion",
+    "Smogon": "Typhlosion"
+  },
+  "Typhlosion - Hisuian Forme": {
+    "#": 157,
+    "Gamepress": "157-hisuian",
+    "Bulbapedia": "Typhlosion",
+    "Serebii": "Typhlosion",
+    "Smogon": "Typhlosion-hisui"
+  },
+  "Totodile": {
+    "#": 158,
+    "Gamepress": 158,
+    "Bulbapedia": "Totodile",
+    "Serebii": "Totodile",
+    "Smogon": "Totodile"
+  },
+  "Croconaw": {
+    "#": 159,
+    "Gamepress": 159,
+    "Bulbapedia": "Croconaw",
+    "Serebii": "Croconaw",
+    "Smogon": "Croconaw"
+  },
+  "Feraligatr": {
+    "#": 160,
+    "Gamepress": 160,
+    "Bulbapedia": "Feraligatr",
+    "Serebii": "Feraligatr",
+    "Smogon": "Feraligatr"
+  },
+  "Sentret": {
+    "#": 161,
+    "Gamepress": 161,
+    "Bulbapedia": "Sentret",
+    "Serebii": "Sentret",
+    "Smogon": "Sentret"
+  },
+  "Furret": {
+    "#": 162,
+    "Gamepress": 162,
+    "Bulbapedia": "Furret",
+    "Serebii": "Furret",
+    "Smogon": "Furret"
+  },
+  "Hoothoot": {
+    "#": 163,
+    "Gamepress": 163,
+    "Bulbapedia": "Hoothoot",
+    "Serebii": "Hoothoot",
+    "Smogon": "Hoothoot"
+  },
+  "Noctowl": {
+    "#": 164,
+    "Gamepress": 164,
+    "Bulbapedia": "Noctowl",
+    "Serebii": "Noctowl",
+    "Smogon": "Noctowl"
+  },
+  "Ledyba": {
+    "#": 165,
+    "Gamepress": 165,
+    "Bulbapedia": "Ledyba",
+    "Serebii": "Ledyba",
+    "Smogon": "Ledyba"
+  },
+  "Ledian": {
+    "#": 166,
+    "Gamepress": 166,
+    "Bulbapedia": "Ledian",
+    "Serebii": "Ledian",
+    "Smogon": "Ledian"
+  },
+  "Spinarak": {
+    "#": 167,
+    "Gamepress": 167,
+    "Bulbapedia": "Spinarak",
+    "Serebii": "Spinarak",
+    "Smogon": "Spinarak"
+  },
+  "Ariados": {
+    "#": 168,
+    "Gamepress": 168,
+    "Bulbapedia": "Ariados",
+    "Serebii": "Ariados",
+    "Smogon": "Ariados"
+  },
+  "Crobat": {
+    "#": 169,
+    "Gamepress": 169,
+    "Bulbapedia": "Crobat",
+    "Serebii": "Crobat",
+    "Smogon": "Crobat"
+  },
+  "Chinchou": {
+    "#": 170,
+    "Gamepress": 170,
+    "Bulbapedia": "Chinchou",
+    "Serebii": "Chinchou",
+    "Smogon": "Chinchou"
+  },
+  "Lanturn": {
+    "#": 171,
+    "Gamepress": 171,
+    "Bulbapedia": "Lanturn",
+    "Serebii": "Lanturn",
+    "Smogon": "Lanturn"
+  },
+  "Pichu": {
+    "#": 172,
+    "Gamepress": 172,
+    "Bulbapedia": "Pichu",
+    "Serebii": "Pichu",
+    "Smogon": "Pichu"
+  },
+  "Cleffa": {
+    "#": 173,
+    "Gamepress": 173,
+    "Bulbapedia": "Cleffa",
+    "Serebii": "Cleffa",
+    "Smogon": "Cleffa"
+  },
+  "Igglybuff": {
+    "#": 174,
+    "Gamepress": 174,
+    "Bulbapedia": "Igglybuff",
+    "Serebii": "Igglybuff",
+    "Smogon": "Igglybuff"
+  },
+  "Togepi": {
+    "#": 175,
+    "Gamepress": 175,
+    "Bulbapedia": "Togepi",
+    "Serebii": "Togepi",
+    "Smogon": "Togepi"
+  },
+  "Togetic": {
+    "#": 176,
+    "Gamepress": 176,
+    "Bulbapedia": "Togetic",
+    "Serebii": "Togetic",
+    "Smogon": "Togetic"
+  },
+  "Natu": {
+    "#": 177,
+    "Gamepress": 177,
+    "Bulbapedia": "Natu",
+    "Serebii": "Natu",
+    "Smogon": "Natu"
+  },
+  "Xatu": {
+    "#": 178,
+    "Gamepress": 178,
+    "Bulbapedia": "Xatu",
+    "Serebii": "Xatu",
+    "Smogon": "Xatu"
+  },
+  "Mareep": {
+    "#": 179,
+    "Gamepress": 179,
+    "Bulbapedia": "Mareep",
+    "Serebii": "Mareep",
+    "Smogon": "Mareep"
+  },
+  "Flaaffy": {
+    "#": 180,
+    "Gamepress": 180,
+    "Bulbapedia": "Flaaffy",
+    "Serebii": "Flaaffy",
+    "Smogon": "Flaaffy"
+  },
+  "Ampharos": {
+    "#": 181,
+    "Gamepress": 181,
+    "Bulbapedia": "Ampharos",
+    "Serebii": "Ampharos",
+    "Smogon": "Ampharos"
+  },
+  "Mega Ampharos": {
+    "#": 181,
+    "Gamepress": "181-mega",
+    "Bulbapedia": "Ampharos",
+    "Serebii": "Ampharos",
+    "Smogon": "Ampharos"
+  },
+  "Bellossom": {
+    "#": 182,
+    "Gamepress": 182,
+    "Bulbapedia": "Bellossom",
+    "Serebii": "Bellossom",
+    "Smogon": "Bellossom"
+  },
+  "Marill": {
+    "#": 183,
+    "Gamepress": 183,
+    "Bulbapedia": "Marill",
+    "Serebii": "Marill",
+    "Smogon": "Marill"
+  },
+  "Azumarill": {
+    "#": 184,
+    "Gamepress": 184,
+    "Bulbapedia": "Azumarill",
+    "Serebii": "Azumarill",
+    "Smogon": "Azumarill"
+  },
+  "Sudowoodo": {
+    "#": 185,
+    "Gamepress": 185,
+    "Bulbapedia": "Sudowoodo",
+    "Serebii": "Sudowoodo",
+    "Smogon": "Sudowoodo"
+  },
+  "Politoed": {
+    "#": 186,
+    "Gamepress": 186,
+    "Bulbapedia": "Politoed",
+    "Serebii": "Politoed",
+    "Smogon": "Politoed"
+  },
+  "Hoppip": {
+    "#": 187,
+    "Gamepress": 187,
+    "Bulbapedia": "Hoppip",
+    "Serebii": "Hoppip",
+    "Smogon": "Hoppip"
+  },
+  "Skiploom": {
+    "#": 188,
+    "Gamepress": 188,
+    "Bulbapedia": "Skiploom",
+    "Serebii": "Skiploom",
+    "Smogon": "Skiploom"
+  },
+  "Jumpluff": {
+    "#": 189,
+    "Gamepress": 189,
+    "Bulbapedia": "Jumpluff",
+    "Serebii": "Jumpluff",
+    "Smogon": "Jumpluff"
+  },
+  "Aipom": {
+    "#": 190,
+    "Gamepress": 190,
+    "Bulbapedia": "Aipom",
+    "Serebii": "Aipom",
+    "Smogon": "Aipom"
+  },
+  "Sunkern": {
+    "#": 191,
+    "Gamepress": 191,
+    "Bulbapedia": "Sunkern",
+    "Serebii": "Sunkern",
+    "Smogon": "Sunkern"
+  },
+  "Sunflora": {
+    "#": 192,
+    "Gamepress": 192,
+    "Bulbapedia": "Sunflora",
+    "Serebii": "Sunflora",
+    "Smogon": "Sunflora"
+  },
+  "Yanma": {
+    "#": 193,
+    "Gamepress": 193,
+    "Bulbapedia": "Yanma",
+    "Serebii": "Yanma",
+    "Smogon": "Yanma"
+  },
+  "Wooper": {
+    "#": 194,
+    "Gamepress": 194,
+    "Bulbapedia": "Wooper",
+    "Serebii": "Wooper",
+    "Smogon": "Wooper"
+  },
+  "Quagsire": {
+    "#": 195,
+    "Gamepress": 195,
+    "Bulbapedia": "Quagsire",
+    "Serebii": "Quagsire",
+    "Smogon": "Quagsire"
+  },
+  "Espeon": {
+    "#": 196,
+    "Gamepress": 196,
+    "Bulbapedia": "Espeon",
+    "Serebii": "Espeon",
+    "Smogon": "Espeon"
+  },
+  "Umbreon": {
+    "#": 197,
+    "Gamepress": 197,
+    "Bulbapedia": "Umbreon",
+    "Serebii": "Umbreon",
+    "Smogon": "Umbreon"
+  },
+  "Murkrow": {
+    "#": 198,
+    "Gamepress": 198,
+    "Bulbapedia": "Murkrow",
+    "Serebii": "Murkrow",
+    "Smogon": "Murkrow"
+  },
+  "Slowking": {
+    "#": 199,
+    "Gamepress": 199,
+    "Bulbapedia": "Slowking",
+    "Serebii": "Slowking",
+    "Smogon": "Slowking"
+  },
+  "Slowking - Galarian": {
+    "#": 199,
+    "Gamepress": "199-galarian",
+    "Bulbapedia": "Slowking",
+    "Serebii": "Slowking",
+    "Smogon": "Slowking-galar"
+  },
+  "Misdreavus": {
+    "#": 200,
+    "Gamepress": 200,
+    "Bulbapedia": "Misdreavus",
+    "Serebii": "Misdreavus",
+    "Smogon": "Misdreavus"
+  },
+  "Unown": {
+    "#": 201,
+    "Gamepress": 201,
+    "Bulbapedia": "Unown",
+    "Serebii": "Unown",
+    "Smogon": "Unown"
+  },
+  "Wobbuffet": {
+    "#": 202,
+    "Gamepress": 202,
+    "Bulbapedia": "Wobbuffet",
+    "Serebii": "Wobbuffet",
+    "Smogon": "Wobbuffet"
+  },
+  "Girafarig": {
+    "#": 203,
+    "Gamepress": 203,
+    "Bulbapedia": "Girafarig",
+    "Serebii": "Girafarig",
+    "Smogon": "Girafarig"
+  },
+  "Pineco": {
+    "#": 204,
+    "Gamepress": 204,
+    "Bulbapedia": "Pineco",
+    "Serebii": "Pineco",
+    "Smogon": "Pineco"
+  },
+  "Forretress": {
+    "#": 205,
+    "Gamepress": 205,
+    "Bulbapedia": "Forretress",
+    "Serebii": "Forretress",
+    "Smogon": "Forretress"
+  },
+  "Dunsparce": {
+    "#": 206,
+    "Gamepress": 206,
+    "Bulbapedia": "Dunsparce",
+    "Serebii": "Dunsparce",
+    "Smogon": "Dunsparce"
+  },
+  "Gligar": {
+    "#": 207,
+    "Gamepress": 207,
+    "Bulbapedia": "Gligar",
+    "Serebii": "Gligar",
+    "Smogon": "Gligar"
+  },
+  "Steelix": {
+    "#": 208,
+    "Gamepress": 208,
+    "Bulbapedia": "Steelix",
+    "Serebii": "Steelix",
+    "Smogon": "Steelix"
+  },
+  "Mega Steelix": {
+    "#": 208,
+    "Gamepress": "208-mega",
+    "Bulbapedia": "Steelix",
+    "Serebii": "Steelix",
+    "Smogon": "Steelix"
+  },
+  "Snubbull": {
+    "#": 209,
+    "Gamepress": 209,
+    "Bulbapedia": "Snubbull",
+    "Serebii": "Snubbull",
+    "Smogon": "Snubbull"
+  },
+  "Granbull": {
+    "#": 210,
+    "Gamepress": 210,
+    "Bulbapedia": "Granbull",
+    "Serebii": "Granbull",
+    "Smogon": "Granbull"
+  },
+  "Qwilfish": {
+    "#": 211,
+    "Gamepress": 211,
+    "Bulbapedia": "Qwilfish",
+    "Serebii": "Qwilfish",
+    "Smogon": "Qwilfish"
+  },
+  "Qwilfish - Hisuian Forme": {
+    "#": 211,
+    "Gamepress": "211-hisuian",
+    "Bulbapedia": "Qwilfish",
+    "Serebii": "Qwilfish",
+    "Smogon": "Qwilfish-hisui"
+  },
+  "Scizor": {
+    "#": 212,
+    "Gamepress": 212,
+    "Bulbapedia": "Scizor",
+    "Serebii": "Scizor",
+    "Smogon": "Scizor"
+  },
+  "Mega Scizor": {
+    "#": 212,
+    "Gamepress": "212-mega",
+    "Bulbapedia": "Scizor",
+    "Serebii": "Scizor",
+    "Smogon": "Scizor"
+  },
+  "Shuckle": {
+    "#": 213,
+    "Gamepress": 213,
+    "Bulbapedia": "Shuckle",
+    "Serebii": "Shuckle",
+    "Smogon": "Shuckle"
+  },
+  "Heracross": {
+    "#": 214,
+    "Gamepress": 214,
+    "Bulbapedia": "Heracross",
+    "Serebii": "Heracross",
+    "Smogon": "Heracross"
+  },
+  "Mega Heracross": {
+    "#": 214,
+    "Gamepress": "214-mega",
+    "Bulbapedia": "Heracross",
+    "Serebii": "Heracross",
+    "Smogon": "Heracross"
+  },
+  "Sneasel": {
+    "#": 215,
+    "Gamepress": 215,
+    "Bulbapedia": "Sneasel",
+    "Serebii": "Sneasel",
+    "Smogon": "Sneasel"
+  },
+  "Sneasel - Hisuian Forme": {
+    "#": 215,
+    "Gamepress": "215-hisuian",
+    "Bulbapedia": "Sneasel",
+    "Serebii": "Sneasel",
+    "Smogon": "Sneasel-hisui"
+  },
+  "Teddiursa": {
+    "#": 216,
+    "Gamepress": 216,
+    "Bulbapedia": "Teddiursa",
+    "Serebii": "Teddiursa",
+    "Smogon": "Teddiursa"
+  },
+  "Ursaring": {
+    "#": 217,
+    "Gamepress": 217,
+    "Bulbapedia": "Ursaring",
+    "Serebii": "Ursaring",
+    "Smogon": "Ursaring"
+  },
+  "Slugma": {
+    "#": 218,
+    "Gamepress": 218,
+    "Bulbapedia": "Slugma",
+    "Serebii": "Slugma",
+    "Smogon": "Slugma"
+  },
+  "Magcargo": {
+    "#": 219,
+    "Gamepress": 219,
+    "Bulbapedia": "Magcargo",
+    "Serebii": "Magcargo",
+    "Smogon": "Magcargo"
+  },
+  "Swinub": {
+    "#": 220,
+    "Gamepress": 220,
+    "Bulbapedia": "Swinub",
+    "Serebii": "Swinub",
+    "Smogon": "Swinub"
+  },
+  "Piloswine": {
+    "#": 221,
+    "Gamepress": 221,
+    "Bulbapedia": "Piloswine",
+    "Serebii": "Piloswine",
+    "Smogon": "Piloswine"
+  },
+  "Corsola": {
+    "#": 222,
+    "Gamepress": 222,
+    "Bulbapedia": "Corsola",
+    "Serebii": "Corsola",
+    "Smogon": "Corsola"
+  },
+  "Corsola - Galarian": {
+    "#": 222,
+    "Gamepress": "222-galarian",
+    "Bulbapedia": "Corsola",
+    "Serebii": "Corsola",
+    "Smogon": "Corsola-galar"
+  },
+  "Remoraid": {
+    "#": 223,
+    "Gamepress": 223,
+    "Bulbapedia": "Remoraid",
+    "Serebii": "Remoraid",
+    "Smogon": "Remoraid"
+  },
+  "Octillery": {
+    "#": 224,
+    "Gamepress": 224,
+    "Bulbapedia": "Octillery",
+    "Serebii": "Octillery",
+    "Smogon": "Octillery"
+  },
+  "Delibird": {
+    "#": 225,
+    "Gamepress": 225,
+    "Bulbapedia": "Delibird",
+    "Serebii": "Delibird",
+    "Smogon": "Delibird"
+  },
+  "Mantine": {
+    "#": 226,
+    "Gamepress": 226,
+    "Bulbapedia": "Mantine",
+    "Serebii": "Mantine",
+    "Smogon": "Mantine"
+  },
+  "Skarmory": {
+    "#": 227,
+    "Gamepress": 227,
+    "Bulbapedia": "Skarmory",
+    "Serebii": "Skarmory",
+    "Smogon": "Skarmory"
+  },
+  "Houndour": {
+    "#": 228,
+    "Gamepress": 228,
+    "Bulbapedia": "Houndour",
+    "Serebii": "Houndour",
+    "Smogon": "Houndour"
+  },
+  "Houndoom": {
+    "#": 229,
+    "Gamepress": 229,
+    "Bulbapedia": "Houndoom",
+    "Serebii": "Houndoom",
+    "Smogon": "Houndoom"
+  },
+  "Mega Houndoom": {
+    "#": 229,
+    "Gamepress": "229-mega",
+    "Bulbapedia": "Houndoom",
+    "Serebii": "Houndoom",
+    "Smogon": "Houndoom"
+  },
+  "Kingdra": {
+    "#": 230,
+    "Gamepress": 230,
+    "Bulbapedia": "Kingdra",
+    "Serebii": "Kingdra",
+    "Smogon": "Kingdra"
+  },
+  "Phanpy": {
+    "#": 231,
+    "Gamepress": 231,
+    "Bulbapedia": "Phanpy",
+    "Serebii": "Phanpy",
+    "Smogon": "Phanpy"
+  },
+  "Donphan": {
+    "#": 232,
+    "Gamepress": 232,
+    "Bulbapedia": "Donphan",
+    "Serebii": "Donphan",
+    "Smogon": "Donphan"
+  },
+  "Porygon2": {
+    "#": 233,
+    "Gamepress": 233,
+    "Bulbapedia": "Porygon2",
+    "Serebii": "Porygon2",
+    "Smogon": "Porygon2"
+  },
+  "Stantler": {
+    "#": 234,
+    "Gamepress": 234,
+    "Bulbapedia": "Stantler",
+    "Serebii": "Stantler",
+    "Smogon": "Stantler"
+  },
+  "Smeargle": {
+    "#": 235,
+    "Gamepress": 235,
+    "Bulbapedia": "Smeargle",
+    "Serebii": "Smeargle",
+    "Smogon": "Smeargle"
+  },
+  "Tyrogue": {
+    "#": 236,
+    "Gamepress": 236,
+    "Bulbapedia": "Tyrogue",
+    "Serebii": "Tyrogue",
+    "Smogon": "Tyrogue"
+  },
+  "Hitmontop": {
+    "#": 237,
+    "Gamepress": 237,
+    "Bulbapedia": "Hitmontop",
+    "Serebii": "Hitmontop",
+    "Smogon": "Hitmontop"
+  },
+  "Smoochum": {
+    "#": 238,
+    "Gamepress": 238,
+    "Bulbapedia": "Smoochum",
+    "Serebii": "Smoochum",
+    "Smogon": "Smoochum"
+  },
+  "Elekid": {
+    "#": 239,
+    "Gamepress": 239,
+    "Bulbapedia": "Elekid",
+    "Serebii": "Elekid",
+    "Smogon": "Elekid"
+  },
+  "Magby": {
+    "#": 240,
+    "Gamepress": 240,
+    "Bulbapedia": "Magby",
+    "Serebii": "Magby",
+    "Smogon": "Magby"
+  },
+  "Miltank": {
+    "#": 241,
+    "Gamepress": 241,
+    "Bulbapedia": "Miltank",
+    "Serebii": "Miltank",
+    "Smogon": "Miltank"
+  },
+  "Blissey": {
+    "#": 242,
+    "Gamepress": 242,
+    "Bulbapedia": "Blissey",
+    "Serebii": "Blissey",
+    "Smogon": "Blissey"
+  },
+  "Raikou": {
+    "#": 243,
+    "Gamepress": 243,
+    "Bulbapedia": "Raikou",
+    "Serebii": "Raikou",
+    "Smogon": "Raikou"
+  },
+  "Entei": {
+    "#": 244,
+    "Gamepress": 244,
+    "Bulbapedia": "Entei",
+    "Serebii": "Entei",
+    "Smogon": "Entei"
+  },
+  "Suicune": {
+    "#": 245,
+    "Gamepress": 245,
+    "Bulbapedia": "Suicune",
+    "Serebii": "Suicune",
+    "Smogon": "Suicune"
+  },
+  "Larvitar": {
+    "#": 246,
+    "Gamepress": 246,
+    "Bulbapedia": "Larvitar",
+    "Serebii": "Larvitar",
+    "Smogon": "Larvitar"
+  },
+  "Pupitar": {
+    "#": 247,
+    "Gamepress": 247,
+    "Bulbapedia": "Pupitar",
+    "Serebii": "Pupitar",
+    "Smogon": "Pupitar"
+  },
+  "Tyranitar": {
+    "#": 248,
+    "Gamepress": 248,
+    "Bulbapedia": "Tyranitar",
+    "Serebii": "Tyranitar",
+    "Smogon": "Tyranitar"
+  },
+  "Mega Tyranitar": {
+    "#": 248,
+    "Gamepress": "248-mega",
+    "Bulbapedia": "Tyranitar",
+    "Serebii": "Tyranitar",
+    "Smogon": "Tyranitar"
+  },
+  "Lugia": {
+    "#": 249,
+    "Gamepress": 249,
+    "Bulbapedia": "Lugia",
+    "Serebii": "Lugia",
+    "Smogon": "Lugia"
+  },
+  "Ho-oh": {
+    "#": 250,
+    "Gamepress": 250,
+    "Bulbapedia": "Ho-oh",
+    "Serebii": "Ho-oh",
+    "Smogon": "Ho-oh"
+  },
+  "Celebi": {
+    "#": 251,
+    "Gamepress": 251,
+    "Bulbapedia": "Celebi",
+    "Serebii": "Celebi",
+    "Smogon": "Celebi"
+  },
+  "Treecko": {
+    "#": 252,
+    "Gamepress": 252,
+    "Bulbapedia": "Treecko",
+    "Serebii": "Treecko",
+    "Smogon": "Treecko"
+  },
+  "Grovyle": {
+    "#": 253,
+    "Gamepress": 253,
+    "Bulbapedia": "Grovyle",
+    "Serebii": "Grovyle",
+    "Smogon": "Grovyle"
+  },
+  "Sceptile": {
+    "#": 254,
+    "Gamepress": 254,
+    "Bulbapedia": "Sceptile",
+    "Serebii": "Sceptile",
+    "Smogon": "Sceptile"
+  },
+  "Mega Sceptile": {
+    "#": 254,
+    "Gamepress": "254-mega",
+    "Bulbapedia": "Sceptile",
+    "Serebii": "Sceptile",
+    "Smogon": "Sceptile"
+  },
+  "Torchic": {
+    "#": 255,
+    "Gamepress": 255,
+    "Bulbapedia": "Torchic",
+    "Serebii": "Torchic",
+    "Smogon": "Torchic"
+  },
+  "Combusken": {
+    "#": 256,
+    "Gamepress": 256,
+    "Bulbapedia": "Combusken",
+    "Serebii": "Combusken",
+    "Smogon": "Combusken"
+  },
+  "Blaziken": {
+    "#": 257,
+    "Gamepress": 257,
+    "Bulbapedia": "Blaziken",
+    "Serebii": "Blaziken",
+    "Smogon": "Blaziken"
+  },
+  "Mega Blaziken": {
+    "#": 257,
+    "Gamepress": "257-mega",
+    "Bulbapedia": "Blaziken",
+    "Serebii": "Blaziken",
+    "Smogon": "Blaziken"
+  },
+  "Mudkip": {
+    "#": 258,
+    "Gamepress": 258,
+    "Bulbapedia": "Mudkip",
+    "Serebii": "Mudkip",
+    "Smogon": "Mudkip"
+  },
+  "Marshtomp": {
+    "#": 259,
+    "Gamepress": 259,
+    "Bulbapedia": "Marshtomp",
+    "Serebii": "Marshtomp",
+    "Smogon": "Marshtomp"
+  },
+  "Swampert": {
+    "#": 260,
+    "Gamepress": 260,
+    "Bulbapedia": "Swampert",
+    "Serebii": "Swampert",
+    "Smogon": "Swampert"
+  },
+  "Mega Swampert": {
+    "#": 260,
+    "Gamepress": "260-mega",
+    "Bulbapedia": "Swampert",
+    "Serebii": "Swampert",
+    "Smogon": "Swampert"
+  },
+  "Poochyena": {
+    "#": 261,
+    "Gamepress": 261,
+    "Bulbapedia": "Poochyena",
+    "Serebii": "Poochyena",
+    "Smogon": "Poochyena"
+  },
+  "Mightyena": {
+    "#": 262,
+    "Gamepress": 262,
+    "Bulbapedia": "Mightyena",
+    "Serebii": "Mightyena",
+    "Smogon": "Mightyena"
+  },
+  "Zigzagoon": {
+    "#": 263,
+    "Gamepress": 263,
+    "Bulbapedia": "Zigzagoon",
+    "Serebii": "Zigzagoon",
+    "Smogon": "Zigzagoon"
+  },
+  "Zigzagoon - Galarian": {
+    "#": 263,
+    "Gamepress": "263-galarian",
+    "Bulbapedia": "Zigzagoon",
+    "Serebii": "Zigzagoon",
+    "Smogon": "Zigzagoon-galar"
+  },
+  "Linoone": {
+    "#": 264,
+    "Gamepress": 264,
+    "Bulbapedia": "Linoone",
+    "Serebii": "Linoone",
+    "Smogon": "Linoone"
+  },
+  "Linoone - Galarian": {
+    "#": 264,
+    "Gamepress": "264-galarian",
+    "Bulbapedia": "Linoone",
+    "Serebii": "Linoone",
+    "Smogon": "Linoone-galar"
+  },
+  "Wurmple": {
+    "#": 265,
+    "Gamepress": 265,
+    "Bulbapedia": "Wurmple",
+    "Serebii": "Wurmple",
+    "Smogon": "Wurmple"
+  },
+  "Silcoon": {
+    "#": 266,
+    "Gamepress": 266,
+    "Bulbapedia": "Silcoon",
+    "Serebii": "Silcoon",
+    "Smogon": "Silcoon"
+  },
+  "Beautifly": {
+    "#": 267,
+    "Gamepress": 267,
+    "Bulbapedia": "Beautifly",
+    "Serebii": "Beautifly",
+    "Smogon": "Beautifly"
+  },
+  "Cascoon": {
+    "#": 268,
+    "Gamepress": 268,
+    "Bulbapedia": "Cascoon",
+    "Serebii": "Cascoon",
+    "Smogon": "Cascoon"
+  },
+  "Dustox": {
+    "#": 269,
+    "Gamepress": 269,
+    "Bulbapedia": "Dustox",
+    "Serebii": "Dustox",
+    "Smogon": "Dustox"
+  },
+  "Lotad": {
+    "#": 270,
+    "Gamepress": 270,
+    "Bulbapedia": "Lotad",
+    "Serebii": "Lotad",
+    "Smogon": "Lotad"
+  },
+  "Lombre": {
+    "#": 271,
+    "Gamepress": 271,
+    "Bulbapedia": "Lombre",
+    "Serebii": "Lombre",
+    "Smogon": "Lombre"
+  },
+  "Ludicolo": {
+    "#": 272,
+    "Gamepress": 272,
+    "Bulbapedia": "Ludicolo",
+    "Serebii": "Ludicolo",
+    "Smogon": "Ludicolo"
+  },
+  "Seedot": {
+    "#": 273,
+    "Gamepress": 273,
+    "Bulbapedia": "Seedot",
+    "Serebii": "Seedot",
+    "Smogon": "Seedot"
+  },
+  "Nuzleaf": {
+    "#": 274,
+    "Gamepress": 274,
+    "Bulbapedia": "Nuzleaf",
+    "Serebii": "Nuzleaf",
+    "Smogon": "Nuzleaf"
+  },
+  "Shiftry": {
+    "#": 275,
+    "Gamepress": 275,
+    "Bulbapedia": "Shiftry",
+    "Serebii": "Shiftry",
+    "Smogon": "Shiftry"
+  },
+  "Taillow": {
+    "#": 276,
+    "Gamepress": 276,
+    "Bulbapedia": "Taillow",
+    "Serebii": "Taillow",
+    "Smogon": "Taillow"
+  },
+  "Swellow": {
+    "#": 277,
+    "Gamepress": 277,
+    "Bulbapedia": "Swellow",
+    "Serebii": "Swellow",
+    "Smogon": "Swellow"
+  },
+  "Wingull": {
+    "#": 278,
+    "Gamepress": 278,
+    "Bulbapedia": "Wingull",
+    "Serebii": "Wingull",
+    "Smogon": "Wingull"
+  },
+  "Pelipper": {
+    "#": 279,
+    "Gamepress": 279,
+    "Bulbapedia": "Pelipper",
+    "Serebii": "Pelipper",
+    "Smogon": "Pelipper"
+  },
+  "Ralts": {
+    "#": 280,
+    "Gamepress": 280,
+    "Bulbapedia": "Ralts",
+    "Serebii": "Ralts",
+    "Smogon": "Ralts"
+  },
+  "Kirlia": {
+    "#": 281,
+    "Gamepress": 281,
+    "Bulbapedia": "Kirlia",
+    "Serebii": "Kirlia",
+    "Smogon": "Kirlia"
+  },
+  "Gardevoir": {
+    "#": 282,
+    "Gamepress": 282,
+    "Bulbapedia": "Gardevoir",
+    "Serebii": "Gardevoir",
+    "Smogon": "Gardevoir"
+  },
+  "Mega Gardevoir": {
+    "#": 282,
+    "Gamepress": "282-mega",
+    "Bulbapedia": "Gardevoir",
+    "Serebii": "Gardevoir",
+    "Smogon": "Gardevoir"
+  },
+  "Surskit": {
+    "#": 283,
+    "Gamepress": 283,
+    "Bulbapedia": "Surskit",
+    "Serebii": "Surskit",
+    "Smogon": "Surskit"
+  },
+  "Masquerain": {
+    "#": 284,
+    "Gamepress": 284,
+    "Bulbapedia": "Masquerain",
+    "Serebii": "Masquerain",
+    "Smogon": "Masquerain"
+  },
+  "Shroomish": {
+    "#": 285,
+    "Gamepress": 285,
+    "Bulbapedia": "Shroomish",
+    "Serebii": "Shroomish",
+    "Smogon": "Shroomish"
+  },
+  "Breloom": {
+    "#": 286,
+    "Gamepress": 286,
+    "Bulbapedia": "Breloom",
+    "Serebii": "Breloom",
+    "Smogon": "Breloom"
+  },
+  "Slakoth": {
+    "#": 287,
+    "Gamepress": 287,
+    "Bulbapedia": "Slakoth",
+    "Serebii": "Slakoth",
+    "Smogon": "Slakoth"
+  },
+  "Vigoroth": {
+    "#": 288,
+    "Gamepress": 288,
+    "Bulbapedia": "Vigoroth",
+    "Serebii": "Vigoroth",
+    "Smogon": "Vigoroth"
+  },
+  "Slaking": {
+    "#": 289,
+    "Gamepress": 289,
+    "Bulbapedia": "Slaking",
+    "Serebii": "Slaking",
+    "Smogon": "Slaking"
+  },
+  "Nincada": {
+    "#": 290,
+    "Gamepress": 290,
+    "Bulbapedia": "Nincada",
+    "Serebii": "Nincada",
+    "Smogon": "Nincada"
+  },
+  "Ninjask": {
+    "#": 291,
+    "Gamepress": 291,
+    "Bulbapedia": "Ninjask",
+    "Serebii": "Ninjask",
+    "Smogon": "Ninjask"
+  },
+  "Shedinja": {
+    "#": 292,
+    "Gamepress": 292,
+    "Bulbapedia": "Shedinja",
+    "Serebii": "Shedinja",
+    "Smogon": "Shedinja"
+  },
+  "Whismur": {
+    "#": 293,
+    "Gamepress": 293,
+    "Bulbapedia": "Whismur",
+    "Serebii": "Whismur",
+    "Smogon": "Whismur"
+  },
+  "Loudred": {
+    "#": 294,
+    "Gamepress": 294,
+    "Bulbapedia": "Loudred",
+    "Serebii": "Loudred",
+    "Smogon": "Loudred"
+  },
+  "Exploud": {
+    "#": 295,
+    "Gamepress": 295,
+    "Bulbapedia": "Exploud",
+    "Serebii": "Exploud",
+    "Smogon": "Exploud"
+  },
+  "Makuhita": {
+    "#": 296,
+    "Gamepress": 296,
+    "Bulbapedia": "Makuhita",
+    "Serebii": "Makuhita",
+    "Smogon": "Makuhita"
+  },
+  "Hariyama": {
+    "#": 297,
+    "Gamepress": 297,
+    "Bulbapedia": "Hariyama",
+    "Serebii": "Hariyama",
+    "Smogon": "Hariyama"
+  },
+  "Azurill": {
+    "#": 298,
+    "Gamepress": 298,
+    "Bulbapedia": "Azurill",
+    "Serebii": "Azurill",
+    "Smogon": "Azurill"
+  },
+  "Nosepass": {
+    "#": 299,
+    "Gamepress": 299,
+    "Bulbapedia": "Nosepass",
+    "Serebii": "Nosepass",
+    "Smogon": "Nosepass"
+  },
+  "Skitty": {
+    "#": 300,
+    "Gamepress": 300,
+    "Bulbapedia": "Skitty",
+    "Serebii": "Skitty",
+    "Smogon": "Skitty"
+  },
+  "Delcatty": {
+    "#": 301,
+    "Gamepress": 301,
+    "Bulbapedia": "Delcatty",
+    "Serebii": "Delcatty",
+    "Smogon": "Delcatty"
+  },
+  "Sableye": {
+    "#": 302,
+    "Gamepress": 302,
+    "Bulbapedia": "Sableye",
+    "Serebii": "Sableye",
+    "Smogon": "Sableye"
+  },
+  "Mega Sableye": {
+    "#": 302,
+    "Gamepress": "302-mega",
+    "Bulbapedia": "Sableye",
+    "Serebii": "Sableye",
+    "Smogon": "Sableye"
+  },
+  "Mawile": {
+    "#": 303,
+    "Gamepress": 303,
+    "Bulbapedia": "Mawile",
+    "Serebii": "Mawile",
+    "Smogon": "Mawile"
+  },
+  "Mega Mawile": {
+    "#": 303,
+    "Gamepress": "303-mega",
+    "Bulbapedia": "Mawile",
+    "Serebii": "Mawile",
+    "Smogon": "Mawile"
+  },
+  "Aron": {
+    "#": 304,
+    "Gamepress": 304,
+    "Bulbapedia": "Aron",
+    "Serebii": "Aron",
+    "Smogon": "Aron"
+  },
+  "Lairon": {
+    "#": 305,
+    "Gamepress": 305,
+    "Bulbapedia": "Lairon",
+    "Serebii": "Lairon",
+    "Smogon": "Lairon"
+  },
+  "Aggron": {
+    "#": 306,
+    "Gamepress": 306,
+    "Bulbapedia": "Aggron",
+    "Serebii": "Aggron",
+    "Smogon": "Aggron"
+  },
+  "Mega Aggron": {
+    "#": 306,
+    "Gamepress": "306-mega",
+    "Bulbapedia": "Aggron",
+    "Serebii": "Aggron",
+    "Smogon": "Aggron"
+  },
+  "Meditite": {
+    "#": 307,
+    "Gamepress": 307,
+    "Bulbapedia": "Meditite",
+    "Serebii": "Meditite",
+    "Smogon": "Meditite"
+  },
+  "Medicham": {
+    "#": 308,
+    "Gamepress": 308,
+    "Bulbapedia": "Medicham",
+    "Serebii": "Medicham",
+    "Smogon": "Medicham"
+  },
+  "Mega Medicham": {
+    "#": 308,
+    "Gamepress": "308-mega",
+    "Bulbapedia": "Medicham",
+    "Serebii": "Medicham",
+    "Smogon": "Medicham"
+  },
+  "Electrike": {
+    "#": 309,
+    "Gamepress": 309,
+    "Bulbapedia": "Electrike",
+    "Serebii": "Electrike",
+    "Smogon": "Electrike"
+  },
+  "Manectric": {
+    "#": 310,
+    "Gamepress": 310,
+    "Bulbapedia": "Manectric",
+    "Serebii": "Manectric",
+    "Smogon": "Manectric"
+  },
+  "Mega Manectric": {
+    "#": 310,
+    "Gamepress": "310-mega",
+    "Bulbapedia": "Manectric",
+    "Serebii": "Manectric",
+    "Smogon": "Manectric"
+  },
+  "Plusle": {
+    "#": 311,
+    "Gamepress": 311,
+    "Bulbapedia": "Plusle",
+    "Serebii": "Plusle",
+    "Smogon": "Plusle"
+  },
+  "Minun": {
+    "#": 312,
+    "Gamepress": 312,
+    "Bulbapedia": "Minun",
+    "Serebii": "Minun",
+    "Smogon": "Minun"
+  },
+  "Volbeat": {
+    "#": 313,
+    "Gamepress": 313,
+    "Bulbapedia": "Volbeat",
+    "Serebii": "Volbeat",
+    "Smogon": "Volbeat"
+  },
+  "Illumise": {
+    "#": 314,
+    "Gamepress": 314,
+    "Bulbapedia": "Illumise",
+    "Serebii": "Illumise",
+    "Smogon": "Illumise"
+  },
+  "Roselia": {
+    "#": 315,
+    "Gamepress": 315,
+    "Bulbapedia": "Roselia",
+    "Serebii": "Roselia",
+    "Smogon": "Roselia"
+  },
+  "Gulpin": {
+    "#": 316,
+    "Gamepress": 316,
+    "Bulbapedia": "Gulpin",
+    "Serebii": "Gulpin",
+    "Smogon": "Gulpin"
+  },
+  "Swalot": {
+    "#": 317,
+    "Gamepress": 317,
+    "Bulbapedia": "Swalot",
+    "Serebii": "Swalot",
+    "Smogon": "Swalot"
+  },
+  "Carvanha": {
+    "#": 318,
+    "Gamepress": 318,
+    "Bulbapedia": "Carvanha",
+    "Serebii": "Carvanha",
+    "Smogon": "Carvanha"
+  },
+  "Sharpedo": {
+    "#": 319,
+    "Gamepress": 319,
+    "Bulbapedia": "Sharpedo",
+    "Serebii": "Sharpedo",
+    "Smogon": "Sharpedo"
+  },
+  "Mega Sharpedo": {
+    "#": 319,
+    "Gamepress": "319-mega",
+    "Bulbapedia": "Sharpedo",
+    "Serebii": "Sharpedo",
+    "Smogon": "Sharpedo"
+  },
+  "Wailmer": {
+    "#": 320,
+    "Gamepress": 320,
+    "Bulbapedia": "Wailmer",
+    "Serebii": "Wailmer",
+    "Smogon": "Wailmer"
+  },
+  "Wailord": {
+    "#": 321,
+    "Gamepress": 321,
+    "Bulbapedia": "Wailord",
+    "Serebii": "Wailord",
+    "Smogon": "Wailord"
+  },
+  "Numel": {
+    "#": 322,
+    "Gamepress": 322,
+    "Bulbapedia": "Numel",
+    "Serebii": "Numel",
+    "Smogon": "Numel"
+  },
+  "Camerupt": {
+    "#": 323,
+    "Gamepress": 323,
+    "Bulbapedia": "Camerupt",
+    "Serebii": "Camerupt",
+    "Smogon": "Camerupt"
+  },
+  "Mega Camerupt": {
+    "#": 323,
+    "Gamepress": "323-mega",
+    "Bulbapedia": "Camerupt",
+    "Serebii": "Camerupt",
+    "Smogon": "Camerupt"
+  },
+  "Torkoal": {
+    "#": 324,
+    "Gamepress": 324,
+    "Bulbapedia": "Torkoal",
+    "Serebii": "Torkoal",
+    "Smogon": "Torkoal"
+  },
+  "Spoink": {
+    "#": 325,
+    "Gamepress": 325,
+    "Bulbapedia": "Spoink",
+    "Serebii": "Spoink",
+    "Smogon": "Spoink"
+  },
+  "Grumpig": {
+    "#": 326,
+    "Gamepress": 326,
+    "Bulbapedia": "Grumpig",
+    "Serebii": "Grumpig",
+    "Smogon": "Grumpig"
+  },
+  "Spinda": {
+    "#": 327,
+    "Gamepress": 327,
+    "Bulbapedia": "Spinda",
+    "Serebii": "Spinda",
+    "Smogon": "Spinda"
+  },
+  "Trapinch": {
+    "#": 328,
+    "Gamepress": 328,
+    "Bulbapedia": "Trapinch",
+    "Serebii": "Trapinch",
+    "Smogon": "Trapinch"
+  },
+  "Vibrava": {
+    "#": 329,
+    "Gamepress": 329,
+    "Bulbapedia": "Vibrava",
+    "Serebii": "Vibrava",
+    "Smogon": "Vibrava"
+  },
+  "Flygon": {
+    "#": 330,
+    "Gamepress": 330,
+    "Bulbapedia": "Flygon",
+    "Serebii": "Flygon",
+    "Smogon": "Flygon"
+  },
+  "Cacnea": {
+    "#": 331,
+    "Gamepress": 331,
+    "Bulbapedia": "Cacnea",
+    "Serebii": "Cacnea",
+    "Smogon": "Cacnea"
+  },
+  "Cacturne": {
+    "#": 332,
+    "Gamepress": 332,
+    "Bulbapedia": "Cacturne",
+    "Serebii": "Cacturne",
+    "Smogon": "Cacturne"
+  },
+  "Swablu": {
+    "#": 333,
+    "Gamepress": 333,
+    "Bulbapedia": "Swablu",
+    "Serebii": "Swablu",
+    "Smogon": "Swablu"
+  },
+  "Altaria": {
+    "#": 334,
+    "Gamepress": 334,
+    "Bulbapedia": "Altaria",
+    "Serebii": "Altaria",
+    "Smogon": "Altaria"
+  },
+  "Mega Altaria": {
+    "#": 334,
+    "Gamepress": "334-mega",
+    "Bulbapedia": "Altaria",
+    "Serebii": "Altaria",
+    "Smogon": "Altaria"
+  },
+  "Zangoose": {
+    "#": 335,
+    "Gamepress": 335,
+    "Bulbapedia": "Zangoose",
+    "Serebii": "Zangoose",
+    "Smogon": "Zangoose"
+  },
+  "Seviper": {
+    "#": 336,
+    "Gamepress": 336,
+    "Bulbapedia": "Seviper",
+    "Serebii": "Seviper",
+    "Smogon": "Seviper"
+  },
+  "Lunatone": {
+    "#": 337,
+    "Gamepress": 337,
+    "Bulbapedia": "Lunatone",
+    "Serebii": "Lunatone",
+    "Smogon": "Lunatone"
+  },
+  "Solrock": {
+    "#": 338,
+    "Gamepress": 338,
+    "Bulbapedia": "Solrock",
+    "Serebii": "Solrock",
+    "Smogon": "Solrock"
+  },
+  "Barboach": {
+    "#": 339,
+    "Gamepress": 339,
+    "Bulbapedia": "Barboach",
+    "Serebii": "Barboach",
+    "Smogon": "Barboach"
+  },
+  "Whiscash": {
+    "#": 340,
+    "Gamepress": 340,
+    "Bulbapedia": "Whiscash",
+    "Serebii": "Whiscash",
+    "Smogon": "Whiscash"
+  },
+  "Corphish": {
+    "#": 341,
+    "Gamepress": 341,
+    "Bulbapedia": "Corphish",
+    "Serebii": "Corphish",
+    "Smogon": "Corphish"
+  },
+  "Crawdaunt": {
+    "#": 342,
+    "Gamepress": 342,
+    "Bulbapedia": "Crawdaunt",
+    "Serebii": "Crawdaunt",
+    "Smogon": "Crawdaunt"
+  },
+  "Baltoy": {
+    "#": 343,
+    "Gamepress": 343,
+    "Bulbapedia": "Baltoy",
+    "Serebii": "Baltoy",
+    "Smogon": "Baltoy"
+  },
+  "Claydol": {
+    "#": 344,
+    "Gamepress": 344,
+    "Bulbapedia": "Claydol",
+    "Serebii": "Claydol",
+    "Smogon": "Claydol"
+  },
+  "Lileep": {
+    "#": 345,
+    "Gamepress": 345,
+    "Bulbapedia": "Lileep",
+    "Serebii": "Lileep",
+    "Smogon": "Lileep"
+  },
+  "Cradily": {
+    "#": 346,
+    "Gamepress": 346,
+    "Bulbapedia": "Cradily",
+    "Serebii": "Cradily",
+    "Smogon": "Cradily"
+  },
+  "Anorith": {
+    "#": 347,
+    "Gamepress": 347,
+    "Bulbapedia": "Anorith",
+    "Serebii": "Anorith",
+    "Smogon": "Anorith"
+  },
+  "Armaldo": {
+    "#": 348,
+    "Gamepress": 348,
+    "Bulbapedia": "Armaldo",
+    "Serebii": "Armaldo",
+    "Smogon": "Armaldo"
+  },
+  "Feebas": {
+    "#": 349,
+    "Gamepress": 349,
+    "Bulbapedia": "Feebas",
+    "Serebii": "Feebas",
+    "Smogon": "Feebas"
+  },
+  "Milotic": {
+    "#": 350,
+    "Gamepress": 350,
+    "Bulbapedia": "Milotic",
+    "Serebii": "Milotic",
+    "Smogon": "Milotic"
+  },
+  "Castform": {
+    "#": 351,
+    "Gamepress": 351,
+    "Bulbapedia": "Castform",
+    "Serebii": "Castform",
+    "Smogon": "Castform"
+  },
+  "Castform - Snowy": {
+    "#": 351,
+    "Gamepress": "351-snowy",
+    "Bulbapedia": "Castform",
+    "Serebii": "Castform",
+    "Smogon": "Castform"
+  },
+  "Castform - Sunny": {
+    "#": 351,
+    "Gamepress": "351-sunny",
+    "Bulbapedia": "Castform",
+    "Serebii": "Castform",
+    "Smogon": "Castform"
+  },
+  "Castform - Rainy": {
+    "#": 351,
+    "Gamepress": "351-rainy",
+    "Bulbapedia": "Castform",
+    "Serebii": "Castform",
+    "Smogon": "Castform"
+  },
+  "Kecleon": {
+    "#": 352,
+    "Gamepress": 352,
+    "Bulbapedia": "Kecleon",
+    "Serebii": "Kecleon",
+    "Smogon": "Kecleon"
+  },
+  "Shuppet": {
+    "#": 353,
+    "Gamepress": 353,
+    "Bulbapedia": "Shuppet",
+    "Serebii": "Shuppet",
+    "Smogon": "Shuppet"
+  },
+  "Banette": {
+    "#": 354,
+    "Gamepress": 354,
+    "Bulbapedia": "Banette",
+    "Serebii": "Banette",
+    "Smogon": "Banette"
+  },
+  "Mega Banette": {
+    "#": "354-mega",
+    "Gamepress": "354-mega",
+    "Bulbapedia": "Banette",
+    "Serebii": "Banette",
+    "Smogon": "Banette"
+  },
+  "Duskull": {
+    "#": 355,
+    "Gamepress": 355,
+    "Bulbapedia": "Duskull",
+    "Serebii": "Duskull",
+    "Smogon": "Duskull"
+  },
+  "Dusclops": {
+    "#": 356,
+    "Gamepress": 356,
+    "Bulbapedia": "Dusclops",
+    "Serebii": "Dusclops",
+    "Smogon": "Dusclops"
+  },
+  "Tropius": {
+    "#": 357,
+    "Gamepress": 357,
+    "Bulbapedia": "Tropius",
+    "Serebii": "Tropius",
+    "Smogon": "Tropius"
+  },
+  "Chimecho": {
+    "#": 358,
+    "Gamepress": 358,
+    "Bulbapedia": "Chimecho",
+    "Serebii": "Chimecho",
+    "Smogon": "Chimecho"
+  },
+  "Absol": {
+    "#": 359,
+    "Gamepress": 359,
+    "Bulbapedia": "Absol",
+    "Serebii": "Absol",
+    "Smogon": "Absol"
+  },
+  "Mega Absol": {
+    "#": 359,
+    "Gamepress": "359-mega",
+    "Bulbapedia": "Absol",
+    "Serebii": "Absol",
+    "Smogon": "Absol"
+  },
+  "Wynaut": {
+    "#": 360,
+    "Gamepress": 360,
+    "Bulbapedia": "Wynaut",
+    "Serebii": "Wynaut",
+    "Smogon": "Wynaut"
+  },
+  "Snorunt": {
+    "#": 361,
+    "Gamepress": 361,
+    "Bulbapedia": "Snorunt",
+    "Serebii": "Snorunt",
+    "Smogon": "Snorunt"
+  },
+  "Glalie": {
+    "#": 362,
+    "Gamepress": 362,
+    "Bulbapedia": "Glalie",
+    "Serebii": "Glalie",
+    "Smogon": "Glalie"
+  },
+  "Mega Glalie": {
+    "#": 362,
+    "Gamepress": "362-mega",
+    "Bulbapedia": "Glalie",
+    "Serebii": "Glalie",
+    "Smogon": "Glalie"
+  },
+  "Spheal": {
+    "#": 363,
+    "Gamepress": 363,
+    "Bulbapedia": "Spheal",
+    "Serebii": "Spheal",
+    "Smogon": "Spheal"
+  },
+  "Sealeo": {
+    "#": 364,
+    "Gamepress": 364,
+    "Bulbapedia": "Sealeo",
+    "Serebii": "Sealeo",
+    "Smogon": "Sealeo"
+  },
+  "Walrein": {
+    "#": 365,
+    "Gamepress": 365,
+    "Bulbapedia": "Walrein",
+    "Serebii": "Walrein",
+    "Smogon": "Walrein"
+  },
+  "Clamperl": {
+    "#": 366,
+    "Gamepress": 366,
+    "Bulbapedia": "Clamperl",
+    "Serebii": "Clamperl",
+    "Smogon": "Clamperl"
+  },
+  "Huntail": {
+    "#": 367,
+    "Gamepress": 367,
+    "Bulbapedia": "Huntail",
+    "Serebii": "Huntail",
+    "Smogon": "Huntail"
+  },
+  "Gorebyss": {
+    "#": 368,
+    "Gamepress": 368,
+    "Bulbapedia": "Gorebyss",
+    "Serebii": "Gorebyss",
+    "Smogon": "Gorebyss"
+  },
+  "Relicanth": {
+    "#": 369,
+    "Gamepress": 369,
+    "Bulbapedia": "Relicanth",
+    "Serebii": "Relicanth",
+    "Smogon": "Relicanth"
+  },
+  "Luvdisc": {
+    "#": 370,
+    "Gamepress": 370,
+    "Bulbapedia": "Luvdisc",
+    "Serebii": "Luvdisc",
+    "Smogon": "Luvdisc"
+  },
+  "Bagon": {
+    "#": 371,
+    "Gamepress": 371,
+    "Bulbapedia": "Bagon",
+    "Serebii": "Bagon",
+    "Smogon": "Bagon"
+  },
+  "Shelgon": {
+    "#": 372,
+    "Gamepress": 372,
+    "Bulbapedia": "Shelgon",
+    "Serebii": "Shelgon",
+    "Smogon": "Shelgon"
+  },
+  "Salamence": {
+    "#": 373,
+    "Gamepress": 373,
+    "Bulbapedia": "Salamence",
+    "Serebii": "Salamence",
+    "Smogon": "Salamence"
+  },
+  "Mega Salamence": {
+    "#": 373,
+    "Gamepress": "373-mega",
+    "Bulbapedia": "Salamence",
+    "Serebii": "Salamence",
+    "Smogon": "Salamence"
+  },
+  "Beldum": {
+    "#": 374,
+    "Gamepress": 374,
+    "Bulbapedia": "Beldum",
+    "Serebii": "Beldum",
+    "Smogon": "Beldum"
+  },
+  "Metang": {
+    "#": 375,
+    "Gamepress": 375,
+    "Bulbapedia": "Metang",
+    "Serebii": "Metang",
+    "Smogon": "Metang"
+  },
+  "Metagross": {
+    "#": 376,
+    "Gamepress": 376,
+    "Bulbapedia": "Metagross",
+    "Serebii": "Metagross",
+    "Smogon": "Metagross"
+  },
+  "Mega Metagross": {
+    "#": 376,
+    "Gamepress": "376-mega",
+    "Bulbapedia": "Metagross",
+    "Serebii": "Metagross",
+    "Smogon": "Metagross"
+  },
+  "Regirock": {
+    "#": 377,
+    "Gamepress": 377,
+    "Bulbapedia": "Regirock",
+    "Serebii": "Regirock",
+    "Smogon": "Regirock"
+  },
+  "Regice": {
+    "#": 378,
+    "Gamepress": 378,
+    "Bulbapedia": "Regice",
+    "Serebii": "Regice",
+    "Smogon": "Regice"
+  },
+  "Registeel": {
+    "#": 379,
+    "Gamepress": 379,
+    "Bulbapedia": "Registeel",
+    "Serebii": "Registeel",
+    "Smogon": "Registeel"
+  },
+  "Latias": {
+    "#": 380,
+    "Gamepress": 380,
+    "Bulbapedia": "Latias",
+    "Serebii": "Latias",
+    "Smogon": "Latias"
+  },
+  "Mega Latias": {
+    "#": 380,
+    "Gamepress": "380-mega",
+    "Bulbapedia": "Latias",
+    "Serebii": "Latias",
+    "Smogon": "Latias"
+  },
+  "Latios": {
+    "#": 381,
+    "Gamepress": 381,
+    "Bulbapedia": "Latios",
+    "Serebii": "Latios",
+    "Smogon": "Latios"
+  },
+  "Mega Latios": {
+    "#": 381,
+    "Gamepress": "381-mega",
+    "Bulbapedia": "Latios",
+    "Serebii": "Latios",
+    "Smogon": "Latios"
+  },
+  "Kyogre": {
+    "#": 382,
+    "Gamepress": 382,
+    "Bulbapedia": "Kyogre",
+    "Serebii": "Kyogre",
+    "Smogon": "Kyogre"
+  },
+  "Primal Kyogre": {
+    "#": 382,
+    "Gamepress": "382-primal",
+    "Bulbapedia": "Kyogre",
+    "Serebii": "Kyogre",
+    "Smogon": "Kyogre"
+  },
+  "Groudon": {
+    "#": 383,
+    "Gamepress": 383,
+    "Bulbapedia": "Groudon",
+    "Serebii": "Groudon",
+    "Smogon": "Groudon"
+  },
+  "Primal Groudon": {
+    "#": 383,
+    "Gamepress": "383-primal",
+    "Bulbapedia": "Groudon",
+    "Serebii": "Groudon",
+    "Smogon": "Groudon"
+  },
+  "Rayquaza": {
+    "#": 384,
+    "Gamepress": 384,
+    "Bulbapedia": "Rayquaza",
+    "Serebii": "Rayquaza",
+    "Smogon": "Rayquaza"
+  },
+  "Mega Rayquaza": {
+    "#": 384,
+    "Gamepress": "384-mega",
+    "Bulbapedia": "Rayquaza",
+    "Serebii": "Rayquaza",
+    "Smogon": "Rayquaza"
+  },
+  "Jirachi": {
+    "#": 385,
+    "Gamepress": 385,
+    "Bulbapedia": "Jirachi",
+    "Serebii": "Jirachi",
+    "Smogon": "Jirachi"
+  },
+  "Deoxys - Normal Forme": {
+    "#": 386,
+    "Gamepress": "386-normal",
+    "Bulbapedia": "Deoxys",
+    "Serebii": "Deoxys",
+    "Smogon": "Deoxys"
+  },
+  "Deoxys - Attack Forme": {
+    "#": 386,
+    "Gamepress": "386-attack",
+    "Bulbapedia": "Deoxys",
+    "Serebii": "Deoxys",
+    "Smogon": "Deoxys"
+  },
+  "Deoxys - Defense Forme": {
+    "#": 386,
+    "Gamepress": "386-defense",
+    "Bulbapedia": "Deoxys",
+    "Serebii": "Deoxys",
+    "Smogon": "Deoxys"
+  },
+  "Deoxys - Speed Forme": {
+    "#": 386,
+    "Gamepress": "386-speed",
+    "Bulbapedia": "Deoxys",
+    "Serebii": "Deoxys",
+    "Smogon": "Deoxys"
+  },
+  "Turtwig": {
+    "#": 387,
+    "Gamepress": 387,
+    "Bulbapedia": "Turtwig",
+    "Serebii": "Turtwig",
+    "Smogon": "Turtwig"
+  },
+  "Grotle": {
+    "#": 388,
+    "Gamepress": 388,
+    "Bulbapedia": "Grotle",
+    "Serebii": "Grotle",
+    "Smogon": "Grotle"
+  },
+  "Torterra": {
+    "#": 389,
+    "Gamepress": 389,
+    "Bulbapedia": "Torterra",
+    "Serebii": "Torterra",
+    "Smogon": "Torterra"
+  },
+  "Chimchar": {
+    "#": 390,
+    "Gamepress": 390,
+    "Bulbapedia": "Chimchar",
+    "Serebii": "Chimchar",
+    "Smogon": "Chimchar"
+  },
+  "Monferno": {
+    "#": 391,
+    "Gamepress": 391,
+    "Bulbapedia": "Monferno",
+    "Serebii": "Monferno",
+    "Smogon": "Monferno"
+  },
+  "Infernape": {
+    "#": 392,
+    "Gamepress": 392,
+    "Bulbapedia": "Infernape",
+    "Serebii": "Infernape",
+    "Smogon": "Infernape"
+  },
+  "Piplup": {
+    "#": 393,
+    "Gamepress": 393,
+    "Bulbapedia": "Piplup",
+    "Serebii": "Piplup",
+    "Smogon": "Piplup"
+  },
+  "Prinplup": {
+    "#": 394,
+    "Gamepress": 394,
+    "Bulbapedia": "Prinplup",
+    "Serebii": "Prinplup",
+    "Smogon": "Prinplup"
+  },
+  "Empoleon": {
+    "#": 395,
+    "Gamepress": 395,
+    "Bulbapedia": "Empoleon",
+    "Serebii": "Empoleon",
+    "Smogon": "Empoleon"
+  },
+  "Starly": {
+    "#": 396,
+    "Gamepress": 396,
+    "Bulbapedia": "Starly",
+    "Serebii": "Starly",
+    "Smogon": "Starly"
+  },
+  "Staravia": {
+    "#": 397,
+    "Gamepress": 397,
+    "Bulbapedia": "Staravia",
+    "Serebii": "Staravia",
+    "Smogon": "Staravia"
+  },
+  "Staraptor": {
+    "#": 398,
+    "Gamepress": 398,
+    "Bulbapedia": "Staraptor",
+    "Serebii": "Staraptor",
+    "Smogon": "Staraptor"
+  },
+  "Bidoof": {
+    "#": 399,
+    "Gamepress": 399,
+    "Bulbapedia": "Bidoof",
+    "Serebii": "Bidoof",
+    "Smogon": "Bidoof"
+  },
+  "Bibarel": {
+    "#": 400,
+    "Gamepress": 400,
+    "Bulbapedia": "Bibarel",
+    "Serebii": "Bibarel",
+    "Smogon": "Bibarel"
+  },
+  "Kricketot": {
+    "#": 401,
+    "Gamepress": 401,
+    "Bulbapedia": "Kricketot",
+    "Serebii": "Kricketot",
+    "Smogon": "Kricketot"
+  },
+  "Kricketune": {
+    "#": 402,
+    "Gamepress": 402,
+    "Bulbapedia": "Kricketune",
+    "Serebii": "Kricketune",
+    "Smogon": "Kricketune"
+  },
+  "Shinx": {
+    "#": 403,
+    "Gamepress": 403,
+    "Bulbapedia": "Shinx",
+    "Serebii": "Shinx",
+    "Smogon": "Shinx"
+  },
+  "Luxio": {
+    "#": 404,
+    "Gamepress": 404,
+    "Bulbapedia": "Luxio",
+    "Serebii": "Luxio",
+    "Smogon": "Luxio"
+  },
+  "Luxray": {
+    "#": 405,
+    "Gamepress": 405,
+    "Bulbapedia": "Luxray",
+    "Serebii": "Luxray",
+    "Smogon": "Luxray"
+  },
+  "Budew": {
+    "#": 406,
+    "Gamepress": 406,
+    "Bulbapedia": "Budew",
+    "Serebii": "Budew",
+    "Smogon": "Budew"
+  },
+  "Roserade": {
+    "#": 407,
+    "Gamepress": 407,
+    "Bulbapedia": "Roserade",
+    "Serebii": "Roserade",
+    "Smogon": "Roserade"
+  },
+  "Cranidos": {
+    "#": 408,
+    "Gamepress": 408,
+    "Bulbapedia": "Cranidos",
+    "Serebii": "Cranidos",
+    "Smogon": "Cranidos"
+  },
+  "Rampardos": {
+    "#": 409,
+    "Gamepress": 409,
+    "Bulbapedia": "Rampardos",
+    "Serebii": "Rampardos",
+    "Smogon": "Rampardos"
+  },
+  "Shieldon": {
+    "#": 410,
+    "Gamepress": 410,
+    "Bulbapedia": "Shieldon",
+    "Serebii": "Shieldon",
+    "Smogon": "Shieldon"
+  },
+  "Bastiodon": {
+    "#": 411,
+    "Gamepress": 411,
+    "Bulbapedia": "Bastiodon",
+    "Serebii": "Bastiodon",
+    "Smogon": "Bastiodon"
+  },
+  "Burmy": {
+    "#": 412,
+    "Gamepress": 412,
+    "Bulbapedia": "Burmy",
+    "Serebii": "Burmy",
+    "Smogon": "Burmy"
+  },
+  "Wormadam - Plant Cloak": {
+    "#": 413,
+    "Gamepress": "413-plant",
+    "Bulbapedia": "Wormadam",
+    "Serebii": "Wormadam",
+    "Smogon": "Wormadam"
+  },
+  "Wormadam - Sandy Cloak": {
+    "#": 413,
+    "Gamepress": "413-sandy",
+    "Bulbapedia": "Wormadam",
+    "Serebii": "Wormadam",
+    "Smogon": "Wormadam"
+  },
+  "Wormadam - Trash Cloak": {
+    "#": 413,
+    "Gamepress": "413-trash",
+    "Bulbapedia": "Wormadam",
+    "Serebii": "Wormadam",
+    "Smogon": "Wormadam"
+  },
+  "Mothim": {
+    "#": 414,
+    "Gamepress": 414,
+    "Bulbapedia": "Mothim",
+    "Serebii": "Mothim",
+    "Smogon": "Mothim"
+  },
+  "Combee": {
+    "#": 415,
+    "Gamepress": 415,
+    "Bulbapedia": "Combee",
+    "Serebii": "Combee",
+    "Smogon": "Combee"
+  },
+  "Vespiquen": {
+    "#": 416,
+    "Gamepress": 416,
+    "Bulbapedia": "Vespiquen",
+    "Serebii": "Vespiquen",
+    "Smogon": "Vespiquen"
+  },
+  "Pachirisu": {
+    "#": 417,
+    "Gamepress": 417,
+    "Bulbapedia": "Pachirisu",
+    "Serebii": "Pachirisu",
+    "Smogon": "Pachirisu"
+  },
+  "Buizel": {
+    "#": 418,
+    "Gamepress": 418,
+    "Bulbapedia": "Buizel",
+    "Serebii": "Buizel",
+    "Smogon": "Buizel"
+  },
+  "Floatzel": {
+    "#": 419,
+    "Gamepress": 419,
+    "Bulbapedia": "Floatzel",
+    "Serebii": "Floatzel",
+    "Smogon": "Floatzel"
+  },
+  "Cherubi": {
+    "#": 420,
+    "Gamepress": 420,
+    "Bulbapedia": "Cherubi",
+    "Serebii": "Cherubi",
+    "Smogon": "Cherubi"
+  },
+  "Cherrim - Overcast": {
+    "#": 421,
+    "Gamepress": "421",
+    "Bulbapedia": "Cherrim",
+    "Serebii": "Cherrim",
+    "Smogon": "Cherrim"
+  },
+  "Cherrim - Sunshine": {
+    "#": 421,
+    "Gamepress": "421-sunshine",
+    "Bulbapedia": "Cherrim",
+    "Serebii": "Cherrim",
+    "Smogon": "Cherrim"
+  },
+  "Shellos": {
+    "#": 422,
+    "Gamepress": 422,
+    "Bulbapedia": "Shellos",
+    "Serebii": "Shellos",
+    "Smogon": "Shellos"
+  },
+  "Gastrodon": {
+    "#": 423,
+    "Gamepress": 423,
+    "Bulbapedia": "Gastrodon",
+    "Serebii": "Gastrodon",
+    "Smogon": "Gastrodon"
+  },
+  "Ambipom": {
+    "#": 424,
+    "Gamepress": 424,
+    "Bulbapedia": "Ambipom",
+    "Serebii": "Ambipom",
+    "Smogon": "Ambipom"
+  },
+  "Drifloon": {
+    "#": 425,
+    "Gamepress": 425,
+    "Bulbapedia": "Drifloon",
+    "Serebii": "Drifloon",
+    "Smogon": "Drifloon"
+  },
+  "Drifblim": {
+    "#": 426,
+    "Gamepress": 426,
+    "Bulbapedia": "Drifblim",
+    "Serebii": "Drifblim",
+    "Smogon": "Drifblim"
+  },
+  "Buneary": {
+    "#": 427,
+    "Gamepress": 427,
+    "Bulbapedia": "Buneary",
+    "Serebii": "Buneary",
+    "Smogon": "Buneary"
+  },
+  "Lopunny": {
+    "#": 428,
+    "Gamepress": 428,
+    "Bulbapedia": "Lopunny",
+    "Serebii": "Lopunny",
+    "Smogon": "Lopunny"
+  },
+  "Mega Lopunny": {
+    "#": "428-mega",
+    "Gamepress": "428-mega",
+    "Bulbapedia": "Lopunny",
+    "Serebii": "Lopunny",
+    "Smogon": "Lopunny"
+  },
+  "Mismagius": {
+    "#": 429,
+    "Gamepress": 429,
+    "Bulbapedia": "Mismagius",
+    "Serebii": "Mismagius",
+    "Smogon": "Mismagius"
+  },
+  "Honchkrow": {
+    "#": 430,
+    "Gamepress": 430,
+    "Bulbapedia": "Honchkrow",
+    "Serebii": "Honchkrow",
+    "Smogon": "Honchkrow"
+  },
+  "Glameow": {
+    "#": 431,
+    "Gamepress": 431,
+    "Bulbapedia": "Glameow",
+    "Serebii": "Glameow",
+    "Smogon": "Glameow"
+  },
+  "Purugly": {
+    "#": 432,
+    "Gamepress": 432,
+    "Bulbapedia": "Purugly",
+    "Serebii": "Purugly",
+    "Smogon": "Purugly"
+  },
+  "Chingling": {
+    "#": 433,
+    "Gamepress": 433,
+    "Bulbapedia": "Chingling",
+    "Serebii": "Chingling",
+    "Smogon": "Chingling"
+  },
+  "Stunky": {
+    "#": 434,
+    "Gamepress": 434,
+    "Bulbapedia": "Stunky",
+    "Serebii": "Stunky",
+    "Smogon": "Stunky"
+  },
+  "Skuntank": {
+    "#": 435,
+    "Gamepress": 435,
+    "Bulbapedia": "Skuntank",
+    "Serebii": "Skuntank",
+    "Smogon": "Skuntank"
+  },
+  "Bronzor": {
+    "#": 436,
+    "Gamepress": 436,
+    "Bulbapedia": "Bronzor",
+    "Serebii": "Bronzor",
+    "Smogon": "Bronzor"
+  },
+  "Bronzong": {
+    "#": 437,
+    "Gamepress": 437,
+    "Bulbapedia": "Bronzong",
+    "Serebii": "Bronzong",
+    "Smogon": "Bronzong"
+  },
+  "Bonsly": {
+    "#": 438,
+    "Gamepress": 438,
+    "Bulbapedia": "Bonsly",
+    "Serebii": "Bonsly",
+    "Smogon": "Bonsly"
+  },
+  "Mime Jr.": {
+    "#": 439,
+    "Gamepress": 439,
+    "Bulbapedia": "Mime_Jr.",
+    "Serebii": "MimeJr.",
+    "Smogon": "Mime_Jr."
+  },
+  "Happiny": {
+    "#": 440,
+    "Gamepress": 440,
+    "Bulbapedia": "Happiny",
+    "Serebii": "Happiny",
+    "Smogon": "Happiny"
+  },
+  "Chatot": {
+    "#": 441,
+    "Gamepress": 441,
+    "Bulbapedia": "Chatot",
+    "Serebii": "Chatot",
+    "Smogon": "Chatot"
+  },
+  "Spiritomb": {
+    "#": 442,
+    "Gamepress": 442,
+    "Bulbapedia": "Spiritomb",
+    "Serebii": "Spiritomb",
+    "Smogon": "Spiritomb"
+  },
+  "Gible": {
+    "#": 443,
+    "Gamepress": 443,
+    "Bulbapedia": "Gible",
+    "Serebii": "Gible",
+    "Smogon": "Gible"
+  },
+  "Gabite": {
+    "#": 444,
+    "Gamepress": 444,
+    "Bulbapedia": "Gabite",
+    "Serebii": "Gabite",
+    "Smogon": "Gabite"
+  },
+  "Garchomp": {
+    "#": 445,
+    "Gamepress": 445,
+    "Bulbapedia": "Garchomp",
+    "Serebii": "Garchomp",
+    "Smogon": "Garchomp"
+  },
+  "Mega Garchomp": {
+    "#": 445,
+    "Gamepress": 445,
+    "Bulbapedia": "Garchomp",
+    "Serebii": "Garchomp",
+    "Smogon": "Garchomp"
+  },
+  "Munchlax": {
+    "#": 446,
+    "Gamepress": 446,
+    "Bulbapedia": "Munchlax",
+    "Serebii": "Munchlax",
+    "Smogon": "Munchlax"
+  },
+  "Riolu": {
+    "#": 447,
+    "Gamepress": 447,
+    "Bulbapedia": "Riolu",
+    "Serebii": "Riolu",
+    "Smogon": "Riolu"
+  },
+  "Lucario": {
+    "#": 448,
+    "Gamepress": 448,
+    "Bulbapedia": "Lucario",
+    "Serebii": "Lucario",
+    "Smogon": "Lucario"
+  },
+  "Mega Lucario": {
+    "#": 448,
+    "Gamepress": 448,
+    "Bulbapedia": "Lucario",
+    "Serebii": "Lucario",
+    "Smogon": "Lucario"
+  },
+  "Hippopotas": {
+    "#": 449,
+    "Gamepress": 449,
+    "Bulbapedia": "Hippopotas",
+    "Serebii": "Hippopotas",
+    "Smogon": "Hippopotas"
+  },
+  "Hippowdon": {
+    "#": 450,
+    "Gamepress": 450,
+    "Bulbapedia": "Hippowdon",
+    "Serebii": "Hippowdon",
+    "Smogon": "Hippowdon"
+  },
+  "Skorupi": {
+    "#": 451,
+    "Gamepress": 451,
+    "Bulbapedia": "Skorupi",
+    "Serebii": "Skorupi",
+    "Smogon": "Skorupi"
+  },
+  "Drapion": {
+    "#": 452,
+    "Gamepress": 452,
+    "Bulbapedia": "Drapion",
+    "Serebii": "Drapion",
+    "Smogon": "Drapion"
+  },
+  "Croagunk": {
+    "#": 453,
+    "Gamepress": 453,
+    "Bulbapedia": "Croagunk",
+    "Serebii": "Croagunk",
+    "Smogon": "Croagunk"
+  },
+  "Toxicroak": {
+    "#": 454,
+    "Gamepress": 454,
+    "Bulbapedia": "Toxicroak",
+    "Serebii": "Toxicroak",
+    "Smogon": "Toxicroak"
+  },
+  "Carnivine": {
+    "#": 455,
+    "Gamepress": 455,
+    "Bulbapedia": "Carnivine",
+    "Serebii": "Carnivine",
+    "Smogon": "Carnivine"
+  },
+  "Finneon": {
+    "#": 456,
+    "Gamepress": 456,
+    "Bulbapedia": "Finneon",
+    "Serebii": "Finneon",
+    "Smogon": "Finneon"
+  },
+  "Lumineon": {
+    "#": 457,
+    "Gamepress": 457,
+    "Bulbapedia": "Lumineon",
+    "Serebii": "Lumineon",
+    "Smogon": "Lumineon"
+  },
+  "Mantyke": {
+    "#": 458,
+    "Gamepress": 458,
+    "Bulbapedia": "Mantyke",
+    "Serebii": "Mantyke",
+    "Smogon": "Mantyke"
+  },
+  "Snover": {
+    "#": 459,
+    "Gamepress": 459,
+    "Bulbapedia": "Snover",
+    "Serebii": "Snover",
+    "Smogon": "Snover"
+  },
+  "Abomasnow": {
+    "#": 460,
+    "Gamepress": 460,
+    "Bulbapedia": "Abomasnow",
+    "Serebii": "Abomasnow",
+    "Smogon": "Abomasnow"
+  },
+  "Mega Abomasnow": {
+    "#": 460,
+    "Gamepress": 460,
+    "Bulbapedia": "Abomasnow",
+    "Serebii": "Abomasnow",
+    "Smogon": "Abomasnow"
+  },
+  "Weavile": {
+    "#": 461,
+    "Gamepress": 461,
+    "Bulbapedia": "Weavile",
+    "Serebii": "Weavile",
+    "Smogon": "Weavile"
+  },
+  "Magnezone": {
+    "#": 462,
+    "Gamepress": 462,
+    "Bulbapedia": "Magnezone",
+    "Serebii": "Magnezone",
+    "Smogon": "Magnezone"
+  },
+  "Lickilicky": {
+    "#": 463,
+    "Gamepress": 463,
+    "Bulbapedia": "Lickilicky",
+    "Serebii": "Lickilicky",
+    "Smogon": "Lickilicky"
+  },
+  "Rhyperior": {
+    "#": 464,
+    "Gamepress": 464,
+    "Bulbapedia": "Rhyperior",
+    "Serebii": "Rhyperior",
+    "Smogon": "Rhyperior"
+  },
+  "Tangrowth": {
+    "#": 465,
+    "Gamepress": 465,
+    "Bulbapedia": "Tangrowth",
+    "Serebii": "Tangrowth",
+    "Smogon": "Tangrowth"
+  },
+  "Electivire": {
+    "#": 466,
+    "Gamepress": 466,
+    "Bulbapedia": "Electivire",
+    "Serebii": "Electivire",
+    "Smogon": "Electivire"
+  },
+  "Magmortar": {
+    "#": 467,
+    "Gamepress": 467,
+    "Bulbapedia": "Magmortar",
+    "Serebii": "Magmortar",
+    "Smogon": "Magmortar"
+  },
+  "Togekiss": {
+    "#": 468,
+    "Gamepress": 468,
+    "Bulbapedia": "Togekiss",
+    "Serebii": "Togekiss",
+    "Smogon": "Togekiss"
+  },
+  "Yanmega": {
+    "#": 469,
+    "Gamepress": 469,
+    "Bulbapedia": "Yanmega",
+    "Serebii": "Yanmega",
+    "Smogon": "Yanmega"
+  },
+  "Leafeon": {
+    "#": 470,
+    "Gamepress": 470,
+    "Bulbapedia": "Leafeon",
+    "Serebii": "Leafeon",
+    "Smogon": "Leafeon"
+  },
+  "Glaceon": {
+    "#": 471,
+    "Gamepress": 471,
+    "Bulbapedia": "Glaceon",
+    "Serebii": "Glaceon",
+    "Smogon": "Glaceon"
+  },
+  "Gliscor": {
+    "#": 472,
+    "Gamepress": 472,
+    "Bulbapedia": "Gliscor",
+    "Serebii": "Gliscor",
+    "Smogon": "Gliscor"
+  },
+  "Mamoswine": {
+    "#": 473,
+    "Gamepress": 473,
+    "Bulbapedia": "Mamoswine",
+    "Serebii": "Mamoswine",
+    "Smogon": "Mamoswine"
+  },
+  "Porygon-Z": {
+    "#": 474,
+    "Gamepress": 474,
+    "Bulbapedia": "Porygon-Z",
+    "Serebii": "Porygon-Z",
+    "Smogon": "Porygon-Z"
+  },
+  "Gallade": {
+    "#": 475,
+    "Gamepress": 475,
+    "Bulbapedia": "Gallade",
+    "Serebii": "Gallade",
+    "Smogon": "Gallade"
+  },
+  "Mega Gallade": {
+    "#": 475,
+    "Gamepress": 475,
+    "Bulbapedia": "Gallade",
+    "Serebii": "Gallade",
+    "Smogon": "Gallade"
+  },
+  "Probopass": {
+    "#": 476,
+    "Gamepress": 476,
+    "Bulbapedia": "Probopass",
+    "Serebii": "Probopass",
+    "Smogon": "Probopass"
+  },
+  "Dusknoir": {
+    "#": 477,
+    "Gamepress": 477,
+    "Bulbapedia": "Dusknoir",
+    "Serebii": "Dusknoir",
+    "Smogon": "Dusknoir"
+  },
+  "Froslass": {
+    "#": 478,
+    "Gamepress": 478,
+    "Bulbapedia": "Froslass",
+    "Serebii": "Froslass",
+    "Smogon": "Froslass"
+  },
+  "Rotom": {
+    "#": 479,
+    "Gamepress": 479,
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Rotom - Heat": {
+    "#": 479,
+    "Gamepress": "479-heat",
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Rotom - Wash": {
+    "#": 479,
+    "Gamepress": "479-wash",
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Rotom - Frost": {
+    "#": 479,
+    "Gamepress": "479-frost",
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Rotom - Fan": {
+    "#": 479,
+    "Gamepress": "479-fan",
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Rotom - Mow": {
+    "#": 479,
+    "Gamepress": "479-mow",
+    "Bulbapedia": "Rotom",
+    "Serebii": "Rotom",
+    "Smogon": "Rotom"
+  },
+  "Uxie": {
+    "#": 480,
+    "Gamepress": 480,
+    "Bulbapedia": "Uxie",
+    "Serebii": "Uxie",
+    "Smogon": "Uxie"
+  },
+  "Mesprit": {
+    "#": 481,
+    "Gamepress": 481,
+    "Bulbapedia": "Mesprit",
+    "Serebii": "Mesprit",
+    "Smogon": "Mesprit"
+  },
+  "Azelf": {
+    "#": 482,
+    "Gamepress": 482,
+    "Bulbapedia": "Azelf",
+    "Serebii": "Azelf",
+    "Smogon": "Azelf"
+  },
+  "Dialga": {
+    "#": 483,
+    "Gamepress": 483,
+    "Bulbapedia": "Dialga",
+    "Serebii": "Dialga",
+    "Smogon": "Dialga"
+  },
+  "Palkia": {
+    "#": 484,
+    "Gamepress": 484,
+    "Bulbapedia": "Palkia",
+    "Serebii": "Palkia",
+    "Smogon": "Palkia"
+  },
+  "Heatran": {
+    "#": 485,
+    "Gamepress": 485,
+    "Bulbapedia": "Heatran",
+    "Serebii": "Heatran",
+    "Smogon": "Heatran"
+  },
+  "Regigigas": {
+    "#": 486,
+    "Gamepress": 486,
+    "Bulbapedia": "Regigigas",
+    "Serebii": "Regigigas",
+    "Smogon": "Regigigas"
+  },
+  "Giratina - Altered Forme": {
+    "#": 487,
+    "Gamepress": "487-altered",
+    "Bulbapedia": "Giratina",
+    "Serebii": "Giratina",
+    "Smogon": "Giratina"
+  },
+  "Giratina - Origin Forme": {
+    "#": 487,
+    "Gamepress": "487-origin",
+    "Bulbapedia": "Giratina",
+    "Serebii": "Giratina",
+    "Smogon": "Giratina"
+  },
+  "Cresselia": {
+    "#": 488,
+    "Gamepress": 488,
+    "Bulbapedia": "Cresselia",
+    "Serebii": "Cresselia",
+    "Smogon": "Cresselia"
+  },
+  "Phione": {
+    "#": 489,
+    "Gamepress": 489,
+    "Bulbapedia": "Phione",
+    "Serebii": "Phione",
+    "Smogon": "Phione"
+  },
+  "Manaphy": {
+    "#": 490,
+    "Gamepress": 490,
+    "Bulbapedia": "Manaphy",
+    "Serebii": "Manaphy",
+    "Smogon": "Manaphy"
+  },
+  "Darkrai": {
+    "#": 491,
+    "Gamepress": 491,
+    "Bulbapedia": "Darkrai",
+    "Serebii": "Darkrai",
+    "Smogon": "Darkrai"
+  },
+  "Shaymin - Land Forme": {
+    "#": 492,
+    "Gamepress": 492,
+    "Bulbapedia": "Shaymin",
+    "Serebii": "Shaymin",
+    "Smogon": "Shaymin"
+  },
+  "Shaymin - Sky Forme": {
+    "#": 492,
+    "Gamepress": "492-0",
+    "Bulbapedia": "Shaymin",
+    "Serebii": "Shaymin",
+    "Smogon": "Shaymin"
+  },
+  "Arceus": {
+    "#": 493,
+    "Gamepress": 493,
+    "Bulbapedia": "Arceus",
+    "Serebii": "Arceus",
+    "Smogon": "Arceus"
+  },
+  "Victini": {
+    "#": 494,
+    "Gamepress": 494,
+    "Bulbapedia": "Victini",
+    "Serebii": "Victini",
+    "Smogon": "Victini"
+  },
+  "Snivy": {
+    "#": 495,
+    "Gamepress": 495,
+    "Bulbapedia": "Snivy",
+    "Serebii": "Snivy",
+    "Smogon": "Snivy"
+  },
+  "Servine": {
+    "#": 496,
+    "Gamepress": 496,
+    "Bulbapedia": "Servine",
+    "Serebii": "Servine",
+    "Smogon": "Servine"
+  },
+  "Serperior": {
+    "#": 497,
+    "Gamepress": 497,
+    "Bulbapedia": "Serperior",
+    "Serebii": "Serperior",
+    "Smogon": "Serperior"
+  },
+  "Tepig": {
+    "#": 498,
+    "Gamepress": 498,
+    "Bulbapedia": "Tepig",
+    "Serebii": "Tepig",
+    "Smogon": "Tepig"
+  },
+  "Pignite": {
+    "#": 499,
+    "Gamepress": 499,
+    "Bulbapedia": "Pignite",
+    "Serebii": "Pignite",
+    "Smogon": "Pignite"
+  },
+  "Emboar": {
+    "#": 500,
+    "Gamepress": 500,
+    "Bulbapedia": "Emboar",
+    "Serebii": "Emboar",
+    "Smogon": "Emboar"
+  },
+  "Oshawott": {
+    "#": 501,
+    "Gamepress": 501,
+    "Bulbapedia": "Oshawott",
+    "Serebii": "Oshawott",
+    "Smogon": "Oshawott"
+  },
+  "Dewott": {
+    "#": 502,
+    "Gamepress": 502,
+    "Bulbapedia": "Dewott",
+    "Serebii": "Dewott",
+    "Smogon": "Dewott"
+  },
+  "Samurott": {
+    "#": 503,
+    "Gamepress": 503,
+    "Bulbapedia": "Samurott",
+    "Serebii": "Samurott",
+    "Smogon": "Samurott"
+  },
+  "Samurott - Hisuian Forme": {
+    "#": 503,
+    "Gamepress": "503-hisuian",
+    "Bulbapedia": "Samurott",
+    "Serebii": "Samurott",
+    "Smogon": "Samurott-hisui"
+  },
+  "Patrat": {
+    "#": 504,
+    "Gamepress": 504,
+    "Bulbapedia": "Patrat",
+    "Serebii": "Patrat",
+    "Smogon": "Patrat"
+  },
+  "Watchog": {
+    "#": 505,
+    "Gamepress": 505,
+    "Bulbapedia": "Watchog",
+    "Serebii": "Watchog",
+    "Smogon": "Watchog"
+  },
+  "Lillipup": {
+    "#": 506,
+    "Gamepress": 506,
+    "Bulbapedia": "Lillipup",
+    "Serebii": "Lillipup",
+    "Smogon": "Lillipup"
+  },
+  "Lillipup - Hisuian Forme": {
+    "#": 506,
+    "Gamepress": "506-hisuian",
+    "Bulbapedia": "Lillipup",
+    "Serebii": "Lillipup",
+    "Smogon": "Lillipup-hisui"
+  },
+  "Herdier": {
+    "#": 507,
+    "Gamepress": 507,
+    "Bulbapedia": "Herdier",
+    "Serebii": "Herdier",
+    "Smogon": "Herdier"
+  },
+  "Stoutland": {
+    "#": 508,
+    "Gamepress": 508,
+    "Bulbapedia": "Stoutland",
+    "Serebii": "Stoutland",
+    "Smogon": "Stoutland"
+  },
+  "Purrloin": {
+    "#": 509,
+    "Gamepress": 509,
+    "Bulbapedia": "Purrloin",
+    "Serebii": "Purrloin",
+    "Smogon": "Purrloin"
+  },
+  "Liepard": {
+    "#": 510,
+    "Gamepress": 510,
+    "Bulbapedia": "Liepard",
+    "Serebii": "Liepard",
+    "Smogon": "Liepard"
+  },
+  "Pansage": {
+    "#": 511,
+    "Gamepress": 511,
+    "Bulbapedia": "Pansage",
+    "Serebii": "Pansage",
+    "Smogon": "Pansage"
+  },
+  "Simisage": {
+    "#": 512,
+    "Gamepress": 512,
+    "Bulbapedia": "Simisage",
+    "Serebii": "Simisage",
+    "Smogon": "Simisage"
+  },
+  "Pansear": {
+    "#": 513,
+    "Gamepress": 513,
+    "Bulbapedia": "Pansear",
+    "Serebii": "Pansear",
+    "Smogon": "Pansear"
+  },
+  "Simisear": {
+    "#": 514,
+    "Gamepress": 514,
+    "Bulbapedia": "Simisear",
+    "Serebii": "Simisear",
+    "Smogon": "Simisear"
+  },
+  "Panpour": {
+    "#": 515,
+    "Gamepress": 515,
+    "Bulbapedia": "Panpour",
+    "Serebii": "Panpour",
+    "Smogon": "Panpour"
+  },
+  "Simipour": {
+    "#": 516,
+    "Gamepress": 516,
+    "Bulbapedia": "Simipour",
+    "Serebii": "Simipour",
+    "Smogon": "Simipour"
+  },
+  "Munna": {
+    "#": 517,
+    "Gamepress": 517,
+    "Bulbapedia": "Munna",
+    "Serebii": "Munna",
+    "Smogon": "Munna"
+  },
+  "Musharna": {
+    "#": 518,
+    "Gamepress": 518,
+    "Bulbapedia": "Musharna",
+    "Serebii": "Musharna",
+    "Smogon": "Musharna"
+  },
+  "Pidove": {
+    "#": 519,
+    "Gamepress": 519,
+    "Bulbapedia": "Pidove",
+    "Serebii": "Pidove",
+    "Smogon": "Pidove"
+  },
+  "Tranquill": {
+    "#": 520,
+    "Gamepress": 520,
+    "Bulbapedia": "Tranquill",
+    "Serebii": "Tranquill",
+    "Smogon": "Tranquill"
+  },
+  "Unfezant": {
+    "#": 521,
+    "Gamepress": 521,
+    "Bulbapedia": "Unfezant",
+    "Serebii": "Unfezant",
+    "Smogon": "Unfezant"
+  },
+  "Blitzle": {
+    "#": 522,
+    "Gamepress": 522,
+    "Bulbapedia": "Blitzle",
+    "Serebii": "Blitzle",
+    "Smogon": "Blitzle"
+  },
+  "Zebstrika": {
+    "#": 523,
+    "Gamepress": 523,
+    "Bulbapedia": "Zebstrika",
+    "Serebii": "Zebstrika",
+    "Smogon": "Zebstrika"
+  },
+  "Roggenrola": {
+    "#": 524,
+    "Gamepress": 524,
+    "Bulbapedia": "Roggenrola",
+    "Serebii": "Roggenrola",
+    "Smogon": "Roggenrola"
+  },
+  "Boldore": {
+    "#": 525,
+    "Gamepress": 525,
+    "Bulbapedia": "Boldore",
+    "Serebii": "Boldore",
+    "Smogon": "Boldore"
+  },
+  "Gigalith": {
+    "#": 526,
+    "Gamepress": 526,
+    "Bulbapedia": "Gigalith",
+    "Serebii": "Gigalith",
+    "Smogon": "Gigalith"
+  },
+  "Woobat": {
+    "#": 527,
+    "Gamepress": 527,
+    "Bulbapedia": "Woobat",
+    "Serebii": "Woobat",
+    "Smogon": "Woobat"
+  },
+  "Swoobat": {
+    "#": 528,
+    "Gamepress": 528,
+    "Bulbapedia": "Swoobat",
+    "Serebii": "Swoobat",
+    "Smogon": "Swoobat"
+  },
+  "Drilbur": {
+    "#": 529,
+    "Gamepress": 529,
+    "Bulbapedia": "Drilbur",
+    "Serebii": "Drilbur",
+    "Smogon": "Drilbur"
+  },
+  "Excadrill": {
+    "#": 530,
+    "Gamepress": 530,
+    "Bulbapedia": "Excadrill",
+    "Serebii": "Excadrill",
+    "Smogon": "Excadrill"
+  },
+  "Audino": {
+    "#": 531,
+    "Gamepress": 531,
+    "Bulbapedia": "Audino",
+    "Serebii": "Audino",
+    "Smogon": "Audino"
+  },
+  "Mega Audino": {
+    "#": 531,
+    "Gamepress": 531,
+    "Bulbapedia": "Audino",
+    "Serebii": "Audino",
+    "Smogon": "Audino"
+  },
+  "Timburr": {
+    "#": 532,
+    "Gamepress": 532,
+    "Bulbapedia": "Timburr",
+    "Serebii": "Timburr",
+    "Smogon": "Timburr"
+  },
+  "Gurdurr": {
+    "#": 533,
+    "Gamepress": 533,
+    "Bulbapedia": "Gurdurr",
+    "Serebii": "Gurdurr",
+    "Smogon": "Gurdurr"
+  },
+  "Conkeldurr": {
+    "#": 534,
+    "Gamepress": 534,
+    "Bulbapedia": "Conkeldurr",
+    "Serebii": "Conkeldurr",
+    "Smogon": "Conkeldurr"
+  },
+  "Tympole": {
+    "#": 535,
+    "Gamepress": 535,
+    "Bulbapedia": "Tympole",
+    "Serebii": "Tympole",
+    "Smogon": "Tympole"
+  },
+  "Palpitoad": {
+    "#": 536,
+    "Gamepress": 536,
+    "Bulbapedia": "Palpitoad",
+    "Serebii": "Palpitoad",
+    "Smogon": "Palpitoad"
+  },
+  "Seismitoad": {
+    "#": 537,
+    "Gamepress": 537,
+    "Bulbapedia": "Seismitoad",
+    "Serebii": "Seismitoad",
+    "Smogon": "Seismitoad"
+  },
+  "Throh": {
+    "#": 538,
+    "Gamepress": 538,
+    "Bulbapedia": "Throh",
+    "Serebii": "Throh",
+    "Smogon": "Throh"
+  },
+  "Sawk": {
+    "#": 539,
+    "Gamepress": 539,
+    "Bulbapedia": "Sawk",
+    "Serebii": "Sawk",
+    "Smogon": "Sawk"
+  },
+  "Sewaddle": {
+    "#": 540,
+    "Gamepress": 540,
+    "Bulbapedia": "Sewaddle",
+    "Serebii": "Sewaddle",
+    "Smogon": "Sewaddle"
+  },
+  "Swadloon": {
+    "#": 541,
+    "Gamepress": 541,
+    "Bulbapedia": "Swadloon",
+    "Serebii": "Swadloon",
+    "Smogon": "Swadloon"
+  },
+  "Leavanny": {
+    "#": 542,
+    "Gamepress": 542,
+    "Bulbapedia": "Leavanny",
+    "Serebii": "Leavanny",
+    "Smogon": "Leavanny"
+  },
+  "Venipede": {
+    "#": 543,
+    "Gamepress": 543,
+    "Bulbapedia": "Venipede",
+    "Serebii": "Venipede",
+    "Smogon": "Venipede"
+  },
+  "Whirlipede": {
+    "#": 544,
+    "Gamepress": 544,
+    "Bulbapedia": "Whirlipede",
+    "Serebii": "Whirlipede",
+    "Smogon": "Whirlipede"
+  },
+  "Scolipede": {
+    "#": 545,
+    "Gamepress": 545,
+    "Bulbapedia": "Scolipede",
+    "Serebii": "Scolipede",
+    "Smogon": "Scolipede"
+  },
+  "Cottonee": {
+    "#": 546,
+    "Gamepress": 546,
+    "Bulbapedia": "Cottonee",
+    "Serebii": "Cottonee",
+    "Smogon": "Cottonee"
+  },
+  "Whimsicott": {
+    "#": 547,
+    "Gamepress": 547,
+    "Bulbapedia": "Whimsicott",
+    "Serebii": "Whimsicott",
+    "Smogon": "Whimsicott"
+  },
+  "Petilil": {
+    "#": 548,
+    "Gamepress": 548,
+    "Bulbapedia": "Petilil",
+    "Serebii": "Petilil",
+    "Smogon": "Petilil"
+  },
+  "Lilligant": {
+    "#": 549,
+    "Gamepress": 549,
+    "Bulbapedia": "Lilligant",
+    "Serebii": "Lilligant",
+    "Smogon": "Lilligant"
+  },
+  "Basculin": {
+    "#": 550,
+    "Gamepress": 550,
+    "Bulbapedia": "Basculin",
+    "Serebii": "Basculin",
+    "Smogon": "Basculin"
+  },
+  "Sandile": {
+    "#": 551,
+    "Gamepress": 551,
+    "Bulbapedia": "Sandile",
+    "Serebii": "Sandile",
+    "Smogon": "Sandile"
+  },
+  "Krokorok": {
+    "#": 552,
+    "Gamepress": 552,
+    "Bulbapedia": "Krokorok",
+    "Serebii": "Krokorok",
+    "Smogon": "Krokorok"
+  },
+  "Krookodile": {
+    "#": 553,
+    "Gamepress": 553,
+    "Bulbapedia": "Krookodile",
+    "Serebii": "Krookodile",
+    "Smogon": "Krookodile"
+  },
+  "Darumaka": {
+    "#": 554,
+    "Gamepress": 554,
+    "Bulbapedia": "Darumaka",
+    "Serebii": "Darumaka",
+    "Smogon": "Darumaka"
+  },
+  "Darumaka - Galarian": {
+    "#": 554,
+    "Gamepress": "554-galarian",
+    "Bulbapedia": "Darumaka",
+    "Serebii": "Darumaka",
+    "Smogon": "Darumaka-galar"
+  },
+  "Darmanitan": {
+    "#": 555,
+    "Gamepress": 555,
+    "Bulbapedia": "Darmanitan",
+    "Serebii": "Darmanitan",
+    "Smogon": "Darmanitan"
+  },
+  "Darmanitan - Galarian": {
+    "#": 555,
+    "Gamepress": "555-galarian",
+    "Bulbapedia": "Darmanitan",
+    "Serebii": "Darmanitan",
+    "Smogon": "Darmanitan-galar"
+  },
+  "Darmanitan - Zen Mode": {
+    "#": 555,
+    "Gamepress": "555-0",
+    "Bulbapedia": "Darmanitan",
+    "Serebii": "Darmanitan",
+    "Smogon": "Darmanitan-zen"
+  },
+  "Darmanitan - Galarian, Zen Mode": {
+    "#": 555,
+    "Gamepress": "555-galarian-zen",
+    "Bulbapedia": "Darmanitan",
+    "Serebii": "Darmanitan",
+    "Smogon": "Darmanitan-galar-zen"
+  },
+  "Maractus": {
+    "#": 556,
+    "Gamepress": 556,
+    "Bulbapedia": "Maractus",
+    "Serebii": "Maractus",
+    "Smogon": "Maractus"
+  },
+  "Dwebble": {
+    "#": 557,
+    "Gamepress": 557,
+    "Bulbapedia": "Dwebble",
+    "Serebii": "Dwebble",
+    "Smogon": "Dwebble"
+  },
+  "Crustle": {
+    "#": 558,
+    "Gamepress": 558,
+    "Bulbapedia": "Crustle",
+    "Serebii": "Crustle",
+    "Smogon": "Crustle"
+  },
+  "Scraggy": {
+    "#": 559,
+    "Gamepress": 559,
+    "Bulbapedia": "Scraggy",
+    "Serebii": "Scraggy",
+    "Smogon": "Scraggy"
+  },
+  "Scrafty": {
+    "#": 560,
+    "Gamepress": 560,
+    "Bulbapedia": "Scrafty",
+    "Serebii": "Scrafty",
+    "Smogon": "Scrafty"
+  },
+  "Sigilyph": {
+    "#": 561,
+    "Gamepress": 561,
+    "Bulbapedia": "Sigilyph",
+    "Serebii": "Sigilyph",
+    "Smogon": "Sigilyph"
+  },
+  "Yamask": {
+    "#": 562,
+    "Gamepress": 562,
+    "Bulbapedia": "Yamask",
+    "Serebii": "Yamask",
+    "Smogon": "Yamask"
+  },
+  "Yamask - Galarian": {
+    "#": 562,
+    "Gamepress": "562-galarian",
+    "Bulbapedia": "Yamask",
+    "Serebii": "Yamask",
+    "Smogon": "Yamask-galar"
+  },
+  "Cofagrigus": {
+    "#": 563,
+    "Gamepress": 563,
+    "Bulbapedia": "Cofagrigus",
+    "Serebii": "Cofagrigus",
+    "Smogon": "Cofagrigus"
+  },
+  "Tirtouga": {
+    "#": 564,
+    "Gamepress": 564,
+    "Bulbapedia": "Tirtouga",
+    "Serebii": "Tirtouga",
+    "Smogon": "Tirtouga"
+  },
+  "Carracosta": {
+    "#": 565,
+    "Gamepress": 565,
+    "Bulbapedia": "Carracosta",
+    "Serebii": "Carracosta",
+    "Smogon": "Carracosta"
+  },
+  "Archen": {
+    "#": 566,
+    "Gamepress": 566,
+    "Bulbapedia": "Archen",
+    "Serebii": "Archen",
+    "Smogon": "Archen"
+  },
+  "Archeops": {
+    "#": 567,
+    "Gamepress": 567,
+    "Bulbapedia": "Archeops",
+    "Serebii": "Archeops",
+    "Smogon": "Archeops"
+  },
+  "Trubbish": {
+    "#": 568,
+    "Gamepress": 568,
+    "Bulbapedia": "Trubbish",
+    "Serebii": "Trubbish",
+    "Smogon": "Trubbish"
+  },
+  "Garbodor": {
+    "#": 569,
+    "Gamepress": 569,
+    "Bulbapedia": "Garbodor",
+    "Serebii": "Garbodor",
+    "Smogon": "Garbodor"
+  },
+  "Zorua": {
+    "#": 570,
+    "Gamepress": 570,
+    "Bulbapedia": "Zorua",
+    "Serebii": "Zorua",
+    "Smogon": "Zorua"
+  },
+  "Zorua - Hisuian Forme": {
+    "#": 570,
+    "Gamepress": "570-hisuian",
+    "Bulbapedia": "Zorua",
+    "Serebii": "Zorua",
+    "Smogon": "Zorua-hisui"
+  },
+  "Zoroark": {
+    "#": 571,
+    "Gamepress": 571,
+    "Bulbapedia": "Zoroark",
+    "Serebii": "Zoroark",
+    "Smogon": "Zoroark"
+  },
+  "Zoroark - Hisuian Forme": {
+    "#": 571,
+    "Gamepress": "571-hisuian",
+    "Bulbapedia": "Zoroark",
+    "Serebii": "Zoroark",
+    "Smogon": "Zoroark-hisui"
+  },
+  "Minccino": {
+    "#": 572,
+    "Gamepress": 572,
+    "Bulbapedia": "Minccino",
+    "Serebii": "Minccino",
+    "Smogon": "Minccino"
+  },
+  "Cinccino": {
+    "#": 573,
+    "Gamepress": 573,
+    "Bulbapedia": "Cinccino",
+    "Serebii": "Cinccino",
+    "Smogon": "Cinccino"
+  },
+  "Gothita": {
+    "#": 574,
+    "Gamepress": 574,
+    "Bulbapedia": "Gothita",
+    "Serebii": "Gothita",
+    "Smogon": "Gothita"
+  },
+  "Gothorita": {
+    "#": 575,
+    "Gamepress": 575,
+    "Bulbapedia": "Gothorita",
+    "Serebii": "Gothorita",
+    "Smogon": "Gothorita"
+  },
+  "Gothitelle": {
+    "#": 576,
+    "Gamepress": 576,
+    "Bulbapedia": "Gothitelle",
+    "Serebii": "Gothitelle",
+    "Smogon": "Gothitelle"
+  },
+  "Solosis": {
+    "#": 577,
+    "Gamepress": 577,
+    "Bulbapedia": "Solosis",
+    "Serebii": "Solosis",
+    "Smogon": "Solosis"
+  },
+  "Duosion": {
+    "#": 578,
+    "Gamepress": 578,
+    "Bulbapedia": "Duosion",
+    "Serebii": "Duosion",
+    "Smogon": "Duosion"
+  },
+  "Reuniclus": {
+    "#": 579,
+    "Gamepress": 579,
+    "Bulbapedia": "Reuniclus",
+    "Serebii": "Reuniclus",
+    "Smogon": "Reuniclus"
+  },
+  "Ducklett": {
+    "#": 580,
+    "Gamepress": 580,
+    "Bulbapedia": "Ducklett",
+    "Serebii": "Ducklett",
+    "Smogon": "Ducklett"
+  },
+  "Swanna": {
+    "#": 581,
+    "Gamepress": 581,
+    "Bulbapedia": "Swanna",
+    "Serebii": "Swanna",
+    "Smogon": "Swanna"
+  },
+  "Vanillite": {
+    "#": 582,
+    "Gamepress": 582,
+    "Bulbapedia": "Vanillite",
+    "Serebii": "Vanillite",
+    "Smogon": "Vanillite"
+  },
+  "Vanillish": {
+    "#": 583,
+    "Gamepress": 583,
+    "Bulbapedia": "Vanillish",
+    "Serebii": "Vanillish",
+    "Smogon": "Vanillish"
+  },
+  "Vanilluxe": {
+    "#": 584,
+    "Gamepress": 584,
+    "Bulbapedia": "Vanilluxe",
+    "Serebii": "Vanilluxe",
+    "Smogon": "Vanilluxe"
+  },
+  "Deerling": {
+    "#": 585,
+    "Gamepress": 585,
+    "Bulbapedia": "Deerling",
+    "Serebii": "Deerling",
+    "Smogon": "Deerling"
+  },
+  "Sawsbuck": {
+    "#": 586,
+    "Gamepress": 586,
+    "Bulbapedia": "Sawsbuck",
+    "Serebii": "Sawsbuck",
+    "Smogon": "Sawsbuck"
+  },
+  "Emolga": {
+    "#": 587,
+    "Gamepress": 587,
+    "Bulbapedia": "Emolga",
+    "Serebii": "Emolga",
+    "Smogon": "Emolga"
+  },
+  "Karrablast": {
+    "#": 588,
+    "Gamepress": 588,
+    "Bulbapedia": "Karrablast",
+    "Serebii": "Karrablast",
+    "Smogon": "Karrablast"
+  },
+  "Escavalier": {
+    "#": 589,
+    "Gamepress": 589,
+    "Bulbapedia": "Escavalier",
+    "Serebii": "Escavalier",
+    "Smogon": "Escavalier"
+  },
+  "Foongus": {
+    "#": 590,
+    "Gamepress": 590,
+    "Bulbapedia": "Foongus",
+    "Serebii": "Foongus",
+    "Smogon": "Foongus"
+  },
+  "Amoonguss": {
+    "#": 591,
+    "Gamepress": 591,
+    "Bulbapedia": "Amoonguss",
+    "Serebii": "Amoonguss",
+    "Smogon": "Amoonguss"
+  },
+  "Frillish": {
+    "#": 592,
+    "Gamepress": 592,
+    "Bulbapedia": "Frillish",
+    "Serebii": "Frillish",
+    "Smogon": "Frillish"
+  },
+  "Jellicent": {
+    "#": 593,
+    "Gamepress": 593,
+    "Bulbapedia": "Jellicent",
+    "Serebii": "Jellicent",
+    "Smogon": "Jellicent"
+  },
+  "Alomomola": {
+    "#": 594,
+    "Gamepress": 594,
+    "Bulbapedia": "Alomomola",
+    "Serebii": "Alomomola",
+    "Smogon": "Alomomola"
+  },
+  "Joltik": {
+    "#": 595,
+    "Gamepress": 595,
+    "Bulbapedia": "Joltik",
+    "Serebii": "Joltik",
+    "Smogon": "Joltik"
+  },
+  "Galvantula": {
+    "#": 596,
+    "Gamepress": 596,
+    "Bulbapedia": "Galvantula",
+    "Serebii": "Galvantula",
+    "Smogon": "Galvantula"
+  },
+  "Ferroseed": {
+    "#": 597,
+    "Gamepress": 597,
+    "Bulbapedia": "Ferroseed",
+    "Serebii": "Ferroseed",
+    "Smogon": "Ferroseed"
+  },
+  "Ferrothorn": {
+    "#": 598,
+    "Gamepress": 598,
+    "Bulbapedia": "Ferrothorn",
+    "Serebii": "Ferrothorn",
+    "Smogon": "Ferrothorn"
+  },
+  "Klink": {
+    "#": 599,
+    "Gamepress": 599,
+    "Bulbapedia": "Klink",
+    "Serebii": "Klink",
+    "Smogon": "Klink"
+  },
+  "Klang": {
+    "#": 600,
+    "Gamepress": 600,
+    "Bulbapedia": "Klang",
+    "Serebii": "Klang",
+    "Smogon": "Klang"
+  },
+  "Klinklang": {
+    "#": 601,
+    "Gamepress": 601,
+    "Bulbapedia": "Klinklang",
+    "Serebii": "Klinklang",
+    "Smogon": "Klinklang"
+  },
+  "Tynamo": {
+    "#": 602,
+    "Gamepress": 602,
+    "Bulbapedia": "Tynamo",
+    "Serebii": "Tynamo",
+    "Smogon": "Tynamo"
+  },
+  "Eelektrik": {
+    "#": 603,
+    "Gamepress": 603,
+    "Bulbapedia": "Eelektrik",
+    "Serebii": "Eelektrik",
+    "Smogon": "Eelektrik"
+  },
+  "Eelektross": {
+    "#": 604,
+    "Gamepress": 604,
+    "Bulbapedia": "Eelektross",
+    "Serebii": "Eelektross",
+    "Smogon": "Eelektross"
+  },
+  "Elgyem": {
+    "#": 605,
+    "Gamepress": 605,
+    "Bulbapedia": "Elgyem",
+    "Serebii": "Elgyem",
+    "Smogon": "Elgyem"
+  },
+  "Beheeyem": {
+    "#": 606,
+    "Gamepress": 606,
+    "Bulbapedia": "Beheeyem",
+    "Serebii": "Beheeyem",
+    "Smogon": "Beheeyem"
+  },
+  "Litwick": {
+    "#": 607,
+    "Gamepress": 607,
+    "Bulbapedia": "Litwick",
+    "Serebii": "Litwick",
+    "Smogon": "Litwick"
+  },
+  "Lampent": {
+    "#": 608,
+    "Gamepress": 608,
+    "Bulbapedia": "Lampent",
+    "Serebii": "Lampent",
+    "Smogon": "Lampent"
+  },
+  "Chandelure": {
+    "#": 609,
+    "Gamepress": 609,
+    "Bulbapedia": "Chandelure",
+    "Serebii": "Chandelure",
+    "Smogon": "Chandelure"
+  },
+  "Axew": {
+    "#": 610,
+    "Gamepress": 610,
+    "Bulbapedia": "Axew",
+    "Serebii": "Axew",
+    "Smogon": "Axew"
+  },
+  "Fraxure": {
+    "#": 611,
+    "Gamepress": 611,
+    "Bulbapedia": "Fraxure",
+    "Serebii": "Fraxure",
+    "Smogon": "Fraxure"
+  },
+  "Haxorus": {
+    "#": 612,
+    "Gamepress": 612,
+    "Bulbapedia": "Haxorus",
+    "Serebii": "Haxorus",
+    "Smogon": "Haxorus"
+  },
+  "Cubchoo": {
+    "#": 613,
+    "Gamepress": 613,
+    "Bulbapedia": "Cubchoo",
+    "Serebii": "Cubchoo",
+    "Smogon": "Cubchoo"
+  },
+  "Beartic": {
+    "#": 614,
+    "Gamepress": 614,
+    "Bulbapedia": "Beartic",
+    "Serebii": "Beartic",
+    "Smogon": "Beartic"
+  },
+  "Cryogonal": {
+    "#": 615,
+    "Gamepress": 615,
+    "Bulbapedia": "Cryogonal",
+    "Serebii": "Cryogonal",
+    "Smogon": "Cryogonal"
+  },
+  "Shelmet": {
+    "#": 616,
+    "Gamepress": 616,
+    "Bulbapedia": "Shelmet",
+    "Serebii": "Shelmet",
+    "Smogon": "Shelmet"
+  },
+  "Accelgor": {
+    "#": 617,
+    "Gamepress": 617,
+    "Bulbapedia": "Accelgor",
+    "Serebii": "Accelgor",
+    "Smogon": "Accelgor"
+  },
+  "Stunfisk": {
+    "#": 618,
+    "Gamepress": 618,
+    "Bulbapedia": "Stunfisk",
+    "Serebii": "Stunfisk",
+    "Smogon": "Stunfisk"
+  },
+  "Stunfisk - Galarian": {
+    "#": 618,
+    "Gamepress": "618-galarian",
+    "Bulbapedia": "Stunfisk",
+    "Serebii": "Stunfisk",
+    "Smogon": "Stunfisk-galar"
+  },
+  "Mienfoo": {
+    "#": 619,
+    "Gamepress": 619,
+    "Bulbapedia": "Mienfoo",
+    "Serebii": "Mienfoo",
+    "Smogon": "Mienfoo"
+  },
+  "Mienshao": {
+    "#": 620,
+    "Gamepress": 620,
+    "Bulbapedia": "Mienshao",
+    "Serebii": "Mienshao",
+    "Smogon": "Mienshao"
+  },
+  "Druddigon": {
+    "#": 621,
+    "Gamepress": 621,
+    "Bulbapedia": "Druddigon",
+    "Serebii": "Druddigon",
+    "Smogon": "Druddigon"
+  },
+  "Golett": {
+    "#": 622,
+    "Gamepress": 622,
+    "Bulbapedia": "Golett",
+    "Serebii": "Golett",
+    "Smogon": "Golett"
+  },
+  "Golurk": {
+    "#": 623,
+    "Gamepress": 623,
+    "Bulbapedia": "Golurk",
+    "Serebii": "Golurk",
+    "Smogon": "Golurk"
+  },
+  "Pawniard": {
+    "#": 624,
+    "Gamepress": 624,
+    "Bulbapedia": "Pawniard",
+    "Serebii": "Pawniard",
+    "Smogon": "Pawniard"
+  },
+  "Bisharp": {
+    "#": 625,
+    "Gamepress": 625,
+    "Bulbapedia": "Bisharp",
+    "Serebii": "Bisharp",
+    "Smogon": "Bisharp"
+  },
+  "Bouffalant": {
+    "#": 626,
+    "Gamepress": 626,
+    "Bulbapedia": "Bouffalant",
+    "Serebii": "Bouffalant",
+    "Smogon": "Bouffalant"
+  },
+  "Rufflet": {
+    "#": 627,
+    "Gamepress": 627,
+    "Bulbapedia": "Rufflet",
+    "Serebii": "Rufflet",
+    "Smogon": "Rufflet"
+  },
+  "Braviary": {
+    "#": 628,
+    "Gamepress": 628,
+    "Bulbapedia": "Braviary",
+    "Serebii": "Braviary",
+    "Smogon": "Braviary"
+  },
+  "Braviary - Hisuian": {
+    "#": 628,
+    "Gamepress": "628-hisuian",
+    "Bulbapedia": "Braviary",
+    "Serebii": "Braviary",
+    "Smogon": "Braviary-hisui"
+  },
+  "Vullaby": {
+    "#": 629,
+    "Gamepress": 629,
+    "Bulbapedia": "Vullaby",
+    "Serebii": "Vullaby",
+    "Smogon": "Vullaby"
+  },
+  "Mandibuzz": {
+    "#": 630,
+    "Gamepress": 630,
+    "Bulbapedia": "Mandibuzz",
+    "Serebii": "Mandibuzz",
+    "Smogon": "Mandibuzz"
+  },
+  "Heatmor": {
+    "#": 631,
+    "Gamepress": 631,
+    "Bulbapedia": "Heatmor",
+    "Serebii": "Heatmor",
+    "Smogon": "Heatmor"
+  },
+  "Durant": {
+    "#": 632,
+    "Gamepress": 632,
+    "Bulbapedia": "Durant",
+    "Serebii": "Durant",
+    "Smogon": "Durant"
+  },
+  "Deino": {
+    "#": 633,
+    "Gamepress": 633,
+    "Bulbapedia": "Deino",
+    "Serebii": "Deino",
+    "Smogon": "Deino"
+  },
+  "Zweilous": {
+    "#": 634,
+    "Gamepress": 634,
+    "Bulbapedia": "Zweilous",
+    "Serebii": "Zweilous",
+    "Smogon": "Zweilous"
+  },
+  "Hydreigon": {
+    "#": 635,
+    "Gamepress": 635,
+    "Bulbapedia": "Hydreigon",
+    "Serebii": "Hydreigon",
+    "Smogon": "Hydreigon"
+  },
+  "Larvesta": {
+    "#": 636,
+    "Gamepress": 636,
+    "Bulbapedia": "Larvesta",
+    "Serebii": "Larvesta",
+    "Smogon": "Larvesta"
+  },
+  "Volcarona": {
+    "#": 637,
+    "Gamepress": 637,
+    "Bulbapedia": "Volcarona",
+    "Serebii": "Volcarona",
+    "Smogon": "Volcarona"
+  },
+  "Cobalion": {
+    "#": 638,
+    "Gamepress": 638,
+    "Bulbapedia": "Cobalion",
+    "Serebii": "Cobalion",
+    "Smogon": "Cobalion"
+  },
+  "Terrakion": {
+    "#": 639,
+    "Gamepress": 639,
+    "Bulbapedia": "Terrakion",
+    "Serebii": "Terrakion",
+    "Smogon": "Terrakion"
+  },
+  "Virizion": {
+    "#": 640,
+    "Gamepress": 640,
+    "Bulbapedia": "Virizion",
+    "Serebii": "Virizion",
+    "Smogon": "Virizion"
+  },
+  "Tornadus - Incarnate Forme": {
+    "#": 641,
+    "Gamepress": "641-incarnate",
+    "Bulbapedia": "Tornadus",
+    "Serebii": "Tornadus",
+    "Smogon": "Tornadus"
+  },
+  "Tornadus - Therian Forme": {
+    "#": 641,
+    "Gamepress": "641-therian",
+    "Bulbapedia": "Tornadus",
+    "Serebii": "Tornadus",
+    "Smogon": "Tornadus"
+  },
+  "Thundurus - Incarnate Forme": {
+    "#": 642,
+    "Gamepress": "642-incarnate",
+    "Bulbapedia": "Thundurus",
+    "Serebii": "Thundurus",
+    "Smogon": "Thundurus"
+  },
+  "Thundurus - Therian Forme": {
+    "#": 642,
+    "Gamepress": "642-therian",
+    "Bulbapedia": "Thundurus",
+    "Serebii": "Thundurus",
+    "Smogon": "Thundurus"
+  },
+  "Reshiram": {
+    "#": 643,
+    "Gamepress": 643,
+    "Bulbapedia": "Reshiram",
+    "Serebii": "Reshiram",
+    "Smogon": "Reshiram"
+  },
+  "Zekrom": {
+    "#": 644,
+    "Gamepress": 644,
+    "Bulbapedia": "Zekrom",
+    "Serebii": "Zekrom",
+    "Smogon": "Zekrom"
+  },
+  "Landorus - Incarnate Forme": {
+    "#": 645,
+    "Gamepress": "645-incarnate",
+    "Bulbapedia": "Landorus",
+    "Serebii": "Landorus",
+    "Smogon": "Landorus"
+  },
+  "Landorus - Therian Forme": {
+    "#": 645,
+    "Gamepress": "645-therian",
+    "Bulbapedia": "Landorus",
+    "Serebii": "Landorus",
+    "Smogon": "Landorus"
+  },
+  "Kyurem": {
+    "#": 646,
+    "Gamepress": 646,
+    "Bulbapedia": "Kyurem",
+    "Serebii": "Kyurem",
+    "Smogon": "Kyurem"
+  },
+  "Kyurem - Black": {
+    "#": 646,
+    "Gamepress": "646-1",
+    "Bulbapedia": "Kyurem",
+    "Serebii": "Kyurem",
+    "Smogon": "Kyurem"
+  },
+  "Kyurem - White Kyurem": {
+    "#": 646,
+    "Gamepress": "646-2",
+    "Bulbapedia": "Kyurem",
+    "Serebii": "Kyurem",
+    "Smogon": "Kyurem"
+  },
+  "Kelde - Ordinary Forme": {
+    "#": 647,
+    "Gamepress": 647,
+    "Bulbapedia": "Keldeo",
+    "Serebii": "Keldeo",
+    "Smogon": "Keldeo"
+  },
+  "Keldeo - Resolute Forme": {
+    "#": 647,
+    "Gamepress": 647,
+    "Bulbapedia": "Keldeo",
+    "Serebii": "Keldeo",
+    "Smogon": "Keldeo"
+  },
+  "Meloetta - Aria Forme": {
+    "#": 648,
+    "Gamepress": 648,
+    "Bulbapedia": "Meloetta",
+    "Serebii": "Meloetta",
+    "Smogon": "Meloetta"
+  },
+  "Meloetta - Pirouette Forme": {
+    "#": 648,
+    "Gamepress": "648-0",
+    "Bulbapedia": "Meloetta",
+    "Serebii": "Meloetta",
+    "Smogon": "Meloetta"
+  },
+  "Genesect": {
+    "#": 649,
+    "Gamepress": 649,
+    "Bulbapedia": "Genesect",
+    "Serebii": "Genesect",
+    "Smogon": "Genesect"
+  },
+  "Genesect - Burn Drive": {
+    "#": 649,
+    "Gamepress": "649-Burn",
+    "Bulbapedia": "Genesect",
+    "Serebii": "Genesect",
+    "Smogon": "Genesect-burn"
+  },
+  "Genesect - Shock Drive": {
+    "#": 649,
+    "Gamepress": "649-Shock",
+    "Bulbapedia": "Genesect",
+    "Serebii": "Genesect",
+    "Smogon": "Genesect-shock"
+  },
+  "Genesect - Douse Drive": {
+    "#": 649,
+    "Gamepress": "649-Douse",
+    "Bulbapedia": "Genesect",
+    "Serebii": "Genesect",
+    "Smogon": "Genesect-douse"
+  },
+  "Genesect - Chill Drive": {
+    "#": 649,
+    "Gamepress": "649-Chill",
+    "Bulbapedia": "Genesect",
+    "Serebii": "Genesect",
+    "Smogon": "Genesect-chill"
+  },
+  "Chespin": {
+    "#": 650,
+    "Gamepress": 650,
+    "Bulbapedia": "Chespin",
+    "Serebii": "Chespin",
+    "Smogon": "Chespin"
+  },
+  "Quilladin": {
+    "#": 651,
+    "Gamepress": 651,
+    "Bulbapedia": "Quilladin",
+    "Serebii": "Quilladin",
+    "Smogon": "Quilladin"
+  },
+  "Chesnaught": {
+    "#": 652,
+    "Gamepress": 652,
+    "Bulbapedia": "Chesnaught",
+    "Serebii": "Chesnaught",
+    "Smogon": "Chesnaught"
+  },
+  "Fennekin": {
+    "#": 653,
+    "Gamepress": 653,
+    "Bulbapedia": "Fennekin",
+    "Serebii": "Fennekin",
+    "Smogon": "Fennekin"
+  },
+  "Braixen": {
+    "#": 654,
+    "Gamepress": 654,
+    "Bulbapedia": "Braixen",
+    "Serebii": "Braixen",
+    "Smogon": "Braixen"
+  },
+  "Delphox": {
+    "#": 655,
+    "Gamepress": 655,
+    "Bulbapedia": "Delphox",
+    "Serebii": "Delphox",
+    "Smogon": "Delphox"
+  },
+  "Froakie": {
+    "#": 656,
+    "Gamepress": 656,
+    "Bulbapedia": "Froakie",
+    "Serebii": "Froakie",
+    "Smogon": "Froakie"
+  },
+  "Frogadier": {
+    "#": 657,
+    "Gamepress": 657,
+    "Bulbapedia": "Frogadier",
+    "Serebii": "Frogadier",
+    "Smogon": "Frogadier"
+  },
+  "Greninja": {
+    "#": 658,
+    "Gamepress": 658,
+    "Bulbapedia": "Greninja",
+    "Serebii": "Greninja",
+    "Smogon": "Greninja"
+  },
+  "Bunnelby": {
+    "#": 659,
+    "Gamepress": 659,
+    "Bulbapedia": "Bunnelby",
+    "Serebii": "Bunnelby",
+    "Smogon": "Bunnelby"
+  },
+  "Diggersby": {
+    "#": 660,
+    "Gamepress": 660,
+    "Bulbapedia": "Diggersby",
+    "Serebii": "Diggersby",
+    "Smogon": "Diggersby"
+  },
+  "Fletchling": {
+    "#": 661,
+    "Gamepress": 661,
+    "Bulbapedia": "Fletchling",
+    "Serebii": "Fletchling",
+    "Smogon": "Fletchling"
+  },
+  "Fletchinder": {
+    "#": 662,
+    "Gamepress": 662,
+    "Bulbapedia": "Fletchinder",
+    "Serebii": "Fletchinder",
+    "Smogon": "Fletchinder"
+  },
+  "Talonflame": {
+    "#": 663,
+    "Gamepress": 663,
+    "Bulbapedia": "Talonflame",
+    "Serebii": "Talonflame",
+    "Smogon": "Talonflame"
+  },
+  "Scatterbug": {
+    "#": 664,
+    "Gamepress": 664,
+    "Bulbapedia": "Scatterbug",
+    "Serebii": "Scatterbug",
+    "Smogon": "Scatterbug"
+  },
+  "Spewpa": {
+    "#": 665,
+    "Gamepress": 665,
+    "Bulbapedia": "Spewpa",
+    "Serebii": "Spewpa",
+    "Smogon": "Spewpa"
+  },
+  "Vivillon": {
+    "#": 666,
+    "Gamepress": 666,
+    "Bulbapedia": "Vivillon",
+    "Serebii": "Vivillon",
+    "Smogon": "Vivillon"
+  },
+  "Litleo": {
+    "#": 667,
+    "Gamepress": 667,
+    "Bulbapedia": "Litleo",
+    "Serebii": "Litleo",
+    "Smogon": "Litleo"
+  },
+  "Pyroar": {
+    "#": 668,
+    "Gamepress": 668,
+    "Bulbapedia": "Pyroar",
+    "Serebii": "Pyroar",
+    "Smogon": "Pyroar"
+  },
+  "Flabébé": {
+    "#": 669,
+    "Gamepress": 669,
+    "Bulbapedia": "Flabébé",
+    "Serebii": "Flabébé",
+    "Smogon": "Flabébé"
+  },
+  "Floette": {
+    "#": 670,
+    "Gamepress": 670,
+    "Bulbapedia": "Floette",
+    "Serebii": "Floette",
+    "Smogon": "Floette"
+  },
+  "Florges": {
+    "#": 671,
+    "Gamepress": 671,
+    "Bulbapedia": "Florges",
+    "Serebii": "Florges",
+    "Smogon": "Florges"
+  },
+  "Skiddo": {
+    "#": 672,
+    "Gamepress": 672,
+    "Bulbapedia": "Skiddo",
+    "Serebii": "Skiddo",
+    "Smogon": "Skiddo"
+  },
+  "Gogoat": {
+    "#": 673,
+    "Gamepress": 673,
+    "Bulbapedia": "Gogoat",
+    "Serebii": "Gogoat",
+    "Smogon": "Gogoat"
+  },
+  "Pancham": {
+    "#": 674,
+    "Gamepress": 674,
+    "Bulbapedia": "Pancham",
+    "Serebii": "Pancham",
+    "Smogon": "Pancham"
+  },
+  "Pangoro": {
+    "#": 675,
+    "Gamepress": 675,
+    "Bulbapedia": "Pangoro",
+    "Serebii": "Pangoro",
+    "Smogon": "Pangoro"
+  },
+  "Furfrou": {
+    "#": 676,
+    "Gamepress": 676,
+    "Bulbapedia": "Furfrou",
+    "Serebii": "Furfrou",
+    "Smogon": "Furfrou"
+  },
+  "Espurr": {
+    "#": 677,
+    "Gamepress": 677,
+    "Bulbapedia": "Espurr",
+    "Serebii": "Espurr",
+    "Smogon": "Espurr"
+  },
+  "Meowstic - Male": {
+    "#": 678,
+    "Gamepress": "678-male",
+    "Bulbapedia": "Meowstic",
+    "Serebii": "Meowstic",
+    "Smogon": "Meowstic"
+  },
+  "Meowstic - Female": {
+    "#": 678,
+    "Gamepress": "678-female",
+    "Bulbapedia": "Meowstic",
+    "Serebii": "Meowstic",
+    "Smogon": "Meowstic"
+  },
+  "Honedge": {
+    "#": 679,
+    "Gamepress": 679,
+    "Bulbapedia": "Honedge",
+    "Serebii": "Honedge",
+    "Smogon": "Honedge"
+  },
+  "Doublade": {
+    "#": 680,
+    "Gamepress": 680,
+    "Bulbapedia": "Doublade",
+    "Serebii": "Doublade",
+    "Smogon": "Doublade"
+  },
+  "Aegislash - Blade Forme": {
+    "#": 681,
+    "Gamepress": "681-blade",
+    "Bulbapedia": "Aegislash",
+    "Serebii": "Aegislash",
+    "Smogon": "Aegislash"
+  },
+  "Aegislash - Shield Forme": {
+    "#": 681,
+    "Gamepress": "681-shield",
+    "Bulbapedia": "Aegislash",
+    "Serebii": "Aegislash",
+    "Smogon": "Aegislash"
+  },
+  "Spritzee": {
+    "#": 682,
+    "Gamepress": 682,
+    "Bulbapedia": "Spritzee",
+    "Serebii": "Spritzee",
+    "Smogon": "Spritzee"
+  },
+  "Aromatisse": {
+    "#": 683,
+    "Gamepress": 683,
+    "Bulbapedia": "Aromatisse",
+    "Serebii": "Aromatisse",
+    "Smogon": "Aromatisse"
+  },
+  "Swirlix": {
+    "#": 684,
+    "Gamepress": 684,
+    "Bulbapedia": "Swirlix",
+    "Serebii": "Swirlix",
+    "Smogon": "Swirlix"
+  },
+  "Slurpuff": {
+    "#": 685,
+    "Gamepress": 685,
+    "Bulbapedia": "Slurpuff",
+    "Serebii": "Slurpuff",
+    "Smogon": "Slurpuff"
+  },
+  "Inkay": {
+    "#": 686,
+    "Gamepress": 686,
+    "Bulbapedia": "Inkay",
+    "Serebii": "Inkay",
+    "Smogon": "Inkay"
+  },
+  "Malamar": {
+    "#": 687,
+    "Gamepress": 687,
+    "Bulbapedia": "Malamar",
+    "Serebii": "Malamar",
+    "Smogon": "Malamar"
+  },
+  "Binacle": {
+    "#": 688,
+    "Gamepress": 688,
+    "Bulbapedia": "Binacle",
+    "Serebii": "Binacle",
+    "Smogon": "Binacle"
+  },
+  "Barbaracle": {
+    "#": 689,
+    "Gamepress": 689,
+    "Bulbapedia": "Barbaracle",
+    "Serebii": "Barbaracle",
+    "Smogon": "Barbaracle"
+  },
+  "Skrelp": {
+    "#": 690,
+    "Gamepress": 690,
+    "Bulbapedia": "Skrelp",
+    "Serebii": "Skrelp",
+    "Smogon": "Skrelp"
+  },
+  "Dragalge": {
+    "#": 691,
+    "Gamepress": 691,
+    "Bulbapedia": "Dragalge",
+    "Serebii": "Dragalge",
+    "Smogon": "Dragalge"
+  },
+  "Clauncher": {
+    "#": 692,
+    "Gamepress": 692,
+    "Bulbapedia": "Clauncher",
+    "Serebii": "Clauncher",
+    "Smogon": "Clauncher"
+  },
+  "Clawitzer": {
+    "#": 693,
+    "Gamepress": 693,
+    "Bulbapedia": "Clawitzer",
+    "Serebii": "Clawitzer",
+    "Smogon": "Clawitzer"
+  },
+  "Helioptile": {
+    "#": 694,
+    "Gamepress": 694,
+    "Bulbapedia": "Helioptile",
+    "Serebii": "Helioptile",
+    "Smogon": "Helioptile"
+  },
+  "Heliolisk": {
+    "#": 695,
+    "Gamepress": 695,
+    "Bulbapedia": "Heliolisk",
+    "Serebii": "Heliolisk",
+    "Smogon": "Heliolisk"
+  },
+  "Tyrunt": {
+    "#": 696,
+    "Gamepress": 696,
+    "Bulbapedia": "Tyrunt",
+    "Serebii": "Tyrunt",
+    "Smogon": "Tyrunt"
+  },
+  "Tyrantrum": {
+    "#": 697,
+    "Gamepress": 697,
+    "Bulbapedia": "Tyrantrum",
+    "Serebii": "Tyrantrum",
+    "Smogon": "Tyrantrum"
+  },
+  "Amaura": {
+    "#": 698,
+    "Gamepress": 698,
+    "Bulbapedia": "Amaura",
+    "Serebii": "Amaura",
+    "Smogon": "Amaura"
+  },
+  "Aurorus": {
+    "#": 699,
+    "Gamepress": 699,
+    "Bulbapedia": "Aurorus",
+    "Serebii": "Aurorus",
+    "Smogon": "Aurorus"
+  },
+  "Sylveon": {
+    "#": 700,
+    "Gamepress": 700,
+    "Bulbapedia": "Sylveon",
+    "Serebii": "Sylveon",
+    "Smogon": "Sylveon"
+  },
+  "Hawlucha": {
+    "#": 701,
+    "Gamepress": 701,
+    "Bulbapedia": "Hawlucha",
+    "Serebii": "Hawlucha",
+    "Smogon": "Hawlucha"
+  },
+  "Dedenne": {
+    "#": 702,
+    "Gamepress": 702,
+    "Bulbapedia": "Dedenne",
+    "Serebii": "Dedenne",
+    "Smogon": "Dedenne"
+  },
+  "Carbink": {
+    "#": 703,
+    "Gamepress": 703,
+    "Bulbapedia": "Carbink",
+    "Serebii": "Carbink",
+    "Smogon": "Carbink"
+  },
+  "Goomy": {
+    "#": 704,
+    "Gamepress": 704,
+    "Bulbapedia": "Goomy",
+    "Serebii": "Goomy",
+    "Smogon": "Goomy"
+  },
+  "Sliggoo": {
+    "#": 705,
+    "Gamepress": 705,
+    "Bulbapedia": "Sliggoo",
+    "Serebii": "Sliggoo",
+    "Smogon": "Sliggoo"
+  },
+  "Sliggoo - Hisuian": {
+    "#": 705,
+    "Gamepress": "705-hisuian",
+    "Bulbapedia": "Sliggoo",
+    "Serebii": "Sliggoo",
+    "Smogon": "Sliggoo-hisui"
+  },
+  "Goodra": {
+    "#": 706,
+    "Gamepress": 706,
+    "Bulbapedia": "Goodra",
+    "Serebii": "Goodra",
+    "Smogon": "Goodra"
+  },
+  "Goodra - Hisuian": {
+    "#": 706,
+    "Gamepress": "706-hisuian",
+    "Bulbapedia": "Goodra",
+    "Serebii": "Goodra",
+    "Smogon": "Goodra-hisui"
+  },
+  "Klefki": {
+    "#": 707,
+    "Gamepress": 707,
+    "Bulbapedia": "Klefki",
+    "Serebii": "Klefki",
+    "Smogon": "Klefki"
+  },
+  "Phantump": {
+    "#": 708,
+    "Gamepress": 708,
+    "Bulbapedia": "Phantump",
+    "Serebii": "Phantump",
+    "Smogon": "Phantump"
+  },
+  "Trevenant": {
+    "#": 709,
+    "Gamepress": 709,
+    "Bulbapedia": "Trevenant",
+    "Serebii": "Trevenant",
+    "Smogon": "Trevenant"
+  },
+  "Pumpkaboo - Average Size": {
+    "#": 710,
+    "Gamepress": "710-average-size",
+    "Bulbapedia": "Pumpkaboo",
+    "Serebii": "Pumpkaboo",
+    "Smogon": "Pumpkaboo"
+  },
+  "Pumpkaboo - Small Size": {
+    "#": 710,
+    "Gamepress": "710-small-size",
+    "Bulbapedia": "Pumpkaboo",
+    "Serebii": "Pumpkaboo",
+    "Smogon": "Pumpkaboo"
+  },
+  "Pumpkaboo - Large Size": {
+    "#": 710,
+    "Gamepress": "710-large-size",
+    "Bulbapedia": "Pumpkaboo",
+    "Serebii": "Pumpkaboo",
+    "Smogon": "Pumpkaboo"
+  },
+  "Pumpkaboo - Super Size": {
+    "#": 710,
+    "Gamepress": "710-super-size",
+    "Bulbapedia": "Pumpkaboo",
+    "Serebii": "Pumpkaboo",
+    "Smogon": "Pumpkaboo"
+  },
+  "Gourgeist - Average Size": {
+    "#": 711,
+    "Gamepress": "711-average-size",
+    "Bulbapedia": "Gourgeist",
+    "Serebii": "Gourgeist",
+    "Smogon": "Gourgeist"
+  },
+  "Gourgeist - Small Size": {
+    "#": 711,
+    "Gamepress": "711-small-size",
+    "Bulbapedia": "Gourgeist",
+    "Serebii": "Gourgeist",
+    "Smogon": "Gourgeist"
+  },
+  "Gourgeist - Large Size": {
+    "#": 711,
+    "Gamepress": "711-large-size",
+    "Bulbapedia": "Gourgeist",
+    "Serebii": "Gourgeist",
+    "Smogon": "Gourgeist"
+  },
+  "Gourgeist - Super Size": {
+    "#": 711,
+    "Gamepress": "711-super-size",
+    "Bulbapedia": "Gourgeist",
+    "Serebii": "Gourgeist",
+    "Smogon": "Gourgeist"
+  },
+  "Bergmite": {
+    "#": 712,
+    "Gamepress": 712,
+    "Bulbapedia": "Bergmite",
+    "Serebii": "Bergmite",
+    "Smogon": "Bergmite"
+  },
+  "Avalugg": {
+    "#": 713,
+    "Gamepress": 713,
+    "Bulbapedia": "Avalugg",
+    "Serebii": "Avalugg",
+    "Smogon": "Avalugg"
+  },
+  "Avalugg - Hisuian Forme": {
+    "#": 713,
+    "Gamepress": "713-hisuian",
+    "Bulbapedia": "Avalugg",
+    "Serebii": "Avalugg",
+    "Smogon": "Avalugg-hisui"
+  },
+  "Noibat": {
+    "#": 714,
+    "Gamepress": 714,
+    "Bulbapedia": "Noibat",
+    "Serebii": "Noibat",
+    "Smogon": "Noibat"
+  },
+  "Noivern": {
+    "#": 715,
+    "Gamepress": 715,
+    "Bulbapedia": "Noivern",
+    "Serebii": "Noivern",
+    "Smogon": "Noivern"
+  },
+  "Xerneas": {
+    "#": 716,
+    "Gamepress": 716,
+    "Bulbapedia": "Xerneas",
+    "Serebii": "Xerneas",
+    "Smogon": "Xerneas"
+  },
+  "Yveltal": {
+    "#": 717,
+    "Gamepress": 717,
+    "Bulbapedia": "Yveltal",
+    "Serebii": "Yveltal",
+    "Smogon": "Yveltal"
+  },
+  "Zygarde - 10% Forme": {
+    "#": 718,
+    "Gamepress": "718-10",
+    "Bulbapedia": "Zygarde",
+    "Serebii": "Zygarde",
+    "Smogon": "Zygarde-10"
+  },
+  "Zygarde - 50% Forme": {
+    "#": 718,
+    "Gamepress": "718-50",
+    "Bulbapedia": "Zygarde",
+    "Serebii": "Zygarde",
+    "Smogon": "Zygarde"
+  },
+  "Zygarde - Complete Forme": {
+    "#": 718,
+    "Gamepress": "718-complete",
+    "Bulbapedia": "Zygarde",
+    "Serebii": "Zygarde",
+    "Smogon": "Zygarde"
+  },
+  "Diancie": {
+    "#": 719,
+    "Gamepress": 719,
+    "Bulbapedia": "Diancie",
+    "Serebii": "Diancie",
+    "Smogon": "Diancie"
+  },
+  "Mega Diancie": {
+    "#": 719,
+    "Gamepress": 719,
+    "Bulbapedia": "Diancie",
+    "Serebii": "Diancie",
+    "Smogon": "Diancie"
+  },
+  "Hoopa - Confined": {
+    "#": 720,
+    "Gamepress": 720,
+    "Bulbapedia": "Hoopa",
+    "Serebii": "Hoopa",
+    "Smogon": "Hoopa"
+  },
+  "Hoopa - Unbound": {
+    "#": "720-unbound",
+    "Gamepress": "720-unbound",
+    "Bulbapedia": "Hoopa",
+    "Serebii": "Hoopa",
+    "Smogon": "Hoopa"
+  },
+  "Volcanion": {
+    "#": 721,
+    "Gamepress": 721,
+    "Bulbapedia": "Volcanion",
+    "Serebii": "Volcanion",
+    "Smogon": "Volcanion"
+  },
+  "Rowlet": { 
+    "#": 722, 
+    "Gamepress": 722, 
+    "Bulbapedia": "Rowlet",
+    "Serebii": "Rowlet",
+    "Smogon": "Rowlet" 
+  },
+  "Dartrix": { 
+    "#": 723, 
+    "Gamepress": 723, 
+    "Bulbapedia": "Dartrix",
+    "Serebii": "Dartrix",
+    "Smogon": "Dartrix" 
+  },
+  "Decidueye": { 
+    "#": 724, 
+    "Gamepress": 724, 
+    "Bulbapedia": "Decidueye",
+    "Serebii": "Decidueye",
+    "Smogon": "Decidueye" 
+  },
+  "Decidueye - Hisuian": { 
+    "#": 724, 
+    "Gamepress": "724-hisuian", 
+    "Bulbapedia": "Decidueye",
+    "Serebii": "Decidueye",
+    "Smogon": "Decidueye-hisui" 
+  },
+  "Litten": { 
+    "#": 725, 
+    "Gamepress": 725, 
+    "Bulbapedia": "Litten",
+    "Serebii": "Litten",
+    "Smogon": "Litten" 
+  },
+  "Torracat": { 
+    "#": 726, 
+    "Gamepress": 726, 
+    "Bulbapedia": "Torracat",
+    "Serebii": "Torracat",
+    "Smogon": "Torracat" 
+  },
+  "Incineroar": { 
+    "#": 727, 
+    "Gamepress": 727, 
+    "Bulbapedia": "Incineroar",
+    "Serebii": "Incineroar",
+    "Smogon": "Incineroar" 
+  },
+  "Popplio": { 
+    "#": 728, 
+    "Gamepress": 728, 
+    "Bulbapedia": "Popplio",
+    "Serebii": "Popplio",
+    "Smogon": "Popplio" 
+  },
+  "Brionne": { 
+    "#": 729, 
+    "Gamepress": 729, 
+    "Bulbapedia": "Brionne",
+    "Serebii": "Brionne",
+    "Smogon": "Brionne" 
+  },
+  "Primarina": { 
+    "#": 730, 
+    "Gamepress": 730, 
+    "Bulbapedia": "Primarina",
+    "Serebii": "Primarina",
+    "Smogon": "Primarina" 
+  },
+  "Pikipek": { 
+    "#": 731, 
+    "Gamepress": 731, 
+    "Bulbapedia": "Pikipek",
+    "Serebii": "Pikipek",
+    "Smogon": "Pikipek" 
+  },
+  "Trumbeak": { 
+    "#": 732, 
+    "Gamepress": 732, 
+    "Bulbapedia": "Trumbeak",
+    "Serebii": "Trumbeak",
+    "Smogon": "Trumbeak" 
+  },
+  "Toucannon": { 
+    "#": 733, 
+    "Gamepress": 733, 
+    "Bulbapedia": "Toucannon",
+    "Serebii": "Toucannon",
+    "Smogon": "Toucannon" 
+  },
+  "Yungoos": { 
+    "#": 734, 
+    "Gamepress": 734, 
+    "Bulbapedia": "Yungoos",
+    "Serebii": "Yungoos",
+    "Smogon": "Yungoos" 
+  },
+  "Gumshoos": { 
+    "#": 735, 
+    "Gamepress": 735, 
+    "Bulbapedia": "Gumshoos",
+    "Serebii": "Gumshoos",
+    "Smogon": "Gumshoos" 
+  },
+  "Grubbin": { 
+    "#": 736, 
+    "Gamepress": 736, 
+    "Bulbapedia": "Grubbin",
+    "Serebii": "Grubbin",
+    "Smogon": "Grubbin" 
+  },
+  "Charjabug": { 
+    "#": 737, 
+    "Gamepress": 737, 
+    "Bulbapedia": "Charjabug",
+    "Serebii": "Charjabug",
+    "Smogon": "Charjabug" 
+  },
+  "Vikavolt": { 
+    "#": 738, 
+    "Gamepress": 738, 
+    "Bulbapedia": "Vikavolt",
+    "Serebii": "Vikavolt",
+    "Smogon": "Vikavolt" 
+  },
+  "Crabrawler": { 
+    "#": 739, 
+    "Gamepress": 739, 
+    "Bulbapedia": "Crabrawler",
+    "Serebii": "Crabrawler",
+    "Smogon": "Crabrawler" 
+  },
+  "Crabominable": { 
+    "#": 740, 
+    "Gamepress": 740, 
+    "Bulbapedia": "Crabominable",
+    "Serebii": "Crabominable",
+    "Smogon": "Crabominable" 
+  },
+  "Oricorio - Baile Style": { 
+    "#": 741, 
+    "Gamepress": "741-Baile", 
+    "Bulbapedia": "Oricorio",
+    "Serebii": "Oricorio",
+    "Smogon": "Oricorio" 
+  },
+  "Oricorio - Pom-Pom Style": { 
+    "#": 741, 
+    "Gamepress": "741-Pompom", 
+    "Bulbapedia": "Oricorio",
+    "Serebii": "Oricorio",
+    "Smogon": "Oricorio-Pom-pom" 
+  },
+  "Oricorio - Pau Style": { 
+    "#": 741, 
+    "Gamepress": "741-Pau", 
+    "Bulbapedia": "Oricorio",
+    "Serebii": "Oricorio",
+    "Smogon": "Oricorio-Pau" 
+  },
+  "Oricorio - Sensu Style": { 
+    "#": 741, 
+    "Gamepress": "741-Sensu", 
+    "Bulbapedia": "Oricorio",
+    "Serebii": "Oricorio",
+    "Smogon": "Oricorio-Sensu" 
+  },
+  "Cutiefly": { 
+    "#": 742, 
+    "Gamepress": 742, 
+    "Bulbapedia": "Cutiefly",
+    "Serebii": "Cutiefly",
+    "Smogon": "Cutiefly" 
+  },
+  "Ribombee": { 
+    "#": 743, 
+    "Gamepress": 743, 
+    "Bulbapedia": "Ribombee",
+    "Serebii": "Ribombee",
+    "Smogon": "Ribombee" 
+  },
+  "Rockruff": { 
+    "#": 744, 
+    "Gamepress": 744, 
+    "Bulbapedia": "Rockruff",
+    "Serebii": "Rockruff",
+    "Smogon": "Rockruff" 
+  },
+  "Lycanroc - Midday Form": { 
+    "#": 745, 
+    "Gamepress": "745-midday", 
+    "Bulbapedia": "Lycanroc",
+    "Serebii": "Lycanroc",
+    "Smogon": "Lycanroc" 
+  },
+  "Lycanroc - Midnight Form": { 
+    "#": 745, 
+    "Gamepress": "745-midnight", 
+    "Bulbapedia": "Lycanroc",
+    "Serebii": "Lycanroc",
+    "Smogon": "Lycanroc-midnight" 
+  },
+  "Lycanroc - Dusk Form": { 
+    "#": 745, 
+    "Gamepress": "745-dusk", 
+    "Bulbapedia": "Lycanroc",
+    "Serebii": "Lycanroc",
+    "Smogon": "Lycanroc-dusk" 
+  },
+  "Wishiwashi - Solo Form": { 
+    "#": 746, 
+    "Gamepress": 746, 
+    "Bulbapedia": "Wishiwashi",
+    "Serebii": "Wishiwashi",
+    "Smogon": "Wishiwashi" 
+  },
+  "Wishiwashi - School Form": { 
+    "#": 746, 
+    "Gamepress": "746-0", 
+    "Bulbapedia": "Wishiwashi",
+    "Serebii": "Wishiwashi",
+    "Smogon": "Wishiwashi" 
+  },
+  "Mareanie": { 
+    "#": 747, 
+    "Gamepress": 747, 
+    "Bulbapedia": "Mareanie",
+    "Serebii": "Mareanie",
+    "Smogon": "Mareanie" 
+  },
+  "Toxapex": { 
+    "#": 748, 
+    "Gamepress": 748, 
+    "Bulbapedia": "Toxapex",
+    "Serebii": "Toxapex",
+    "Smogon": "Toxapex" 
+  },
+  "Mudbray": { 
+    "#": 749, 
+    "Gamepress": 749, 
+    "Bulbapedia": "Mudbray",
+    "Serebii": "Mudbray",
+    "Smogon": "Mudbray" 
+  },
+  "Mudsdale": { 
+    "#": 750, 
+    "Gamepress": 750, 
+    "Bulbapedia": "Mudsdale",
+    "Serebii": "Mudsdale",
+    "Smogon": "Mudsdale" 
+  },
+  "Dewpider": { 
+    "#": 751, 
+    "Gamepress": 751, 
+    "Bulbapedia": "Dewpider",
+    "Serebii": "Dewpider",
+    "Smogon": "Dewpider" 
+  },
+  "Araquanid": { 
+    "#": 752, 
+    "Gamepress": 752, 
+    "Bulbapedia": "Araquanid",
+    "Serebii": "Araquanid",
+    "Smogon": "Araquanid" 
+  },
+  "Fomantis": { 
+    "#": 753, 
+    "Gamepress": 753, 
+    "Bulbapedia": "Fomantis",
+    "Serebii": "Fomantis",
+    "Smogon": "Fomantis" 
+  },
+  "Lurantis": { 
+    "#": 754, 
+    "Gamepress": 754, 
+    "Bulbapedia": "Lurantis",
+    "Serebii": "Lurantis",
+    "Smogon": "Lurantis" 
+  },
+  "Morelull": { 
+    "#": 755, 
+    "Gamepress": 755, 
+    "Bulbapedia": "Morelull",
+    "Serebii": "Morelull",
+    "Smogon": "Morelull" 
+  },
+  "Shiinotic": { 
+    "#": 756, 
+    "Gamepress": 756, 
+    "Bulbapedia": "Shiinotic",
+    "Serebii": "Shiinotic",
+    "Smogon": "Shiinotic" 
+  },
+  "Salandit": { 
+    "#": 757, 
+    "Gamepress": 757, 
+    "Bulbapedia": "Salandit",
+    "Serebii": "Salandit",
+    "Smogon": "Salandit" 
+  },
+  "Salazzle": { 
+    "#": 758, 
+    "Gamepress": 758, 
+    "Bulbapedia": "Salazzle",
+    "Serebii": "Salazzle",
+    "Smogon": "Salazzle" 
+  },
+  "Stufful": { 
+    "#": 759, 
+    "Gamepress": 759, 
+    "Bulbapedia": "Stufful",
+    "Serebii": "Stufful",
+    "Smogon": "Stufful" 
+  },
+  "Bewear": { 
+    "#": 760, 
+    "Gamepress": 760, 
+    "Bulbapedia": "Bewear",
+    "Serebii": "Bewear",
+    "Smogon": "Bewear" 
+  },
+  "Bounsweet": { 
+    "#": 761, 
+    "Gamepress": 761, 
+    "Bulbapedia": "Bounsweet",
+    "Serebii": "Bounsweet",
+    "Smogon": "Bounsweet" 
+  },
+  "Steenee": { 
+    "#": 762, 
+    "Gamepress": 762, 
+    "Bulbapedia": "Steenee",
+    "Serebii": "Steenee",
+    "Smogon": "Steenee" 
+  },
+  "Tsareena": { 
+    "#": 763, 
+    "Gamepress": 763, 
+    "Bulbapedia": "Tsareena",
+    "Serebii": "Tsareena",
+    "Smogon": "Tsareena" 
+  },
+  "Comfey": { 
+    "#": 764, 
+    "Gamepress": 764, 
+    "Bulbapedia": "Comfey",
+    "Serebii": "Comfey",
+    "Smogon": "Comfey" 
+  },
+  "Oranguru": { 
+    "#": 765, 
+    "Gamepress": 765, 
+    "Bulbapedia": "Oranguru",
+    "Serebii": "Oranguru",
+    "Smogon": "Oranguru" 
+  },
+  "Passimian": { 
+    "#": 766, 
+    "Gamepress": 766, 
+    "Bulbapedia": "Passimian",
+    "Serebii": "Passimian",
+    "Smogon": "Passimian" 
+  },
+  "Wimpod": { 
+    "#": 767, 
+    "Gamepress": 767, 
+    "Bulbapedia": "Wimpod",
+    "Serebii": "Wimpod",
+    "Smogon": "Wimpod" 
+  },
+  "Golisopod": { 
+    "#": 768, 
+    "Gamepress": 768, 
+    "Bulbapedia": "Golisopod",
+    "Serebii": "Golisopod",
+    "Smogon": "Golisopod" 
+  },
+  "Sandygast": { 
+    "#": 769, 
+    "Gamepress": 769, 
+    "Bulbapedia": "Sandygast",
+    "Serebii": "Sandygast",
+    "Smogon": "Sandygast" 
+  },
+  "Palossand": { 
+    "#": 770, 
+    "Gamepress": 770, 
+    "Bulbapedia": "Palossand",
+    "Serebii": "Palossand",
+    "Smogon": "Palossand" 
+  },
+  "Pyukumuku": { 
+    "#": 771, 
+    "Gamepress": 771, 
+    "Bulbapedia": "Pyukumuku",
+    "Serebii": "Pyukumuku",
+    "Smogon": "Pyukumuku" 
+  },
+  "Type: Null": { 
+    "#": 772, 
+    "Gamepress": 772, 
+    "Bulbapedia": "Type:_Null",
+    "Serebii": "Type:_Null",
+    "Smogon": "Type:_Null" 
+  },
+  "Silvally": { 
+    "#": 773, 
+    "Gamepress": 773, 
+    "Bulbapedia": "Silvally",
+    "Serebii": "Silvally",
+    "Smogon": "Silvally" 
+  },
+  "Minior - Meteor Form": { 
+    "#": 774, 
+    "Gamepress": 774, 
+    "Bulbapedia": "Minior",
+    "Serebii": "Minior",
+    "Smogon": "Minior" 
+  },
+  "Minior - Core Form": { 
+    "#": 774, 
+    "Gamepress": "774-0", 
+    "Bulbapedia": "Minior",
+    "Serebii": "Minior",
+    "Smogon": "Minior" 
+  },
+  "Komala": { 
+    "#": 775, 
+    "Gamepress": 775, 
+    "Bulbapedia": "Komala",
+    "Serebii": "Komala",
+    "Smogon": "Komala" 
+  },
+  "Turtonator": { 
+    "#": 776, 
+    "Gamepress": 776, 
+    "Bulbapedia": "Turtonator",
+    "Serebii": "Turtonator",
+    "Smogon": "Turtonator" 
+  },
+  "Togedemaru": { 
+    "#": 777, 
+    "Gamepress": 777, 
+    "Bulbapedia": "Togedemaru",
+    "Serebii": "Togedemaru",
+    "Smogon": "Togedemaru" 
+  },
+  "Mimikyu": { 
+    "#": 778, 
+    "Gamepress": 778, 
+    "Bulbapedia": "Mimikyu",
+    "Serebii": "Mimikyu",
+    "Smogon": "Mimikyu" 
+  },
+  "Bruxish": { 
+    "#": 779, 
+    "Gamepress": 779, 
+    "Bulbapedia": "Bruxish",
+    "Serebii": "Bruxish",
+    "Smogon": "Bruxish" 
+  },
+  "Drampa": { 
+    "#": 780, 
+    "Gamepress": 780, 
+    "Bulbapedia": "Drampa",
+    "Serebii": "Drampa",
+    "Smogon": "Drampa" 
+  },
+  "Dhelmise": { 
+    "#": 781, 
+    "Gamepress": 781, 
+    "Bulbapedia": "Dhelmise",
+    "Serebii": "Dhelmise",
+    "Smogon": "Dhelmise" 
+  },
+  "Jangmo-o": { 
+    "#": 782, 
+    "Gamepress": 782, 
+    "Bulbapedia": "Jangmo-o",
+    "Serebii": "Jangmo-o",
+    "Smogon": "Jangmo-o" 
+  },
+  "Hakamo-o": { 
+    "#": 783, 
+    "Gamepress": 783, 
+    "Bulbapedia": "Hakamo-o",
+    "Serebii": "Hakamo-o",
+    "Smogon": "Hakamo-o" 
+  },
+  "Kommo-o": { 
+    "#": 784, 
+    "Gamepress": 784, 
+    "Bulbapedia": "Kommo-o",
+    "Serebii": "Kommo-o",
+    "Smogon": "Kommo-o" 
+  },
+  "Tapu Koko": { 
+    "#": 785, 
+    "Gamepress": 785, 
+    "Bulbapedia": "Tapu-Koko",
+    "Serebii": "Tapu-Koko",
+    "Smogon": "Tapu-Koko" 
+  },
+  "Tapu Lele": { 
+    "#": 786, 
+    "Gamepress": 786, 
+    "Bulbapedia": "Tapu-Lele",
+    "Serebii": "Tapu-Lele",
+    "Smogon": "Tapu-Lele" 
+  },
+  "Tapu Bulu": { 
+    "#": 787, 
+    "Gamepress": 787, 
+    "Bulbapedia": "Tapu-Bulu",
+    "Serebii": "Tapu-Bulu",
+    "Smogon": "Tapu-Bulu" 
+  },
+  "Tapu Fini": { 
+    "#": 788, 
+    "Gamepress": 788, 
+    "Bulbapedia": "Tapu-Fini",
+    "Serebii": "Tapu-Fini",
+    "Smogon": "Tapu-Fini" 
+  },
+  "Cosmog": { 
+    "#": 789, 
+    "Gamepress": 789, 
+    "Bulbapedia": "Cosmog",
+    "Serebii": "Cosmog",
+    "Smogon": "Cosmog" 
+  },
+  "Cosmoem": { 
+    "#": 790, 
+    "Gamepress": 790, 
+    "Bulbapedia": "Cosmoem",
+    "Serebii": "Cosmoem",
+    "Smogon": "Cosmoem" 
+  },
+  "Solgaleo": { 
+    "#": 791, 
+    "Gamepress": 791, 
+    "Bulbapedia": "Solgaleo",
+    "Serebii": "Solgaleo",
+    "Smogon": "Solgaleo" 
+  },
+  "Lunala": { 
+    "#": 792, 
+    "Gamepress": 792, 
+    "Bulbapedia": "Lunala",
+    "Serebii": "Lunala",
+    "Smogon": "Lunala" 
+  },
+  "Nihilego": { 
+    "#": 793, 
+    "Gamepress": 793, 
+    "Bulbapedia": "Nihilego",
+    "Serebii": "Nihilego",
+    "Smogon": "Nihilego" 
+  },
+  "Buzzwole": { 
+    "#": 794, 
+    "Gamepress": 794, 
+    "Bulbapedia": "Buzzwole",
+    "Serebii": "Buzzwole",
+    "Smogon": "Buzzwole" 
+  },
+  "Pheromosa": { 
+    "#": 795, 
+    "Gamepress": 795, 
+    "Bulbapedia": "Pheromosa",
+    "Serebii": "Pheromosa",
+    "Smogon": "Pheromosa" 
+  },
+  "Xurkitree": { 
+    "#": 796, 
+    "Gamepress": 796, 
+    "Bulbapedia": "Xurkitree",
+    "Serebii": "Xurkitree",
+    "Smogon": "Xurkitree" 
+  },
+  "Celesteela": { 
+    "#": 797, 
+    "Gamepress": 797, 
+    "Bulbapedia": "Celesteela",
+    "Serebii": "Celesteela",
+    "Smogon": "Celesteela" 
+  },
+  "Kartana": { 
+    "#": 798, 
+    "Gamepress": 798, 
+    "Bulbapedia": "Kartana",
+    "Serebii": "Kartana",
+    "Smogon": "Kartana" 
+  },
+  "Guzzlord": { 
+    "#": 799, 
+    "Gamepress": 799, 
+    "Bulbapedia": "Guzzlord",
+    "Serebii": "Guzzlord",
+    "Smogon": "Guzzlord" 
+  },
+  "Necrozma": { 
+    "#": 800, 
+    "Gamepress": 800, 
+    "Bulbapedia": "Necrozma",
+    "Serebii": "Necrozma",
+    "Smogon": "Necrozma" 
+  },
+  "Necrozma - Dusk Mane": { 
+    "#": 800, 
+    "Gamepress": "800-1", 
+    "Bulbapedia": "Necrozma",
+    "Serebii": "Necrozma",
+    "Smogon": "Necrozma" 
+  },
+  "Necrozma - Dawn Wings": { 
+    "#": 800, 
+    "Gamepress": "800-2", 
+    "Bulbapedia": "Necrozma",
+    "Serebii": "Necrozma",
+    "Smogon": "Necrozma" 
+  },
+  "Ultra Necrozma": { 
+    "#": 800, 
+    "Gamepress": "800-0", 
+    "Bulbapedia": "Necrozma",
+    "Serebii": "Necrozma",
+    "Smogon": "Necrozma" 
+  },
+  "Magearna": { 
+    "#": 801, 
+    "Gamepress": 801, 
+    "Bulbapedia": "Magearna",
+    "Serebii": "Magearna",
+    "Smogon": "Magearna" 
+  },
+  "Marshadow": { 
+    "#": 802, 
+    "Gamepress": 802, 
+    "Bulbapedia": "Marshadow",
+    "Serebii": "Marshadow",
+    "Smogon": "Marshadow" 
+  },
+  "Poipole": { 
+    "#": 803, 
+    "Gamepress": 803, 
+    "Bulbapedia": "Poipole",
+    "Serebii": "Poipole",
+    "Smogon": "Poipole" 
+  },
+  "Naganadel": { 
+    "#": 804, 
+    "Gamepress": 804, 
+    "Bulbapedia": "Naganadel",
+    "Serebii": "Naganadel",
+    "Smogon": "Naganadel" 
+  },
+  "Stakataka": { 
+    "#": 805, 
+    "Gamepress": 805, 
+    "Bulbapedia": "Stakataka",
+    "Serebii": "Stakataka",
+    "Smogon": "Stakataka" 
+  },
+  "Blacephalon": { 
+    "#": 806, 
+    "Gamepress": 806, 
+    "Bulbapedia": "Blacephalon",
+    "Serebii": "Blacephalon",
+    "Smogon": "Blacephalon" 
+  },
+  "Zeraora": { 
+    "#": 807, 
+    "Gamepress": 807, 
+    "Bulbapedia": "Zeraora",
+    "Serebii": "Zeraora",
+    "Smogon": "Zeraora" 
+  },
+  "Meltan": { 
+    "#": 808, 
+    "Gamepress": 808, 
+    "Bulbapedia": "Meltan",
+    "Serebii": "Meltan",
+    "Smogon": "Meltan" 
+  },
+  "Melmetal": { 
+    "#": 809, 
+    "Gamepress": 809, 
+    "Bulbapedia": "Melmetal",
+    "Serebii": "Melmetal",
+    "Smogon": "Melmetal" 
+  },
+  "Grookey": { 
+    "#": 810, 
+    "Gamepress": 810, 
+    "Bulbapedia": "Grookey",
+    "Serebii": "Grookey",
+    "Smogon": "Grookey" 
+  },
+  "Thwackey": { 
+    "#": 811, 
+    "Gamepress": 811, 
+    "Bulbapedia": "Thwackey",
+    "Serebii": "Thwackey",
+    "Smogon": "Thwackey" 
+  },
+  "Rillaboom": { 
+    "#": 812, 
+    "Gamepress": 812, 
+    "Bulbapedia": "Rillaboom",
+    "Serebii": "Rillaboom",
+    "Smogon": "Rillaboom" 
+  },
+  "Scorbunny": { 
+    "#": 813, 
+    "Gamepress": 813, 
+    "Bulbapedia": "Scorbunny",
+    "Serebii": "Scorbunny",
+    "Smogon": "Scorbunny" 
+  },
+  "Raboot": { 
+    "#": 814, 
+    "Gamepress": 814, 
+    "Bulbapedia": "Raboot",
+    "Serebii": "Raboot",
+    "Smogon": "Raboot" 
+  },
+  "Cinderace": { 
+    "#": 815, 
+    "Gamepress": 815, 
+    "Bulbapedia": "Cinderace",
+    "Serebii": "Cinderace",
+    "Smogon": "Cinderace" 
+  },
+  "Sobble": { 
+    "#": 816, 
+    "Gamepress": 816, 
+    "Bulbapedia": "Sobble",
+    "Serebii": "Sobble",
+    "Smogon": "Sobble" 
+  },
+  "Drizzile": { 
+    "#": 817, 
+    "Gamepress": 817, 
+    "Bulbapedia": "Drizzile",
+    "Serebii": "Drizzile",
+    "Smogon": "Drizzile" 
+  },
+  "Inteleon": { 
+    "#": 818, 
+    "Gamepress": 818, 
+    "Bulbapedia": "Inteleon",
+    "Serebii": "Inteleon",
+    "Smogon": "Inteleon" 
+  },
+  "Skwovet": { 
+    "#": 819, 
+    "Gamepress": 819, 
+    "Bulbapedia": "Skwovet",
+    "Serebii": "Skwovet",
+    "Smogon": "Skwovet" 
+  },
+  "Greedent": { 
+    "#": 820, 
+    "Gamepress": 820, 
+    "Bulbapedia": "Greedent",
+    "Serebii": "Greedent",
+    "Smogon": "Greedent" 
+  },
+  "Rookidee": { 
+    "#": 821, 
+    "Gamepress": 821, 
+    "Bulbapedia": "Rookidee",
+    "Serebii": "Rookidee",
+    "Smogon": "Rookidee" 
+  },
+  "Corvisquire": { 
+    "#": 822, 
+    "Gamepress": 822, 
+    "Bulbapedia": "Corvisquire",
+    "Serebii": "Corvisquire",
+    "Smogon": "Corvisquire" 
+  },
+  "Corviknight": { 
+    "#": 823, 
+    "Gamepress": 823, 
+    "Bulbapedia": "Corviknight",
+    "Serebii": "Corviknight",
+    "Smogon": "Corviknight" 
+  },
+  "Blipbug": { 
+    "#": 824, 
+    "Gamepress": 824, 
+    "Bulbapedia": "Blipbug",
+    "Serebii": "Blipbug",
+    "Smogon": "Blipbug" 
+  },
+  "Dottler": { 
+    "#": 825, 
+    "Gamepress": 825, 
+    "Bulbapedia": "Dottler",
+    "Serebii": "Dottler",
+    "Smogon": "Dottler" 
+  },
+  "Orbeetle": { 
+    "#": 826, 
+    "Gamepress": 826, 
+    "Bulbapedia": "Orbeetle",
+    "Serebii": "Orbeetle",
+    "Smogon": "Orbeetle" 
+  },
+  "Nickit": { 
+    "#": 827, 
+    "Gamepress": 827, 
+    "Bulbapedia": "Nickit",
+    "Serebii": "Nickit",
+    "Smogon": "Nickit" 
+  },
+  "Thievul": { 
+    "#": 828, 
+    "Gamepress": 828, 
+    "Bulbapedia": "Thievul",
+    "Serebii": "Thievul",
+    "Smogon": "Thievul" 
+  },
+  "Gossifleur": { 
+    "#": 829, 
+    "Gamepress": 829, 
+    "Bulbapedia": "Gossifleur",
+    "Serebii": "Gossifleur",
+    "Smogon": "Gossifleur" 
+  },
+  "Eldegoss": { 
+    "#": 830, 
+    "Gamepress": 830, 
+    "Bulbapedia": "Eldegoss",
+    "Serebii": "Eldegoss",
+    "Smogon": "Eldegoss" 
+  },
+  "Wooloo": { 
+    "#": 831, 
+    "Gamepress": 831, 
+    "Bulbapedia": "Wooloo",
+    "Serebii": "Wooloo",
+    "Smogon": "Wooloo" 
+  },
+  "Dubwool": { 
+    "#": 832, 
+    "Gamepress": 832, 
+    "Bulbapedia": "Dubwool",
+    "Serebii": "Dubwool",
+    "Smogon": "Dubwool" 
+  },
+  "Chewtle": { 
+    "#": 833, 
+    "Gamepress": 833, 
+    "Bulbapedia": "Chewtle",
+    "Serebii": "Chewtle",
+    "Smogon": "Chewtle" 
+  },
+  "Drednaw": { 
+    "#": 834, 
+    "Gamepress": 834, 
+    "Bulbapedia": "Drednaw",
+    "Serebii": "Drednaw",
+    "Smogon": "Drednaw" 
+  },
+  "Yamper": { 
+    "#": 835, 
+    "Gamepress": 835, 
+    "Bulbapedia": "Yamper",
+    "Serebii": "Yamper",
+    "Smogon": "Yamper" 
+  },
+  "Boltund": { 
+    "#": 836, 
+    "Gamepress": 836, 
+    "Bulbapedia": "Boltund",
+    "Serebii": "Boltund",
+    "Smogon": "Boltund" 
+  },
+  "Rolycoly": { 
+    "#": 837, 
+    "Gamepress": 837, 
+    "Bulbapedia": "Rolycoly",
+    "Serebii": "Rolycoly",
+    "Smogon": "Rolycoly" 
+  },
+  "Carkol": { 
+    "#": 838, 
+    "Gamepress": 838, 
+    "Bulbapedia": "Carkol",
+    "Serebii": "Carkol",
+    "Smogon": "Carkol" 
+  },
+  "Coalossal": { 
+    "#": 839, 
+    "Gamepress": 839, 
+    "Bulbapedia": "Coalossal",
+    "Serebii": "Coalossal",
+    "Smogon": "Coalossal" 
+  },
+  "Applin": { 
+    "#": 840, 
+    "Gamepress": 840, 
+    "Bulbapedia": "Applin",
+    "Serebii": "Applin",
+    "Smogon": "Applin" 
+  },
+  "Flapple": { 
+    "#": 841, 
+    "Gamepress": 841, 
+    "Bulbapedia": "Flapple",
+    "Serebii": "Flapple",
+    "Smogon": "Flapple" 
+  },
+  "Appletun": { 
+    "#": 842, 
+    "Gamepress": 842, 
+    "Bulbapedia": "Appletun",
+    "Serebii": "Appletun",
+    "Smogon": "Appletun" 
+  },
+  "Silicobra": { 
+    "#": 843, 
+    "Gamepress": 843, 
+    "Bulbapedia": "Silicobra",
+    "Serebii": "Silicobra",
+    "Smogon": "Silicobra" 
+  },
+  "Sandaconda": { 
+    "#": 844, 
+    "Gamepress": 844, 
+    "Bulbapedia": "Sandaconda",
+    "Serebii": "Sandaconda",
+    "Smogon": "Sandaconda" 
+  },
+  "Cramorant": { 
+    "#": 845, 
+    "Gamepress": 845, 
+    "Bulbapedia": "Cramorant",
+    "Serebii": "Cramorant",
+    "Smogon": "Cramorant" 
+  },
+  "Arrokuda": { 
+    "#": 846, 
+    "Gamepress": 846, 
+    "Bulbapedia": "Arrokuda",
+    "Serebii": "Arrokuda",
+    "Smogon": "Arrokuda" 
+  },
+  "Barraskewda": { 
+    "#": 847, 
+    "Gamepress": 847, 
+    "Bulbapedia": "Barraskewda",
+    "Serebii": "Barraskewda",
+    "Smogon": "Barraskewda" 
+  },
+  "Toxel": { 
+    "#": 848, 
+    "Gamepress": 848, 
+    "Bulbapedia": "Toxel",
+    "Serebii": "Toxel",
+    "Smogon": "Toxel" 
+  },
+  "Toxtricity": { 
+    "#": 849, 
+    "Gamepress": 849, 
+    "Bulbapedia": "Toxtricity",
+    "Serebii": "Toxtricity",
+    "Smogon": "Toxtricity" 
+  },
+  "Sizzlipede": { 
+    "#": 850, 
+    "Gamepress": 850, 
+    "Bulbapedia": "Sizzlipede",
+    "Serebii": "Sizzlipede",
+    "Smogon": "Sizzlipede" 
+  },
+  "Centiskorch": { 
+    "#": 851, 
+    "Gamepress": 851, 
+    "Bulbapedia": "Centiskorch",
+    "Serebii": "Centiskorch",
+    "Smogon": "Centiskorch" 
+  },
+  "Clobbopus": { 
+    "#": 852, 
+    "Gamepress": 852, 
+    "Bulbapedia": "Clobbopus",
+    "Serebii": "Clobbopus",
+    "Smogon": "Clobbopus" 
+  },
+  "Grapploct": { 
+    "#": 853, 
+    "Gamepress": 853, 
+    "Bulbapedia": "Grapploct",
+    "Serebii": "Grapploct",
+    "Smogon": "Grapploct" 
+  },
+  "Sinistea": { 
+    "#": 854, 
+    "Gamepress": 854, 
+    "Bulbapedia": "Sinistea",
+    "Serebii": "Sinistea",
+    "Smogon": "Sinistea" 
+  },
+  "Polteageist": { 
+    "#": 855, 
+    "Gamepress": 855, 
+    "Bulbapedia": "Polteageist",
+    "Serebii": "Polteageist",
+    "Smogon": "Polteageist" 
+  },
+  "Hatenna": { 
+    "#": 856, 
+    "Gamepress": 856, 
+    "Bulbapedia": "Hatenna",
+    "Serebii": "Hatenna",
+    "Smogon": "Hatenna" 
+  },
+  "Hattrem": { 
+    "#": 857, 
+    "Gamepress": 857, 
+    "Bulbapedia": "Hattrem",
+    "Serebii": "Hattrem",
+    "Smogon": "Hattrem" 
+  },
+  "Hatterene": { 
+    "#": 858, 
+    "Gamepress": 858, 
+    "Bulbapedia": "Hatterene",
+    "Serebii": "Hatterene",
+    "Smogon": "Hatterene" 
+  },
+  "Impidimp": { 
+    "#": 859, 
+    "Gamepress": 859, 
+    "Bulbapedia": "Impidimp",
+    "Serebii": "Impidimp",
+    "Smogon": "Impidimp" 
+  },
+  "Morgrem": { 
+    "#": 860, 
+    "Gamepress": 860, 
+    "Bulbapedia": "Morgrem",
+    "Serebii": "Morgrem",
+    "Smogon": "Morgrem" 
+  },
+  "Grimmsnarl": { 
+    "#": 861, 
+    "Gamepress": 861, 
+    "Bulbapedia": "Grimmsnarl",
+    "Serebii": "Grimmsnarl",
+    "Smogon": "Grimmsnarl" 
+  },
+  "Obstagoon": { 
+    "#": 862, 
+    "Gamepress": 862, 
+    "Bulbapedia": "Obstagoon",
+    "Serebii": "Obstagoon",
+    "Smogon": "Obstagoon" 
+  },
+  "Perrserker": { 
+    "#": 863, 
+    "Gamepress": 863, 
+    "Bulbapedia": "Perrserker",
+    "Serebii": "Perrserker",
+    "Smogon": "Perrserker" 
+  },
+  "Cursola": { 
+    "#": 864, 
+    "Gamepress": 864, 
+    "Bulbapedia": "Cursola",
+    "Serebii": "Cursola",
+    "Smogon": "Cursola" 
+  },
+  "Sirfetch’d": { 
+    "#": 865, 
+    "Gamepress": 865, 
+    "Bulbapedia": "Sirfetch%27d",
+    "Serebii": "Sirfetch%27d",
+    "Smogon": "Sirfetch%27d" 
+  },
+  "Mr. Rime": { 
+    "#": 866, 
+    "Gamepress": 866, 
+    "Bulbapedia": "Mr._Rime",
+    "Serebii": "Mr.Rime",
+    "Smogon": "Mr._Rime" 
+  },
+  "Runerigus": { 
+    "#": 867, 
+    "Gamepress": 867, 
+    "Bulbapedia": "Runerigus",
+    "Serebii": "Runerigus",
+    "Smogon": "Runerigus" 
+  },
+  "Milcery": { 
+    "#": 868, 
+    "Gamepress": 868, 
+    "Bulbapedia": "Milcery",
+    "Serebii": "Milcery",
+    "Smogon": "Milcery" 
+  },
+  "Alcremie": { 
+    "#": 869, 
+    "Gamepress": 869, 
+    "Bulbapedia": "Alcremie",
+    "Serebii": "Alcremie",
+    "Smogon": "Alcremie" 
+  },
+  "Falinks": { 
+    "#": 870, 
+    "Gamepress": 870, 
+    "Bulbapedia": "Falinks",
+    "Serebii": "Falinks",
+    "Smogon": "Falinks" 
+  },
+  "Pincurchin": { 
+    "#": 871, 
+    "Gamepress": 871, 
+    "Bulbapedia": "Pincurchin",
+    "Serebii": "Pincurchin",
+    "Smogon": "Pincurchin" 
+  },
+  "Snom": { 
+    "#": 872, 
+    "Gamepress": 872, 
+    "Bulbapedia": "Snom",
+    "Serebii": "Snom",
+    "Smogon": "Snom" 
+  },
+  "Frosmoth": { 
+    "#": 873, 
+    "Gamepress": 873, 
+    "Bulbapedia": "Frosmoth",
+    "Serebii": "Frosmoth",
+    "Smogon": "Frosmoth" 
+  },
+  "Stonjourner": { 
+    "#": 874, 
+    "Gamepress": 874, 
+    "Bulbapedia": "Stonjourner",
+    "Serebii": "Stonjourner",
+    "Smogon": "Stonjourner" 
+  },
+  "Eiscue - Ice Face": { 
+    "#": 875, 
+    "Gamepress": 875, 
+    "Bulbapedia": "Eiscue",
+    "Serebii": "Eiscue",
+    "Smogon": "Eiscue" 
+  },
+  "Eiscue - Noice Face": { 
+    "#": 875, 
+    "Gamepress": "875-0", 
+    "Bulbapedia": "Eiscue",
+    "Serebii": "Eiscue",
+    "Smogon": "Eiscue" 
+  },
+  "Indeedee - Male": { 
+    "#": "876-male", 
+    "Gamepress": "876-male", 
+    "Bulbapedia": "Indeedee",
+    "Serebii": "Indeedee",
+    "Smogon": "Indeedee" 
+  },
+  "Indeedee - Female": { 
+    "#": "876-female", 
+    "Gamepress": "876-female", 
+    "Bulbapedia": "Indeedee",
+    "Serebii": "Indeedee",
+    "Smogon": "Indeedee" 
+  },
+  "Morpeko": { 
+    "#": 877, 
+    "Gamepress": 877, 
+    "Bulbapedia": "Morpeko",
+    "Serebii": "Morpeko",
+    "Smogon": "Morpeko" 
+  },
+  "Cufant": { 
+    "#": 878, 
+    "Gamepress": 878, 
+    "Bulbapedia": "Cufant",
+    "Serebii": "Cufant",
+    "Smogon": "Cufant" 
+  },
+  "Copperajah": { 
+    "#": 879, 
+    "Gamepress": 879, 
+    "Bulbapedia": "Copperajah",
+    "Serebii": "Copperajah",
+    "Smogon": "Copperajah" 
+  },
+  "Dracozolt": { 
+    "#": 880, 
+    "Gamepress": 880, 
+    "Bulbapedia": "Dracozolt",
+    "Serebii": "Dracozolt",
+    "Smogon": "Dracozolt" 
+  },
+  "Arctozolt": { 
+    "#": 881, 
+    "Gamepress": 881, 
+    "Bulbapedia": "Arctozolt",
+    "Serebii": "Arctozolt",
+    "Smogon": "Arctozolt" 
+  },
+  "Dracovish": { 
+    "#": 882, 
+    "Gamepress": 882, 
+    "Bulbapedia": "Dracovish",
+    "Serebii": "Dracovish",
+    "Smogon": "Dracovish" 
+  },
+  "Arctovish": { 
+    "#": 883, 
+    "Gamepress": 883, 
+    "Bulbapedia": "Arctovish",
+    "Serebii": "Arctovish",
+    "Smogon": "Arctovish" 
+  },
+  "Duraludon": { 
+    "#": 884, 
+    "Gamepress": 884, 
+    "Bulbapedia": "Duraludon",
+    "Serebii": "Duraludon",
+    "Smogon": "Duraludon" 
+  },
+  "Dreepy": { 
+    "#": 885, 
+    "Gamepress": 885, 
+    "Bulbapedia": "Dreepy",
+    "Serebii": "Dreepy",
+    "Smogon": "Dreepy" 
+  },
+  "Drakloak": { 
+    "#": 886, 
+    "Gamepress": 886, 
+    "Bulbapedia": "Drakloak",
+    "Serebii": "Drakloak",
+    "Smogon": "Drakloak" 
+  },
+  "Dragapult": { 
+    "#": 887, 
+    "Gamepress": 887, 
+    "Bulbapedia": "Dragapult",
+    "Serebii": "Dragapult",
+    "Smogon": "Dragapult" 
+  },
+  "Zacian - Hero of Many Battles": { 
+    "#": 888, 
+    "Gamepress": 888, 
+    "Bulbapedia": "Zacian",
+    "Serebii": "Zacian",
+    "Smogon": "Zacian" 
+  },
+  "Zacian - Crowned Shield": { 
+    "#": "888-Crowned", 
+    "Gamepress": "888-Crowned", 
+    "Bulbapedia": "Zacian",
+    "Serebii": "Zacian",
+    "Smogon": "Zacian" 
+  },
+  "Zamazenta - Hero of Many Battles": { 
+    "#": 889, 
+    "Gamepress": 889, 
+    "Bulbapedia": "Zamazenta",
+    "Serebii": "Zamazenta",
+    "Smogon": "Zamazenta" 
+  },
+  "Zamazenta - Crowned Shield": { 
+    "#": "889-Crowned", 
+    "Gamepress": "889-Crowned", 
+    "Bulbapedia": "Zamazenta",
+    "Serebii": "Zamazenta",
+    "Smogon": "Zamazenta" 
+  },
+  "Eternatus": { 
+    "#": 890, 
+    "Gamepress": 890, 
+    "Bulbapedia": "Eternatus",
+    "Serebii": "Eternatus",
+    "Smogon": "Eternatus" 
+  },
+  "Eternamax Eternatus": { 
+    "#": 890, 
+    "Gamepress": "890-0", 
+    "Bulbapedia": "Eternatus",
+    "Serebii": "Eternatus",
+    "Smogon": "Eternatus" 
+  },
+  "Kubfu": { 
+    "#": 891, 
+    "Gamepress": 891, 
+    "Bulbapedia": "Kubfu",
+    "Serebii": "Kubfu",
+    "Smogon": "Kubfu" 
+  },
+  "Urshifu - Single Strike": { 
+    "#": 892, 
+    "Gamepress": 892, 
+    "Bulbapedia": "Urshifu",
+    "Serebii": "Urshifu",
+    "Smogon": "Urshifu" 
+  },
+  "Urshifu - Rapid Strike": { 
+    "#": 892, 
+    "Gamepress": "892-0", 
+    "Bulbapedia": "Urshifu",
+    "Serebii": "Urshifu",
+    "Smogon": "Urshifu" 
+  },
+  "Zarude": { 
+    "#": 893, 
+    "Gamepress": 893, 
+    "Bulbapedia": "Zarude",
+    "Serebii": "Zarude",
+    "Smogon": "Zarude" 
+  },
+  "Regieleki": { 
+    "#": 894, 
+    "Gamepress": 894, 
+    "Bulbapedia": "Regieleki",
+    "Serebii": "Regieleki",
+    "Smogon": "Regieleki" 
+  },
+  "Regidrago": { 
+    "#": 895, 
+    "Gamepress": 895, 
+    "Bulbapedia": "Regidrago",
+    "Serebii": "Regidrago",
+    "Smogon": "Regidrago" 
+  },
+  "Glastrier": { 
+    "#": 896, 
+    "Gamepress": 896, 
+    "Bulbapedia": "Glastrier",
+    "Serebii": "Glastrier",
+    "Smogon": "Glastrier" 
+  },
+  "Spectrier": { 
+    "#": 897, 
+    "Gamepress": 897, 
+    "Bulbapedia": "Spectrier",
+    "Serebii": "Spectrier",
+    "Smogon": "Spectrier" 
+  },
+  "Calyrex": { 
+    "#": 898, 
+    "Gamepress": 898, 
+    "Bulbapedia": "Calyrex",
+    "Serebii": "Calyrex",
+    "Smogon": "Calyrex" 
+  },
+  "Calyrex - Shadow Rider": { 
+    "#": 898, 
+    "Gamepress": "898-shadow-rider", 
+    "Bulbapedia": "Calyrex",
+    "Serebii": "Calyrex",
+    "Smogon": "Calyrex-shadow" 
+  },
+  "Calyrex - Ice Rider": { 
+    "#": 898, 
+    "Gamepress": "898-ice-rider", 
+    "Bulbapedia": "Calyrex",
+    "Serebii": "Calyrex",
+    "Smogon": "Calyrex-ice" 
+  },
+  "Wyrdeer": { 
+    "#": 899, 
+    "Gamepress": "899", 
+    "Bulbapedia": "Wyrdeer",
+    "Serebii": "Wyrdeer",
+    "Smogon": "Wyrdeer"
+  },
+  "Kleavor": { 
+    "#": 900, 
+    "Gamepress": "900", 
+    "Bulbapedia": "Kleavor",
+    "Serebii": "Kleavor",
+    "Smogon": "Kleavor" 
+  },
+  "Ursaluna": { 
+    "#": 901, 
+    "Gamepress": "901", 
+    "Bulbapedia": "Ursaluna",
+    "Serebii": "Ursaluna",
+    "Smogon": "Ursaluna" 
+  },
+  "Basculegion": { 
+    "#": 902, 
+    "Gamepress": "902", 
+    "Bulbapedia": "Basculegion",
+    "Serebii": "Basculegion",
+    "Smogon": "Basculegion" 
+  },
+  "Sneasler": { 
+    "#": 903, 
+    "Gamepress": "903", 
+    "Bulbapedia": "Sneasler",
+    "Serebii": "Sneasler",
+    "Smogon": "Sneasler" 
+  },
+  "Overqwil": { 
+    "#": 904, 
+    "Gamepress": "904", 
+    "Bulbapedia": "Overqwil",
+    "Serebii": "Overqwil",
+    "Smogon": "Overqwil" 
+  },
+  "Enamorus": { 
+    "#": 905, 
+    "Gamepress": "905", 
+    "Bulbapedia": "Enamorus",
+    "Serebii": "Enamorus",
+    "Smogon": "Enamorus" 
+  },
+  "Tauros - Combat": {
+    "#": 128,
+    "Gamepress": "128-combat",
+    "Bulbapedia": "Tauros",
+    "Serebii": "Tauros",
+    "Smogon": "Tauros"
+  },
+  "Tauros - Blaze": {
+    "#": 128,
+    "Gamepress": "128-blaze",
+    "Bulbapedia": "Tauros",
+    "Serebii": "Tauros",
+    "Smogon": "Tauros-paldea-fire"
+  },
+  "Tauros - Aqua": {
+    "#": 128,
+    "Gamepress": "128-aqua",
+    "Bulbapedia": "Tauros",
+    "Serebii": "Tauros",
+    "Smogon": "Tauros-paldea-water"
+  },
+  "Wooper - Paldean": {
+    "#": 194,
+    "Gamepress": "194-paldean",
+    "Bulbapedia": "Wooper",
+    "Serebii": "Wooper",
+    "Smogon": "Wooper-paldea"
+  },
+  "Sprigatito": {
+    "#": 906,
+    "Gamepress": "906",
+    "Bulbapedia": "Sprigatito",
+    "Serebii": "Sprigatito",
+    "Smogon": "Sprigatito"
+  },
+  "Floragato": {
+    "#": 907,
+    "Gamepress": "907",
+    "Bulbapedia": "Floragato",
+    "Serebii": "Floragato",
+    "Smogon": "Floragato"
+  },
+  "Meowscarada": {
+    "#": 908,
+    "Gamepress": "908",
+    "Bulbapedia": "Meowscarada",
+    "Serebii": "Meowscarada",
+    "Smogon": "Meowscarada"
+  },
+  "Fuecoco": {
+    "#": 909,
+    "Gamepress": "909",
+    "Bulbapedia": "Fuecoco",
+    "Serebii": "Fuecoco",
+    "Smogon": "Fuecoco"
+  },
+  "Crocalor": {
+    "#": 910,
+    "Gamepress": "910",
+    "Bulbapedia": "Crocalor",
+    "Serebii": "Crocalor",
+    "Smogon": "Crocalor"
+  },
+  "Skeledirge": {
+    "#": 911,
+    "Gamepress": "911",
+    "Bulbapedia": "Skeledirge",
+    "Serebii": "Skeledirge",
+    "Smogon": "Skeledirge"
+  },
+  "Quaxly": {
+    "#": 912,
+    "Gamepress": "912",
+    "Bulbapedia": "Quaxly",
+    "Serebii": "Quaxly",
+    "Smogon": "Quaxly"
+  },
+  "Quaxwell": {
+    "#": 913,
+    "Gamepress": "913",
+    "Bulbapedia": "Quaxwell",
+    "Serebii": "Quaxwell",
+    "Smogon": "Quaxwell"
+  },
+  "Quaquaval": {
+    "#": 914,
+    "Gamepress": "914",
+    "Bulbapedia": "Quaquaval",
+    "Serebii": "Quaquaval",
+    "Smogon": "Quaquaval"
+  },
+  "Lechonk": {
+    "#": 915,
+    "Gamepress": "915",
+    "Bulbapedia": "Lechonk",
+    "Serebii": "Lechonk",
+    "Smogon": "Lechonk"
+  },
+  "Oinkologne": {
+    "#": 916,
+    "Gamepress": "916-male",
+    "Bulbapedia": "Oinkologne",
+    "Serebii": "Oinkologne",
+    "Smogon": "Oinkologne"
+  },
+  "Oinkologne": {
+    "#": 916,
+    "Gamepress": "916-female",
+    "Bulbapedia": "Oinkologne",
+    "Serebii": "Oinkologne",
+    "Smogon": "Oinkologne"
+  },
+  "Tarountula": {
+    "#": 917,
+    "Gamepress": "917",
+    "Bulbapedia": "Tarountula",
+    "Serebii": "Tarountula",
+    "Smogon": "Tarountula"
+  },
+  "Spidops": {
+    "#": 918,
+    "Gamepress": "918",
+    "Bulbapedia": "Spidops",
+    "Serebii": "Spidops",
+    "Smogon": "Spidops"
+  },
+  "Nymble": {
+    "#": 919,
+    "Gamepress": "919",
+    "Bulbapedia": "Nymble",
+    "Serebii": "Nymble",
+    "Smogon": "Nymble"
+  },
+  "Lokix": {
+    "#": 920,
+    "Gamepress": "920",
+    "Bulbapedia": "Lokix",
+    "Serebii": "Lokix",
+    "Smogon": "Lokix"
+  },
+  "Pawmi": {
+    "#": 921,
+    "Gamepress": "921",
+    "Bulbapedia": "Pawmi",
+    "Serebii": "Pawmi",
+    "Smogon": "Pawmi"
+  },
+  "Pawmo": {
+    "#": 922,
+    "Gamepress": "922",
+    "Bulbapedia": "Pawmo",
+    "Serebii": "Pawmo",
+    "Smogon": "Pawmo"
+  },
+  "Pawmot": {
+    "#": 923,
+    "Gamepress": "923",
+    "Bulbapedia": "Pawmot",
+    "Serebii": "Pawmot",
+    "Smogon": "Pawmot"
+  },
+  "Tandemaus": {
+    "#": 924,
+    "Gamepress": "924",
+    "Bulbapedia": "Tandemaus",
+    "Serebii": "Tandemaus",
+    "Smogon": "Tandemaus"
+  },
+  "Maushold": {
+    "#": 925,
+    "Gamepress": "925-family of three",
+    "Bulbapedia": "Maushold",
+    "Serebii": "Maushold",
+    "Smogon": "Maushold"
+  },
+  "Maushold": {
+    "#": 925,
+    "Gamepress": "925-family of four",
+    "Bulbapedia": "Maushold",
+    "Serebii": "Maushold",
+    "Smogon": "Maushold"
+  },
+  "Fidough": {
+    "#": 926,
+    "Gamepress": "926",
+    "Bulbapedia": "Fidough",
+    "Serebii": "Fidough",
+    "Smogon": "Fidough"
+  },
+  "Dachsbun": {
+    "#": 927,
+    "Gamepress": "927",
+    "Bulbapedia": "Dachsbun",
+    "Serebii": "Dachsbun",
+    "Smogon": "Dachsbun"
+  },
+  "Smoliv": {
+    "#": 928,
+    "Gamepress": "928",
+    "Bulbapedia": "Smoliv",
+    "Serebii": "Smoliv",
+    "Smogon": "Smoliv"
+  },
+  "Dolliv": {
+    "#": 929,
+    "Gamepress": "929",
+    "Bulbapedia": "Dolliv",
+    "Serebii": "Dolliv",
+    "Smogon": "Dolliv"
+  },
+  "Arboliva": {
+    "#": 930,
+    "Gamepress": "930",
+    "Bulbapedia": "Arboliva",
+    "Serebii": "Arboliva",
+    "Smogon": "Arboliva"
+  },
+  "Squawkabilly": {
+    "#": 931,
+    "Gamepress": "931-green plumage",
+    "Bulbapedia": "Squawkabilly",
+    "Serebii": "Squawkabilly",
+    "Smogon": "Squawkabilly"
+  },
+  "Squawkabilly": {
+    "#": 931,
+    "Gamepress": "931-blue plumage",
+    "Bulbapedia": "Squawkabilly",
+    "Serebii": "Squawkabilly",
+    "Smogon": "Squawkabilly"
+  },
+  "Squawkabilly": {
+    "#": 931,
+    "Gamepress": "931-yellow plumage",
+    "Bulbapedia": "Squawkabilly",
+    "Serebii": "Squawkabilly",
+    "Smogon": "Squawkabilly"
+  },
+  "Squawkabilly": {
+    "#": 931,
+    "Gamepress": "931-white plumage",
+    "Bulbapedia": "Squawkabilly",
+    "Serebii": "Squawkabilly",
+    "Smogon": "Squawkabilly"
+  },
+  "Nacli": {
+    "#": 932,
+    "Gamepress": "932",
+    "Bulbapedia": "Nacli",
+    "Serebii": "Nacli",
+    "Smogon": "Nacli"
+  },
+  "Naclstack": {
+    "#": 933,
+    "Gamepress": "933",
+    "Bulbapedia": "Naclstack",
+    "Serebii": "Naclstack",
+    "Smogon": "Naclstack"
+  },
+  "Garganacl": {
+    "#": 934,
+    "Gamepress": "934",
+    "Bulbapedia": "Garganacl",
+    "Serebii": "Garganacl",
+    "Smogon": "Garganacl"
+  },
+  "Charcadet": {
+    "#": 935,
+    "Gamepress": "935",
+    "Bulbapedia": "Charcadet",
+    "Serebii": "Charcadet",
+    "Smogon": "Charcadet"
+  },
+  "Armarouge": {
+    "#": 936,
+    "Gamepress": "936",
+    "Bulbapedia": "Armarouge",
+    "Serebii": "Armarouge",
+    "Smogon": "Armarouge"
+  },
+  "Ceruledge": {
+    "#": 937,
+    "Gamepress": "937",
+    "Bulbapedia": "Ceruledge",
+    "Serebii": "Ceruledge",
+    "Smogon": "Ceruledge"
+  },
+  "Tadbulb": {
+    "#": 938,
+    "Gamepress": "938",
+    "Bulbapedia": "Tadbulb",
+    "Serebii": "Tadbulb",
+    "Smogon": "Tadbulb"
+  },
+  "Bellibolt": {
+    "#": 939,
+    "Gamepress": "939",
+    "Bulbapedia": "Bellibolt",
+    "Serebii": "Bellibolt",
+    "Smogon": "Bellibolt"
+  },
+  "Wattrel": {
+    "#": 940,
+    "Gamepress": "940",
+    "Bulbapedia": "Wattrel",
+    "Serebii": "Wattrel",
+    "Smogon": "Wattrel"
+  },
+  "Kilowattrel": {
+    "#": 941,
+    "Gamepress": "941",
+    "Bulbapedia": "Kilowattrel",
+    "Serebii": "Kilowattrel",
+    "Smogon": "Kilowattrel"
+  },
+  "Maschiff": {
+    "#": 942,
+    "Gamepress": "942",
+    "Bulbapedia": "Maschiff",
+    "Serebii": "Maschiff",
+    "Smogon": "Maschiff"
+  },
+  "Mabosstiff": {
+    "#": 943,
+    "Gamepress": "943",
+    "Bulbapedia": "Mabosstiff",
+    "Serebii": "Mabosstiff",
+    "Smogon": "Mabosstiff"
+  },
+  "Shroodle": {
+    "#": 944,
+    "Gamepress": "944",
+    "Bulbapedia": "Shroodle",
+    "Serebii": "Shroodle",
+    "Smogon": "Shroodle"
+  },
+  "Grafaiai": {
+    "#": 945,
+    "Gamepress": "945",
+    "Bulbapedia": "Grafaiai",
+    "Serebii": "Grafaiai",
+    "Smogon": "Grafaiai"
+  },
+  "Bramblin": {
+    "#": 946,
+    "Gamepress": "946",
+    "Bulbapedia": "Bramblin",
+    "Serebii": "Bramblin",
+    "Smogon": "Bramblin"
+  },
+  "Brambleghast": {
+    "#": 947,
+    "Gamepress": "947",
+    "Bulbapedia": "Brambleghast",
+    "Serebii": "Brambleghast",
+    "Smogon": "Brambleghast"
+  },
+  "Toedscool": {
+    "#": 948,
+    "Gamepress": "948",
+    "Bulbapedia": "Toedscool",
+    "Serebii": "Toedscool",
+    "Smogon": "Toedscool"
+  },
+  "Toedscruel": {
+    "#": 949,
+    "Gamepress": "949",
+    "Bulbapedia": "Toedscruel",
+    "Serebii": "Toedscruel",
+    "Smogon": "Toedscruel"
+  },
+  "Klawf": {
+    "#": 950,
+    "Gamepress": "950",
+    "Bulbapedia": "Klawf",
+    "Serebii": "Klawf",
+    "Smogon": "Klawf"
+  },
+  "Capsakid": {
+    "#": 951,
+    "Gamepress": "951",
+    "Bulbapedia": "Capsakid",
+    "Serebii": "Capsakid",
+    "Smogon": "Capsakid"
+  },
+  "Scovillain": {
+    "#": 952,
+    "Gamepress": "952",
+    "Bulbapedia": "Scovillain",
+    "Serebii": "Scovillain",
+    "Smogon": "Scovillain"
+  },
+  "Rellor": {
+    "#": 953,
+    "Gamepress": "953",
+    "Bulbapedia": "Rellor",
+    "Serebii": "Rellor",
+    "Smogon": "Rellor"
+  },
+  "Rabsca": {
+    "#": 954,
+    "Gamepress": "954",
+    "Bulbapedia": "Rabsca",
+    "Serebii": "Rabsca",
+    "Smogon": "Rabsca"
+  },
+  "Flittle": {
+    "#": 955,
+    "Gamepress": "955",
+    "Bulbapedia": "Flittle",
+    "Serebii": "Flittle",
+    "Smogon": "Flittle"
+  },
+  "Espathra": {
+    "#": 956,
+    "Gamepress": "956",
+    "Bulbapedia": "Espathra",
+    "Serebii": "Espathra",
+    "Smogon": "Espathra"
+  },
+  "Tinkatink": {
+    "#": 957,
+    "Gamepress": "957",
+    "Bulbapedia": "Tinkatink",
+    "Serebii": "Tinkatink",
+    "Smogon": "Tinkatink"
+  },
+  "Tinkatuff": {
+    "#": 958,
+    "Gamepress": "958",
+    "Bulbapedia": "Tinkatuff",
+    "Serebii": "Tinkatuff",
+    "Smogon": "Tinkatuff"
+  },
+  "Tinkaton": {
+    "#": 959,
+    "Gamepress": "959",
+    "Bulbapedia": "Tinkaton",
+    "Serebii": "Tinkaton",
+    "Smogon": "Tinkaton"
+  },
+  "Wiglett": {
+    "#": 960,
+    "Gamepress": "960",
+    "Bulbapedia": "Wiglett",
+    "Serebii": "Wiglett",
+    "Smogon": "Wiglett"
+  },
+  "Wugtrio": {
+    "#": 961,
+    "Gamepress": "961",
+    "Bulbapedia": "Wugtrio",
+    "Serebii": "Wugtrio",
+    "Smogon": "Wugtrio"
+  },
+  "Bombirdier": {
+    "#": 962,
+    "Gamepress": "962",
+    "Bulbapedia": "Bombirdier",
+    "Serebii": "Bombirdier",
+    "Smogon": "Bombirdier"
+  },
+  "Finizen": {
+    "#": 963,
+    "Gamepress": "963",
+    "Bulbapedia": "Finizen",
+    "Serebii": "Finizen",
+    "Smogon": "Finizen"
+  },
+  "Palafin": {
+    "#": 964,
+    "Gamepress": "964-zero",
+    "Bulbapedia": "Palafin",
+    "Serebii": "Palafin",
+    "Smogon": "Palafin"
+  },
+  "Palafin": {
+    "#": 964,
+    "Gamepress": "964-hero",
+    "Bulbapedia": "Palafin",
+    "Serebii": "Palafin",
+    "Smogon": "Palafin"
+  },
+  "Varoom": {
+    "#": 965,
+    "Gamepress": "965",
+    "Bulbapedia": "Varoom",
+    "Serebii": "Varoom",
+    "Smogon": "Varoom"
+  },
+  "Revavroom": {
+    "#": 966,
+    "Gamepress": "966",
+    "Bulbapedia": "Revavroom",
+    "Serebii": "Revavroom",
+    "Smogon": "Revavroom"
+  },
+  "Cyclizar": {
+    "#": 967,
+    "Gamepress": "967",
+    "Bulbapedia": "Cyclizar",
+    "Serebii": "Cyclizar",
+    "Smogon": "Cyclizar"
+  },
+  "Orthworm": {
+    "#": 968,
+    "Gamepress": "968",
+    "Bulbapedia": "Orthworm",
+    "Serebii": "Orthworm",
+    "Smogon": "Orthworm"
+  },
+  "Glimmet": {
+    "#": 969,
+    "Gamepress": "969",
+    "Bulbapedia": "Glimmet",
+    "Serebii": "Glimmet",
+    "Smogon": "Glimmet"
+  },
+  "Glimmora": {
+    "#": 970,
+    "Gamepress": "970",
+    "Bulbapedia": "Glimmora",
+    "Serebii": "Glimmora",
+    "Smogon": "Glimmora"
+  },
+  "Greavard": {
+    "#": 971,
+    "Gamepress": "971",
+    "Bulbapedia": "Greavard",
+    "Serebii": "Greavard",
+    "Smogon": "Greavard"
+  },
+  "Houndstone": {
+    "#": 972,
+    "Gamepress": "972",
+    "Bulbapedia": "Houndstone",
+    "Serebii": "Houndstone",
+    "Smogon": "Houndstone"
+  },
+  "Flamigo": {
+    "#": 973,
+    "Gamepress": "973",
+    "Bulbapedia": "Flamigo",
+    "Serebii": "Flamigo",
+    "Smogon": "Flamigo"
+  },
+  "Cetoddle": {
+    "#": 974,
+    "Gamepress": "974",
+    "Bulbapedia": "Cetoddle",
+    "Serebii": "Cetoddle",
+    "Smogon": "Cetoddle"
+  },
+  "Cetitan": {
+    "#": 975,
+    "Gamepress": "975",
+    "Bulbapedia": "Cetitan",
+    "Serebii": "Cetitan",
+    "Smogon": "Cetitan"
+  },
+  "Veluza": {
+    "#": 976,
+    "Gamepress": "976",
+    "Bulbapedia": "Veluza",
+    "Serebii": "Veluza",
+    "Smogon": "Veluza"
+  },
+  "Dondozo": {
+    "#": 977,
+    "Gamepress": "977",
+    "Bulbapedia": "Dondozo",
+    "Serebii": "Dondozo",
+    "Smogon": "Dondozo"
+  },
+  "Tatsugiri": {
+    "#": 978,
+    "Gamepress": "978",
+    "Bulbapedia": "Tatsugiri",
+    "Serebii": "Tatsugiri",
+    "Smogon": "Tatsugiri"
+  },
+  "Annihilape": {
+    "#": 979,
+    "Gamepress": "979",
+    "Bulbapedia": "Annihilape",
+    "Serebii": "Annihilape",
+    "Smogon": "Annihilape"
+  },
+  "Clodsire": {
+    "#": 980,
+    "Gamepress": "980",
+    "Bulbapedia": "Clodsire",
+    "Serebii": "Clodsire",
+    "Smogon": "Clodsire"
+  },
+  "Farigiraf": {
+    "#": 981,
+    "Gamepress": "981",
+    "Bulbapedia": "Farigiraf",
+    "Serebii": "Farigiraf",
+    "Smogon": "Farigiraf"
+  },
+  "Dudunsparce": {
+    "#": 982,
+    "Gamepress": "982",
+    "Bulbapedia": "Dudunsparce",
+    "Serebii": "Dudunsparce",
+    "Smogon": "Dudunsparce"
+  },
+  "Kingambit": {
+    "#": 983,
+    "Gamepress": "983",
+    "Bulbapedia": "Kingambit",
+    "Serebii": "Kingambit",
+    "Smogon": "Kingambit"
+  },
+  "Great-Tusk": {
+    "#": 984,
+    "Gamepress": "984",
+    "Bulbapedia": "Great-Tusk",
+    "Serebii": "GreatTusk",
+    "Smogon": "Great-Tusk"
+  },
+  "Scream-Tail": {
+    "#": 985,
+    "Gamepress": "985",
+    "Bulbapedia": "Scream-Tail",
+    "Serebii": "ScreamTail",
+    "Smogon": "Scream-Tail"
+  },
+  "Brute-Bonnet": {
+    "#": 986,
+    "Gamepress": "986",
+    "Bulbapedia": "Brute-Bonnet",
+    "Serebii": "BruteBonnet",
+    "Smogon": "Brute-Bonnet"
+  },
+  "Flutter-Mane": {
+    "#": 987,
+    "Gamepress": "987",
+    "Bulbapedia": "Flutter-Mane",
+    "Serebii": "FlutterMane",
+    "Smogon": "Flutter-Mane"
+  },
+  "Slither-Wing": {
+    "#": 988,
+    "Gamepress": "988",
+    "Bulbapedia": "Slither-Wing",
+    "Serebii": "SlitherWing",
+    "Smogon": "Slither-Wing"
+  },
+  "Sandy-Shocks": {
+    "#": 989,
+    "Gamepress": "989",
+    "Bulbapedia": "Sandy-Shocks",
+    "Serebii": "SandyShocks",
+    "Smogon": "Sandy-Shocks"
+  },
+  "Iron-Treads": {
+    "#": 990,
+    "Gamepress": "990",
+    "Bulbapedia": "Iron-Treads",
+    "Serebii": "IronTreads",
+    "Smogon": "Iron-Treads"
+  },
+  "Iron-Bundle": {
+    "#": 991,
+    "Gamepress": "991",
+    "Bulbapedia": "Iron-Bundle",
+    "Serebii": "IronBundle",
+    "Smogon": "Iron-Bundle"
+  },
+  "Iron-Hands": {
+    "#": 992,
+    "Gamepress": "992",
+    "Bulbapedia": "Iron-Hands",
+    "Serebii": "IronHands",
+    "Smogon": "Iron-Hands"
+  },
+  "Iron-Jugulis": {
+    "#": 993,
+    "Gamepress": "993",
+    "Bulbapedia": "Iron-Jugulis",
+    "Serebii": "IronJugulis",
+    "Smogon": "Iron-Jugulis"
+  },
+  "Iron-Moth": {
+    "#": 994,
+    "Gamepress": "994",
+    "Bulbapedia": "Iron-Moth",
+    "Serebii": "IronMoth",
+    "Smogon": "Iron-Moth"
+  },
+  "Iron-Thorns": {
+    "#": 995,
+    "Gamepress": "995",
+    "Bulbapedia": "Iron-Thorns",
+    "Serebii": "IronThorns",
+    "Smogon": "Iron-Thorns"
+  },
+  "Frigibax": {
+    "#": 996,
+    "Gamepress": "996",
+    "Bulbapedia": "Frigibax",
+    "Serebii": "Frigibax",
+    "Smogon": "Frigibax"
+  },
+  "Arctibax": {
+    "#": 997,
+    "Gamepress": "997",
+    "Bulbapedia": "Arctibax",
+    "Serebii": "Arctibax",
+    "Smogon": "Arctibax"
+  },
+  "Baxcalibur": {
+    "#": 998,
+    "Gamepress": "998",
+    "Bulbapedia": "Baxcalibur",
+    "Serebii": "Baxcalibur",
+    "Smogon": "Baxcalibur"
+  },
+  "Gimmighoul": {
+    "#": 999,
+    "Gamepress": "999-chest form",
+    "Bulbapedia": "Gimmighoul",
+    "Serebii": "Gimmighoul",
+    "Smogon": "Gimmighoul"
+  },
+  "Gholdengo": {
+    "#": 1000,
+    "Gamepress": "1000",
+    "Bulbapedia": "Gholdengo",
+    "Serebii": "Gholdengo",
+    "Smogon": "Gholdengo"
+  },
+  "Wo-Chien": {
+    "#": 1001,
+    "Gamepress": "1001",
+    "Bulbapedia": "Wo-Chien",
+    "Serebii": "Wo-Chien",
+    "Smogon": "Wo-Chien"
+  },
+  "Chien-Pao": {
+    "#": 1002,
+    "Gamepress": "1002",
+    "Bulbapedia": "Chien-Pao",
+    "Serebii": "Chien-Pao",
+    "Smogon": "Chien-Pao"
+  },
+  "Ting-Lu": {
+    "#": 1003,
+    "Gamepress": "1003",
+    "Bulbapedia": "Ting-Lu",
+    "Serebii": "Ting-Lu",
+    "Smogon": "Ting-Lu"
+  },
+  "Chi-Yu": {
+    "#": 1004,
+    "Gamepress": "1004",
+    "Bulbapedia": "Chi-Yu",
+    "Serebii": "Chi-Yu",
+    "Smogon": "Chi-Yu"
+  },
+  "Roaring-Moon": {
+    "#": 1005,
+    "Gamepress": "1005",
+    "Bulbapedia": "Roaring-Moon",
+    "Serebii": "RoaringMoon",
+    "Smogon": "Roaring-Moon"
+  },
+  "Iron-Valiant": {
+    "#": 1006,
+    "Gamepress": "1006",
+    "Bulbapedia": "Iron-Valiant",
+    "Serebii": "IronValiant",
+    "Smogon": "Iron-Valiant"
+  },
+  "Koraidon": {
+    "#": 1007,
+    "Gamepress": "1007",
+    "Bulbapedia": "Koraidon",
+    "Serebii": "Koraidon",
+    "Smogon": "Koraidon"
+  },
+  "Miraidon": {
+    "#": 1008,
+    "Gamepress": "1008",
+    "Bulbapedia": "Miraidon",
+    "Serebii": "Miraidon",
+    "Smogon": "Miraidon"
+  }
+}
