@@ -1283,7 +1283,7 @@
     "#": 122,
     "Gamepress": 122,
     "Bulbapedia": "Mr._Mime",
-    "Pokemon Database": "Mr._Mime",
+    "Pokemon Database": "mr-mime",
     "Serebii": "Mr.Mime",
     "Smogon": "Mr._Mime"
   },
@@ -1291,7 +1291,7 @@
     "#": 122,
     "Gamepress": "122-galarian",
     "Bulbapedia": "Mr._Mime",
-    "Pokemon Database": "Mr._Mime",
+    "Pokemon Database": "mr-mime",
     "Serebii": "Mr.Mime",
     "Smogon": "Mr._Mime-galar"
   },
@@ -1575,7 +1575,7 @@
     "Serebii": "Mewtwo",
     "Smogon": "Mewtwo"
   },
-  "MewtwoMega Mewtwo Y": {
+  "Mega Mewtwo Y": {
     "#": 150,
     "Gamepress": "150-megaY",
     "Bulbapedia": "Mewtwo",
@@ -4251,7 +4251,7 @@
     "#": 439,
     "Gamepress": 439,
     "Bulbapedia": "Mime_Jr.",
-    "Pokemon Database": "Mime_Jr.",
+    "Pokemon Database": "mime-jr",
     "Serebii": "MimeJr.",
     "Smogon": "Mime_Jr."
   },
@@ -8147,7 +8147,7 @@
     "#": 866, 
     "Gamepress": 866, 
     "Bulbapedia": "Mr._Rime",
-    "Pokemon Database": "Mr._Rime",
+    "Pokemon Database": "mr-rime",
     "Serebii": "Mr.Rime",
     "Smogon": "Mr._Rime" 
   },
