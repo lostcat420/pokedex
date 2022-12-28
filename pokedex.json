@@ -7635,10 +7635,10 @@
     "#": 711,
     "Gamepress": "711-small-size",
     "Bulbapedia": "Gourgeist",
-    "Showdown": "Gourgeist",
+    "Showdown": "Gourgeistsmall",
     "Pokemon Database": "Gourgeist",
     "Serebii": "Gourgeist",
-    "Smogon": "Gourgeist"
+    "Smogon": "Gourgeist-small"
   },
   "Gourgeist - Large Size": {
     "#": 711,
@@ -7647,7 +7647,7 @@
     "Showdown": "Gourgeist",
     "Pokemon Database": "Gourgeist",
     "Serebii": "Gourgeist",
-    "Smogon": "Gourgeist"
+    "Smogon": "Gourgeist-large"
   },
   "Gourgeist - Super Size": {
     "#": 711,
@@ -7656,7 +7656,7 @@
     "Showdown": "Gourgeist",
     "Pokemon Database": "Gourgeist",
     "Serebii": "Gourgeist",
-    "Smogon": "Gourgeist"
+    "Smogon": "Gourgeist-super"
   },
   "Bergmite": {
     "#": 712,
