@@ -3819,7 +3819,7 @@
     "#": 351,
     "Gamepress": "351-snowy",
     "Bulbapedia": "Castform",
-    "Showdown": "Castform",
+    "Showdown": "Castformsnowy",
     "Pokemon Database": "Castform",
     "Serebii": "Castform",
     "Smogon": "Castform"
@@ -3828,7 +3828,7 @@
     "#": 351,
     "Gamepress": "351-sunny",
     "Bulbapedia": "Castform",
-    "Showdown": "Castform",
+    "Showdown": "Castformsunny",
     "Pokemon Database": "Castform",
     "Serebii": "Castform",
     "Smogon": "Castform"
@@ -3837,7 +3837,7 @@
     "#": 351,
     "Gamepress": "351-rainy",
     "Bulbapedia": "Castform",
-    "Showdown": "Castform",
+    "Showdown": "Castformrainy",
     "Pokemon Database": "Castform",
     "Serebii": "Castform",
     "Smogon": "Castform"
@@ -4521,7 +4521,7 @@
     "#": 413,
     "Gamepress": "413-sandy",
     "Bulbapedia": "Wormadam",
-    "Showdown": "Wormadam",
+    "Showdown": "Wormadamsandy",
     "Pokemon Database": "Wormadam",
     "Serebii": "Wormadam",
     "Smogon": "Wormadam"
@@ -4530,7 +4530,7 @@
     "#": 413,
     "Gamepress": "413-trash",
     "Bulbapedia": "Wormadam",
-    "Showdown": "Wormadam",
+    "Showdown": "Wormadamtrash",
     "Pokemon Database": "Wormadam",
     "Serebii": "Wormadam",
     "Smogon": "Wormadam"
@@ -4611,7 +4611,7 @@
     "#": 421,
     "Gamepress": "421-sunshine",
     "Bulbapedia": "Cherrim",
-    "Showdown": "Cherrim",
+    "Showdown": "Cherrimsunshine",
     "Pokemon Database": "Cherrim",
     "Serebii": "Cherrim",
     "Smogon": "Cherrim"
@@ -5187,7 +5187,7 @@
     "#": 479,
     "Gamepress": "479-heat",
     "Bulbapedia": "Rotom",
-    "Showdown": "Rotom",
+    "Showdown": "Rotomheat",
     "Pokemon Database": "Rotom",
     "Serebii": "Rotom",
     "Smogon": "Rotom"
@@ -5196,7 +5196,7 @@
     "#": 479,
     "Gamepress": "479-wash",
     "Bulbapedia": "Rotom",
-    "Showdown": "Rotom",
+    "Showdown": "Rotomwash",
     "Pokemon Database": "Rotom",
     "Serebii": "Rotom",
     "Smogon": "Rotom"
@@ -5205,7 +5205,7 @@
     "#": 479,
     "Gamepress": "479-frost",
     "Bulbapedia": "Rotom",
-    "Showdown": "Rotom",
+    "Showdown": "Rotomfrost",
     "Pokemon Database": "Rotom",
     "Serebii": "Rotom",
     "Smogon": "Rotom"
@@ -5214,7 +5214,7 @@
     "#": 479,
     "Gamepress": "479-fan",
     "Bulbapedia": "Rotom",
-    "Showdown": "Rotom",
+    "Showdown": "Rotomfan",
     "Pokemon Database": "Rotom",
     "Serebii": "Rotom",
     "Smogon": "Rotom"
@@ -5223,7 +5223,7 @@
     "#": 479,
     "Gamepress": "479-mow",
     "Bulbapedia": "Rotom",
-    "Showdown": "Rotom",
+    "Showdown": "Rotommow",
     "Pokemon Database": "Rotom",
     "Serebii": "Rotom",
     "Smogon": "Rotom"
@@ -5264,11 +5264,29 @@
     "Serebii": "Dialga",
     "Smogon": "Dialga"
   },
+  "Dialga - Origin": {
+    "#": 483,
+    "Gamepress": "483-origin",
+    "Bulbapedia": "Dialga",
+    "Showdown": "Dialgaorigin",
+    "Pokemon Database": "Dialga",
+    "Serebii": "Dialga",
+    "Smogon": "Dialga"
+  },
   "Palkia": {
     "#": 484,
     "Gamepress": 484,
     "Bulbapedia": "Palkia",
     "Showdown": "Palkia",
+    "Pokemon Database": "Palkia",
+    "Serebii": "Palkia",
+    "Smogon": "Palkia"
+  },
+  "Palkia - Origin": {
+    "#": 484,
+    "Gamepress": "484-origin",
+    "Bulbapedia": "Palkia",
+    "Showdown": "Palkiaorigin",
     "Pokemon Database": "Palkia",
     "Serebii": "Palkia",
     "Smogon": "Palkia"
@@ -5304,7 +5322,7 @@
     "#": 487,
     "Gamepress": "487-origin",
     "Bulbapedia": "Giratina",
-    "Showdown": "Giratina",
+    "Showdown": "Giratinaorigin",
     "Pokemon Database": "Giratina",
     "Serebii": "Giratina",
     "Smogon": "Giratina"
@@ -5358,7 +5376,7 @@
     "#": 492,
     "Gamepress": "492-0",
     "Bulbapedia": "Shaymin",
-    "Showdown": "Shaymin",
+    "Showdown": "Shayminsky",
     "Pokemon Database": "Shaymin",
     "Serebii": "Shaymin",
     "Smogon": "Shaymin"
@@ -6825,7 +6843,7 @@
     "#": 641,
     "Gamepress": "641-therian",
     "Bulbapedia": "Tornadus",
-    "Showdown": "Tornadus",
+    "Showdown": "Tornadustherian",
     "Pokemon Database": "Tornadus",
     "Serebii": "Tornadus",
     "Smogon": "Tornadus"
@@ -6843,7 +6861,7 @@
     "#": 642,
     "Gamepress": "642-therian",
     "Bulbapedia": "Thundurus",
-    "Showdown": "Thundurus",
+    "Showdown": "Thundurustherian",
     "Pokemon Database": "Thundurus",
     "Serebii": "Thundurus",
     "Smogon": "Thundurus"
@@ -6870,7 +6888,7 @@
     "#": 645,
     "Gamepress": "645-incarnate",
     "Bulbapedia": "Landorus",
-    "Showdown": "Landorus",
+    "Showdown": "Landorustherian",
     "Pokemon Database": "Landorus",
     "Serebii": "Landorus",
     "Smogon": "Landorus"
@@ -6897,21 +6915,21 @@
     "#": 646,
     "Gamepress": "646-1",
     "Bulbapedia": "Kyurem",
-    "Showdown": "Kyurem",
+    "Showdown": "Kyuremblack",
     "Pokemon Database": "Kyurem",
     "Serebii": "Kyurem",
-    "Smogon": "Kyurem"
+    "Smogon": "Kyurem-black"
   },
   "Kyurem - White Kyurem": {
     "#": 646,
     "Gamepress": "646-2",
     "Bulbapedia": "Kyurem",
-    "Showdown": "Kyurem",
+    "Showdown": "Kyuremwhite",
     "Pokemon Database": "Kyurem",
     "Serebii": "Kyurem",
-    "Smogon": "Kyurem"
+    "Smogon": "Kyurem-white"
   },
-  "Kelde - Ordinary Forme": {
+  "Keldeo - Ordinary Forme": {
     "#": 647,
     "Gamepress": 647,
     "Bulbapedia": "Keldeo",
@@ -6924,7 +6942,7 @@
     "#": 647,
     "Gamepress": 647,
     "Bulbapedia": "Keldeo",
-    "Showdown": "Keldeo",
+    "Showdown": "Keldeoresolute",
     "Pokemon Database": "Keldeo",
     "Serebii": "Keldeo",
     "Smogon": "Keldeo"
@@ -6942,7 +6960,7 @@
     "#": 648,
     "Gamepress": "648-0",
     "Bulbapedia": "Meloetta",
-    "Showdown": "Meloetta",
+    "Showdown": "MeloettaPirouette",
     "Pokemon Database": "Meloetta",
     "Serebii": "Meloetta",
     "Smogon": "Meloetta"
@@ -6960,7 +6978,7 @@
     "#": 649,
     "Gamepress": "649-Burn",
     "Bulbapedia": "Genesect",
-    "Showdown": "Genesect",
+    "Showdown": "Genesectburn",
     "Pokemon Database": "Genesect",
     "Serebii": "Genesect",
     "Smogon": "Genesect-burn"
@@ -6969,7 +6987,7 @@
     "#": 649,
     "Gamepress": "649-Shock",
     "Bulbapedia": "Genesect",
-    "Showdown": "Genesect",
+    "Showdown": "Genesectshock",
     "Pokemon Database": "Genesect",
     "Serebii": "Genesect",
     "Smogon": "Genesect-shock"
@@ -6978,7 +6996,7 @@
     "#": 649,
     "Gamepress": "649-Douse",
     "Bulbapedia": "Genesect",
-    "Showdown": "Genesect",
+    "Showdown": "Genesectdouse",
     "Pokemon Database": "Genesect",
     "Serebii": "Genesect",
     "Smogon": "Genesect-douse"
@@ -6987,7 +7005,7 @@
     "#": 649,
     "Gamepress": "649-Chill",
     "Bulbapedia": "Genesect",
-    "Showdown": "Genesect",
+    "Showdown": "Genesectchill",
     "Pokemon Database": "Genesect",
     "Serebii": "Genesect",
     "Smogon": "Genesect-chill"
@@ -7284,7 +7302,7 @@
     "#": 681,
     "Gamepress": "681-blade",
     "Bulbapedia": "Aegislash",
-    "Showdown": "Aegislash",
+    "Showdown": "Aegislashblade",
     "Pokemon Database": "Aegislash",
     "Serebii": "Aegislash",
     "Smogon": "Aegislash"
@@ -7581,28 +7599,28 @@
     "#": 710,
     "Gamepress": "710-small-size",
     "Bulbapedia": "Pumpkaboo",
-    "Showdown": "Pumpkaboo",
+    "Showdown": "Pumpkaboosmall",
     "Pokemon Database": "Pumpkaboo",
     "Serebii": "Pumpkaboo",
-    "Smogon": "Pumpkaboo"
+    "Smogon": "Pumpkaboo-small"
   },
   "Pumpkaboo - Large Size": {
     "#": 710,
     "Gamepress": "710-large-size",
     "Bulbapedia": "Pumpkaboo",
-    "Showdown": "Pumpkaboo",
+    "Showdown": "Pumpkaboolarge",
     "Pokemon Database": "Pumpkaboo",
     "Serebii": "Pumpkaboo",
-    "Smogon": "Pumpkaboo"
+    "Smogon": "Pumpkaboo-large"
   },
   "Pumpkaboo - Super Size": {
     "#": 710,
     "Gamepress": "710-super-size",
     "Bulbapedia": "Pumpkaboo",
-    "Showdown": "Pumpkaboo",
+    "Showdown": "Pumpkaboosuper",
     "Pokemon Database": "Pumpkaboo",
     "Serebii": "Pumpkaboo",
-    "Smogon": "Pumpkaboo"
+    "Smogon": "Pumpkaboo-super"
   },
   "Gourgeist - Average Size": {
     "#": 711,
@@ -7707,7 +7725,7 @@
     "#": 718,
     "Gamepress": "718-10",
     "Bulbapedia": "Zygarde",
-    "Showdown": "Zygarde",
+    "Showdown": "Zygarde10",
     "Pokemon Database": "Zygarde",
     "Serebii": "Zygarde",
     "Smogon": "Zygarde-10"
@@ -7725,7 +7743,7 @@
     "#": 718,
     "Gamepress": "718-complete",
     "Bulbapedia": "Zygarde",
-    "Showdown": "Zygarde",
+    "Showdown": "Zygardecomplete",
     "Pokemon Database": "Zygarde",
     "Serebii": "Zygarde",
     "Smogon": "Zygarde"
@@ -7761,10 +7779,10 @@
     "#": "720-unbound",
     "Gamepress": "720-unbound",
     "Bulbapedia": "Hoopa",
-    "Showdown": "Hoopa",
+    "Showdown": "Hoopaunbound",
     "Pokemon Database": "Hoopa",
     "Serebii": "Hoopa",
-    "Smogon": "Hoopa"
+    "Smogon": "Hoopa-unbound"
   },
   "Volcanion": {
     "#": 721,
@@ -7968,7 +7986,7 @@
     "#": 741, 
     "Gamepress": "741-Pompom", 
     "Bulbapedia": "Oricorio",
-    "Showdown": "Oricorio",
+    "Showdown": "Oricoriopompom",
     "Pokemon Database": "Oricorio",
     "Serebii": "Oricorio",
     "Smogon": "Oricorio-Pom-pom" 
@@ -7977,7 +7995,7 @@
     "#": 741, 
     "Gamepress": "741-Pau", 
     "Bulbapedia": "Oricorio",
-    "Showdown": "Oricorio",
+    "Showdown": "Oricoriopau",
     "Pokemon Database": "Oricorio",
     "Serebii": "Oricorio",
     "Smogon": "Oricorio-Pau" 
@@ -7986,7 +8004,7 @@
     "#": 741, 
     "Gamepress": "741-Sensu", 
     "Bulbapedia": "Oricorio",
-    "Showdown": "Oricorio",
+    "Showdown": "Oricoriosensu",
     "Pokemon Database": "Oricorio",
     "Serebii": "Oricorio",
     "Smogon": "Oricorio-Sensu" 
@@ -8022,7 +8040,7 @@
     "#": 745, 
     "Gamepress": "745-midday", 
     "Bulbapedia": "Lycanroc",
-    "Showdown": "Lycanroc",
+    "Showdown": "Lycanrocmidnight",
     "Pokemon Database": "Lycanroc",
     "Serebii": "Lycanroc",
     "Smogon": "Lycanroc" 
@@ -8040,7 +8058,7 @@
     "#": 745, 
     "Gamepress": "745-dusk", 
     "Bulbapedia": "Lycanroc",
-    "Showdown": "Lycanroc",
+    "Showdown": "Lycanrocdusk",
     "Pokemon Database": "Lycanroc",
     "Serebii": "Lycanroc",
     "Smogon": "Lycanroc-dusk" 
@@ -8058,7 +8076,7 @@
     "#": 746, 
     "Gamepress": "746-0", 
     "Bulbapedia": "Wishiwashi",
-    "Showdown": "Wishiwashi",
+    "Showdown": "Wishiwashischool",
     "Pokemon Database": "Wishiwashi",
     "Serebii": "Wishiwashi",
     "Smogon": "Wishiwashi" 
@@ -8310,7 +8328,7 @@
     "#": 774, 
     "Gamepress": 774, 
     "Bulbapedia": "Minior",
-    "Showdown": "Minior",
+    "Showdown": "Miniormeteor",
     "Pokemon Database": "Minior",
     "Serebii": "Minior",
     "Smogon": "Minior" 
@@ -8562,28 +8580,28 @@
     "#": 800, 
     "Gamepress": "800-1", 
     "Bulbapedia": "Necrozma",
-    "Showdown": "Necrozma",
+    "Showdown": "Necrozmaduskmane",
     "Pokemon Database": "Necrozma",
     "Serebii": "Necrozma",
-    "Smogon": "Necrozma" 
+    "Smogon": "Necrozma-dusk-mane" 
   },
   "Necrozma - Dawn Wings": { 
     "#": 800, 
     "Gamepress": "800-2", 
     "Bulbapedia": "Necrozma",
-    "Showdown": "Necrozma",
+    "Showdown": "Necrozmadawnwings",
     "Pokemon Database": "Necrozma",
     "Serebii": "Necrozma",
-    "Smogon": "Necrozma" 
+    "Smogon": "Necrozma-dawn-wings" 
   },
   "Ultra Necrozma": { 
     "#": 800, 
     "Gamepress": "800-0", 
     "Bulbapedia": "Necrozma",
-    "Showdown": "Necrozma",
+    "Showdown": "Necrozmaultra",
     "Pokemon Database": "Necrozma",
     "Serebii": "Necrozma",
-    "Smogon": "Necrozma" 
+    "Smogon": "Necrozma-ultra" 
   },
   "Magearna": { 
     "#": 801, 
@@ -9264,7 +9282,7 @@
     "#": 875, 
     "Gamepress": "875-0", 
     "Bulbapedia": "Eiscue",
-    "Showdown": "Eiscue",
+    "Showdown": "Eiscuenoice",
     "Pokemon Database": "Eiscue",
     "Serebii": "Eiscue",
     "Smogon": "Eiscue" 
@@ -9282,7 +9300,7 @@
     "#": "876-female", 
     "Gamepress": "876-female", 
     "Bulbapedia": "Indeedee",
-    "Showdown": "Indeedee",
+    "Showdown": "Indeedeef",
     "Pokemon Database": "Indeedee",
     "Serebii": "Indeedee",
     "Smogon": "Indeedee" 
@@ -9399,7 +9417,7 @@
     "#": "888-Crowned", 
     "Gamepress": "888-Crowned", 
     "Bulbapedia": "Zacian",
-    "Showdown": "Zacian",
+    "Showdown": "Zaciancrowned",
     "Pokemon Database": "Zacian",
     "Serebii": "Zacian",
     "Smogon": "Zacian" 
@@ -9417,7 +9435,7 @@
     "#": "889-Crowned", 
     "Gamepress": "889-Crowned", 
     "Bulbapedia": "Zamazenta",
-    "Showdown": "Zamazenta",
+    "Showdown": "Zamazentacrowned",
     "Pokemon Database": "Zamazenta",
     "Serebii": "Zamazenta",
     "Smogon": "Zamazenta" 
@@ -9435,7 +9453,7 @@
     "#": 890, 
     "Gamepress": "890-0", 
     "Bulbapedia": "Eternatus",
-    "Showdown": "Eternatus",
+    "Showdown": "eternatuseternamax",
     "Pokemon Database": "Eternatus",
     "Serebii": "Eternatus",
     "Smogon": "Eternatus" 
@@ -9462,7 +9480,7 @@
     "#": 892, 
     "Gamepress": "892-0", 
     "Bulbapedia": "Urshifu",
-    "Showdown": "Urshifu",
+    "Showdown": "urshifurapidstrike",
     "Pokemon Database": "Urshifu",
     "Serebii": "Urshifu",
     "Smogon": "Urshifu" 
@@ -9525,7 +9543,7 @@
     "#": 898, 
     "Gamepress": "898-shadow-rider", 
     "Bulbapedia": "Calyrex",
-    "Showdown": "Calyrex",
+    "Showdown": "Calyrexshadow",
     "Pokemon Database": "Calyrex",
     "Serebii": "Calyrex",
     "Smogon": "Calyrex-shadow" 
@@ -9534,7 +9552,7 @@
     "#": 898, 
     "Gamepress": "898-ice-rider", 
     "Bulbapedia": "Calyrex",
-    "Showdown": "Calyrex",
+    "Showdown": "Calyrexice",
     "Pokemon Database": "Calyrex",
     "Serebii": "Calyrex",
     "Smogon": "Calyrex-ice" 
@@ -9593,11 +9611,20 @@
     "Serebii": "Overqwil",
     "Smogon": "Overqwil" 
   },
-  "Enamorus": { 
+  "Enamorus - Incarnate": { 
     "#": 905, 
     "Gamepress": "905", 
     "Bulbapedia": "Enamorus",
     "Showdown": "Enamorus",
+    "Pokemon Database": "Enamorus",
+    "Serebii": "Enamorus",
+    "Smogon": "Enamorus" 
+  },
+  "Enamorus - Therian": { 
+    "#": 905, 
+    "Gamepress": "905-therian", 
+    "Bulbapedia": "Enamorus",
+    "Showdown": "enamorustherian",
     "Pokemon Database": "Enamorus",
     "Serebii": "Enamorus",
     "Smogon": "Enamorus" 
@@ -9894,7 +9921,7 @@
     "#": 931,
     "Gamepress": "931-blue plumage",
     "Bulbapedia": "Squawkabilly",
-    "Showdown": "Squawkabilly",
+    "Showdown": "Squawkabillyblue",
     "Pokemon Database": "Squawkabilly",
     "Serebii": "Squawkabilly",
     "Smogon": "Squawkabilly"
@@ -9903,7 +9930,7 @@
     "#": 931,
     "Gamepress": "931-yellow plumage",
     "Bulbapedia": "Squawkabilly",
-    "Showdown": "Squawkabilly",
+    "Showdown": "Squawkabillyyellow",
     "Pokemon Database": "Squawkabilly",
     "Serebii": "Squawkabilly",
     "Smogon": "Squawkabilly"
@@ -9912,7 +9939,7 @@
     "#": 931,
     "Gamepress": "931-white plumage",
     "Bulbapedia": "Squawkabilly",
-    "Showdown": "Squawkabilly",
+    "Showdown": "Squawkabillywhite",
     "Pokemon Database": "Squawkabilly",
     "Serebii": "Squawkabilly",
     "Smogon": "Squawkabilly"
@@ -10214,11 +10241,11 @@
     "Serebii": "Palafin",
     "Smogon": "Palafin"
   },
-  "Palafin": {
+  "Palafin - Hero": {
     "#": 964,
     "Gamepress": "964-hero",
     "Bulbapedia": "Palafin",
-    "Showdown": "Palafin",
+    "Showdown": "Palafinhero",
     "Pokemon Database": "Palafin",
     "Serebii": "Palafin",
     "Smogon": "Palafin"
@@ -10529,11 +10556,20 @@
     "Serebii": "Baxcalibur",
     "Smogon": "Baxcalibur"
   },
-  "Gimmighoul": {
+  "Gimmighoul - Chest Form": {
     "#": 999,
-    "Gamepress": "999-chest form",
+    "Gamepress": "999-chest",
     "Bulbapedia": "Gimmighoul",
     "Showdown": "Gimmighoul",
+    "Pokemon Database": "Gimmighoul",
+    "Serebii": "Gimmighoul",
+    "Smogon": "Gimmighoul"
+  },
+  "Gimmighoul - Roaming Form": {
+    "#": 999,
+    "Gamepress": "999-roaming",
+    "Bulbapedia": "Gimmighoul",
+    "Showdown": "Gimmighoulroaming",
     "Pokemon Database": "Gimmighoul",
     "Serebii": "Gimmighoul",
     "Smogon": "Gimmighoul"
